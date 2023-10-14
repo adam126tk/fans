@@ -27,7 +27,7 @@
 {"name":"抖音",hosts":["douyin.com"],"regex":["is_play_url="]}],
 
 "sites":[
-{"key":"DB","name":"🌎豆瓣|公众号：乐享汇fans免费分享持续更新。搜集整理不易，劳烦大家一键三连多多支持","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://weixine.link:33/js/douban.js"},
+{"key":"DB","name":"🌎豆瓣|公众号：乐享汇fans免费分享持续更新","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://weixine.link:33/js/douban.js"},
 {"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"http://weixine.link:33/alibaba.jar"},
 {"key":"TX","name":"腾腾(官)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/tengxun.js"},
 {"key":"SG","name":"狗狗(官)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/caigou.js"},
