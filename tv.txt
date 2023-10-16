@@ -40,8 +40,8 @@
 {"key":"sohu","name":"狐狐(官)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"},
 
 {"key":"T4_wo","name":"玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"YT","name":"探探|4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
-{"key":"MM","name":"毛毛|4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
+{"key":"YT","name":"探探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
+{"key":"MM","name":"毛毛┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
 {"key":"ZY","name":"追追┃4K","type":3,"api":"csp_Appto","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"SgfqwZ7mXT9kHnNF5fEfBFRfJVGiy4+WwnapqG/NY3BxdbcjxuSmnXN/KMdKfEmAbW86nRfRRsx8wG3JuaVRwKtFGrTNs9GKFMjzDysgVx+vXROKpT7GgFNl6mjK8KYx2Cd9N8wv9vOboEhX87E2+ckvZL2uDPkYk9cW+IePzeeW7N1VrtZGAJ5s8cnPumrviNowWKczX9/9g3IUgNAchFGWS8MIHy2LHJ/Jj1upM3boVaFchNX3fkkXpdfPjIHoRSgjQ3AkFnS7tcqEno/ZHQexTvGGwDN760tqsJnQiOJgr6wl3DaOAZpfS75U+i5cpvHkX9cYjCMp7Q33fl5FhFiMZruipNxP3ujfF1Y2sKhANvz+fycqBzvJr5ogkLc1sPDw+St4uFsGkDnmAraX0zPzwwggknimRXeudT7TZz1fk8Pfuh1acXEju5g8H6XPzbsi8KcJskusAiIoPiu86apOh6wNcWuD13IDIfs0RXSn+AkD6ELJFa+hPa1UZ8BddfI0Cd+LV15gKaZg0eiKs9n4t8rasm6x4KpP/XBwYR/kzMIS6aYri42R37koBsuHChJkOdsaRjS0+xUNTuIN8aM9QOWBK4fmoU1f4qYW3Nf/sdICVIh0FflXgHO0NgfE9tenAPWDCtxZia8eo3C4JcR43a7wRgJf3HyA6zcIh7eOs74eDoak9b1wU82+EHNhec3XrkfzSoSpqUzqz2NMtPYe8RU+lRXAiS6xGU8Uq7fYBzLiw/LfCnfoMXPbsQuwGCCy5348lrN3MqK1v/WMxHY2/7iGEDgHZAs/YJ+0Visz0mULi4bau8BJ9z/VYTZ9O67XWYSpZTvMA55rIDee9OwMGqqgRFVYE4xiiSj8JYVHT0WwxSYkcZes5qBL3h6hcCWUZoUXoY3rvNkdweATQ/nvnD5+Z6hvX6eNP4yUJWvB4CwqCI5htdXwTFQH6sdJWOLVK+oQiicDS8Non9FbFfgI6dGG+W5p5reMIfFExV+MdpOs5QWqVaw8tMPEMqKnG","jar":"./jar/spider备用.jar"},
 
 {"key":"电影港","name":"DYG磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.link:33/sub/dyg.json"},
@@ -77,18 +77,17 @@
 
 
 #云盘
-{"key":"毛毛","name":"毛毛|🍭","type": 3,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
-{"key":"七夜","name":"七夜|🍭","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
-{"key":"云搜","name":"云搜|🍭","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
-{"key":"易搜","name":"易搜|🍭","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
-{"key":"盘搜","name":"盘搜|🍭","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
-
-{"key":"纸条","name": "纸条|🍭","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"http://weixine.link:33/ali.jar"},
-{"key":"阿里云盘","name": "云盘|🍭","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"http://weixine.link:33/ali.jar"},
-{"key":"找资源","name": "找资源|🍭","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "null$$$yunshuche$$$11223344","jar":"http://weixine.link:33/ali.jar"},
-{"key":"网盘搜索","name": "网盘|🍭","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 0,"jar":"http://weixine.link:33/ali.jar"},
-{"key":"我的小站","name":"小站|🍭","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.link:33/sub/xiaozhan.json"},
-{"key":"云盘分享","name":"云盘|🍭","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.link:33/sub/yunpanfenxiang.json"},
+{"key":"毛毛","name":"毛毛┃🍭","type": 3,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
+{"key":"七夜","name":"七夜┃🍭","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
+{"key":"云搜","name":"云搜┃🍭","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
+{"key":"易搜","name":"易搜┃🍭","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
+{"key":"盘搜","name":"盘搜┃🍭","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
+{"key":"纸条","name": "纸条┃🍭","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"http://weixine.link:33/ali.jar"},
+{"key":"阿里云盘","name": "云盘┃🍭","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"http://weixine.link:33/ali.jar"},
+{"key":"找资源","name": "找资源┃🍭","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "null$$$yunshuche$$$11223344","jar":"http://weixine.link:33/ali.jar"},
+{"key":"网盘搜索","name": "网盘┃🍭","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 0,"jar":"http://weixine.link:33/ali.jar"},
+{"key":"我的小站","name":"小站┃🍭","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.link:33/sub/xiaozhan.json"},
+{"key":"云盘分享","name":"云盘┃🍭","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.link:33/sub/yunpanfenxiang.json"},
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0"},
 {"key":"LR","name":"数据来源于互联网｜LR","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
 ],
