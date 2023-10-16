@@ -71,7 +71,7 @@
 
 {"key":"伊人","name":"伊人
 |4K","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+3/"},
-{"key":"MINO","name":"米诺|4K","type":3,"api":"csp_Appto","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
+{"key":"MINO","name":"米诺|4K","type":3,"api":"csp_Appto","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJBcHBUbyIsImlhdCI6MTY5NzQ2NTY1OCwiZXhwIjoxNzI5MDAxNjU4LCJuYmYiOjE2OTc0NjU2NTgsInN1YiI6IkFwcFRvIiwianRpIjoiOGM5MWZkYjUwNDYwNmM1NDFiNDg3YmMxZTQxM2Y5ZDMiLCJkYXRhIjp7InVzZXJfaWQiOjIyNTcwLCJ1c2VyX2NoZWNrIjoiZmMyZGQxYTk3MmRmNTZkYjk1M2Y1ZmZkODEzM2FlYWIiLCJ1c2VyX25hbWUiOiJ5aW5nc2hpY2hlIn19.L0EHYLEPZfnhN0-Dk7wc2VyI0L__nsNA_mOOIHtGtFc=","jar":"./jar/spider备用.jar"},
 {"key":"RJM","name":"猫猫|4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.aaaa0.top:2525/api.php/app/"},
 {"key":"ML","name":"驴驴|4K","api":"csp_Maolv","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/","jar":"./jar/fm.jar"},
 
