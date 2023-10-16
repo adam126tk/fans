@@ -37,7 +37,6 @@
 {"key":"YK","name":"优优(官)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/youku.js"},
 {"key":"MG","name":"果果(官)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/mangguo.js"},
 {"key":"sohu","name":"狐狐(官)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"},
-{"key":"bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"style":{"type":"rect","ratio":1.597},"ext":{"json":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/哔哩哔哩.json","cookie":"http://127.0.0.1:9978/file/TVBox/bili.txt"},"jar":"./jar/928.jar"},
 
 {"key":"T4_wo","name":"玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"YT","name":"探探|4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
@@ -57,6 +56,7 @@
 {"key":"6V磁力","name":"6V磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/6v.json"},
 {"key":"电影港","name":"DYG磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/dyg.json"},
 {"key":"4KHDR","name":"HDR磁┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/4KHDR.json"},
+{"key":"bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"style":{"type":"rect","ratio":1.597},"ext":{"json":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/哔哩哔哩.json","cookie":"http://127.0.0.1:9978/file/TVBox/bili.txt"},"jar":"./jar/928.jar"},
 
 {"key":"新视觉","name":"新视觉","type":3,"api":"./JS/drpy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/新视觉.js"},
 {"key":"360","name":"360(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
