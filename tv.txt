@@ -44,7 +44,7 @@
 {"key":"YT","name":"探探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
     {
       "key": "探探",
-      "name": "🏵影探┃4K",
+      "name": "影探┃4K",
       "type": 3,
       "playerType": "1",
       "api": "csp_YTVIP",
