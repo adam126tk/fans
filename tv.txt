@@ -223,8 +223,8 @@
      "ext":{"danmu": true}
     },
     {
-     "key":"热剧猫",
-     "name":"热剧猫",
+     "key":"RJM",
+     "name":"乐乐",
      "type":3,
      "api":"csp_AppYsV2",
      "searchable":1,
