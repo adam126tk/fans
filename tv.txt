@@ -38,8 +38,6 @@
 {"key":"YK","name":"优优(官)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/youku.js"},
 {"key":"MG","name":"果果(官)","type":3,"api":"http://weixine.link:33/js/lib/drpy2.min.js","ext":"http://weixine.link:33/js/mangguo.js"},
 {"key":"sohu","name":"狐狐(官)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"parse:并发"},
-{"key":"速映影视","name":"🚛速映┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://weixine.link:33/sub/suying.json"},
-{"key":"追忆影院","name":"🚛追忆┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.alovo.cn/api.php/app/"},
 
 {"key":"csp_WoGG","name": "玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://weixine.link:33/ali.jar"},
 {"key":"T4_wo","name":"玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482","searchable":1,"quickSearch":1,"filterable":1},
