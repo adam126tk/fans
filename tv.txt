@@ -175,7 +175,7 @@
     },
     {
       "key": "ML",
-      "name": "毛驴┃4K",
+      "name": "驴驴┃4K",
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
