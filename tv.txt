@@ -223,14 +223,14 @@
      "ext":{"danmu": true}
     },
     {
-     "key":"LELE",
-     "name":"乐乐",
-     "type": 3,
-     "api": "csp_Hdhive",
-     "searchable": 1,
-     "quickSearch": 1,
+     "key":"热剧猫",
+     "name":"热剧猫",
+     "type":3,
+     "api":"csp_AppYsV2",
+     "searchable":1,
+     "quickSearch":1,
      "filterable":1,
-     "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"
+     "ext":"http://v.aaaa0.top:2525/api.php/app/"
      },
 
 #云盘
