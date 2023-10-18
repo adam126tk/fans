@@ -209,7 +209,7 @@
     }, 
     {
       "key":"4KHDR",
-      "name":"🚛HDR磁┃4K",
+      "name":"HDR磁┃4K",
       "type":3,
       "api":"csp_XYQHikerAL",
       "searchable":1,
