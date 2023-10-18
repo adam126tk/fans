@@ -262,16 +262,6 @@
         {"name":"宇宙","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
         {"name":"光速","type":0,"url":"https://www.gszyv.com/m3u8/?url="},
         {"name":"量子","type":0,"url":"https://lziplayer.com/?url="},
-      {
-      "name": "神秘的哥哥们",
-      "type": 1,
-      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
-      },
-      {
-      "name": "解析",
-      "type": 1,
-      "url": "https://jx.zhanlangbu.com/?url="
-      },
 
 {"name": "最优","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 {"name":"优爱腾","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["youku","YouKu","优酷","优酷视频","iqiyi","IQiYi","qiyi","爱奇艺","奇艺","奇艺视频","qq","腾讯","企鹅","腾讯视频","bilibili","哔哩","哔哩哔哩","letv","leshi","LS","乐视视频","pptv","PPTV","sohu","SoHu","搜狐","搜狐视频"]}},
