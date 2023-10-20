@@ -223,6 +223,16 @@
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     }, 
     { 
+      "key": "csp_xpath_yinfans", 
+      "name": "范范┃4K", 
+      "type": 3, 
+      "api": "csp_XPath", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"
+    }, 
+    { 
       "key": "csp_XYQHikerlg4k", 
       "name": "云盘┃4K", 
       "type": 3, 
@@ -243,16 +253,6 @@
       "filterable": 1, 
       "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json",
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
-    }, 
-    { 
-      "key": "csp_xpath_yinfans", 
-      "name": "范范┃4K", 
-      "type": 3, 
-      "api": "csp_XPath", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1, 
-      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"
     },  
     {
             "key": "索尼",
@@ -393,7 +393,7 @@
     },  
     {
      "key":"JOJO",
-     "name":"俊俊",
+     "name":"俊俊┃蓝光",
      "type":3,"jar":"./jar/1013.jar",
      "api": "csp_Jiohub",
      "searchable":1,
@@ -403,7 +403,7 @@
     },
     {
      "key":"RJM",
-     "name":"乐乐",
+     "name":"乐乐┃蓝光",
      "type":3,
      "api":"csp_AppYsV2",
      "searchable":1,
