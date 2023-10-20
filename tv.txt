@@ -124,7 +124,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"http://ytcms.lfytv.cn/api.php/app/"
+     "ext":"http://ytcms.lyyytv.cn/api.php/app/"
     },
     {
       "key": "探探",
@@ -136,7 +136,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "ext": "vip.lfytv.cn"
+      "ext": "vip.lyyytv.cn"
     },
     {
       "key": "Mino",
