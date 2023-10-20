@@ -211,16 +211,81 @@
      "quickSearch":1,
      "changeable":1,     "ext":"XRZspkas5l6NsZJWpEURh6BqKRxqCIw3QY+Bj3/9Gbahdt/I/fP2xq6LIBnrWE8xh45v/vHcmXllR1G9Po2b5t7Z8VyUowvfHsXJA/bkW7XAzegsRcxq8ZqYgUtJTGeh4UtuRrbaaKK5cL96vwgHLQ9hOn8jppN5pZgJ3ZsWQuocwI45MZOaQqi7aNyJmi0PxTt07Djk0kqVoxoHrNGjT2BH7H4K65HXLRMWhyrWswhbnSciFfwjen91iAeJaMuwqQEWSRhShJWb6WTtjXghM8JBksS0432c31evYyFEEq5yiCHTpSm35nFsLmwiI2Q0F20FTMvOA8xIKqGyazVjCVUN3gc0LDqnLWBLFdxsJHh6asndaxPCn7UitiRVuW0Ans3FzhINr5QayshrUtqJHan9h7ItRlx8XkvCh83eWkuRoGBiPC4X/mcbrawRwOM04jIRiRhJl9Dit+b5Rw35Ugvd8qzARtaLkecNFS54zX1UfVJecKBrqSyl0dx8pk2EyG1vZZ0NnnZ2JMuBvywc0gxO45mAnyMM46+igcv76u4DkqA0wFVKHtLXu5TNbOZOfLnnMChe0PdbnQva25mMHgtHYHfZbYlldh6fPdMOidoaiyg+Yd/n1xgoo16k9zclT+ioH6OBrsKG2GYlFVFxLI4bwm+v6zk237jlWXg5bj4Q=","jar":"./jar/spider备用.jar"
     }, 
+    { 
+      "key": "csp_XYQHikerlg4k", 
+      "name": "💋云盘┃4K", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/4KHDR.json",
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+    }, 
+    { 
+      "key": "csp_XYQHiker4klg", 
+      "name": "💅🏻原盘┃4K", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json",
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+    }, 
     {
-      "key":"4KHDR",
-      "name":"HDR磁┃4K",
+      "key":"csp_yt",
+      "name":"🥳YT4K",
       "type":3,
-      "api":"csp_XYQHikerAL",
+      "api":"csp_AppYsV2",
+      "m3u8ads": "hd.youyhn.com",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"http://weixine.link:33/sub/4KHDR.json"
+      "ext":"https://www.lfytv.cn/api.php/app/"
+    }, 
+    { 
+      "key": "csp_饭团", 
+      "name": "🦄饭团┃4K", 
+      "type": 3, 
+      "api": "csp_XBPQ", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E9%A5%AD%E5%9B%A2.json"
+    }, 
+    { 
+      "key": "csp_dbg", 
+      "name": "👺量子┃4K", 
+      "type": 3, 
+      "api":"csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%BD%B1%E9%99%A2.json",
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
+    { 
+      "key": "csp_XYQHiker_‍dyx", 
+      "name": "🚢电影磁力┃4K", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+    }, 
+    { 
+      "key": "csp_xpath_yinfans", 
+      "name": "范范┃4K", 
+      "type": 3, 
+      "api": "csp_XPath", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"
+    },  
     {
             "key": "索尼",
             "name": "🌍VIP专享2K",
