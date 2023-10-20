@@ -290,7 +290,7 @@
     },
     {
       "key": "49zy",
-      "name": "🎞VIP专享-1080P",
+      "name": "🎞VIP专享┃蓝光",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -333,6 +333,74 @@
         "海外剧"
       ]
     },
+    {
+      "key": "cjzy_快看",
+      "name": "快看┃蓝光",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+      "playUrl": "",
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "国产动漫",
+        "日韩剧",
+        "欧美剧",
+        "海外剧",
+        "动作片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "奇幻片",
+        "战争片",
+        "犯罪片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "冒险片"
+      ]
+    },
+    { 
+       "key": "csp_AppMr",
+       "name": "明明┃蓝光",
+       "type": 3,
+       "api": "csp_AppMr",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5;FE290599BF2EF6D202B92B9B733F776F"
+    },
+    { 
+      "key": "狐狸", 
+      "name": "🦊狐狸蓝光", 
+      "type": 3, 
+      "api": "csp_AppYsV2", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "https://www.kuin.one/api.php/app/" 
+    }, 
+    {
+      "key":"csp_MeiJu69",
+      "name":"🗽69美剧",
+      "api":"csp_AppYsV2",
+      "type":3,
+      "filterable":1,
+      "quickSearch":1,
+      "searchable":1,
+      "ext":"https://www.69mj.com/xgapp.php/v2/"
+    },
+    {
+      "key":"csp_Lgyy",
+      "name":"🌀蓝光直连",
+      "type":3,
+      "api":"csp_Lgyy",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://www.lgyy.vip"
+    },   
     {
      "key":"JOJO",
      "name":"俊俊",
