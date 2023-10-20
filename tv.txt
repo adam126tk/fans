@@ -224,7 +224,7 @@
     }, 
     { 
       "key": "csp_XYQHikerlg4k", 
-      "name": "💋云盘┃4K", 
+      "name": "云盘┃4K", 
       "type": 3, 
       "api": "csp_XYQHiker", 
       "searchable": 1, 
@@ -235,7 +235,7 @@
     }, 
     { 
       "key": "csp_XYQHiker4klg", 
-      "name": "💅🏻原盘┃4K", 
+      "name": "原盘┃4K", 
       "type": 3, 
       "api": "csp_XYQHiker", 
       "searchable": 1, 
