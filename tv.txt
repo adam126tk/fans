@@ -148,6 +148,15 @@
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
     },
+    {"key":"YN",
+     "name":"一念┃4K",
+     "type":3,
+     "api":"csp_AppYsV2",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "ext":"http://220.167.103.201:3298/appto/v1/vod"
+    },
     {"key":"Mm",
      "name":"毛毛┃4K",
      "type":3,
