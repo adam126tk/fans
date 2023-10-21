@@ -155,7 +155,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"http://220.167.103.201:3298/appto/v1"
+     "ext":"http://220.167.103.201:3298/api.php/app"
     },
     {"key":"Mm",
      "name":"毛毛┃4K",
