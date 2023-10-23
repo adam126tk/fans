@@ -8,8 +8,7 @@
       "name": "live",		    
       "type": 0,		   
       "url": "http://vip.weixine.link:88/tv/ysclive.txt",		   
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",                    
-      "logo": "https://epg.112114.xyz/logo/{name}.png"	    
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",                    	    
       }
       ],
 "sites":[
