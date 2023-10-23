@@ -33,7 +33,7 @@
      "searchable":1,
      "filterable": 0, 
      "changeable":0,
-     "jar":"http://weixine.link:33/alibaba.jar"
+     "jar":"http://vip.weixine.link:88/alibaba.jar"
     },
     {
      "key":"TX",
@@ -46,29 +46,29 @@
      "key":"SG",
      "name":"狗狗(官)",
      "type":3,
-     "api":"http://weixine.link:33/js/lib/drpy2.min.js",
-     "ext":"http://weixine.link:33/js/caigou.js"
+     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
+     "ext":"http://vip.weixine.link:88/caigou.js"
     },
     {
      "key":"IQY",
      "name":"爱爱(官)",
      "type":3,
-     "api":"http://weixine.link:33/js/lib/drpy2.min.js",
-     "ext":"http://weixine.link:33/js/aiqiyi.js"
+     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
+     "ext":"http://vip.weixine.link:88/aiqiyi.js"
     },
     {
      "key":"YK",
      "name":"优优(官)",
      "type":3,
-     "api":"http://weixine.link:33/js/lib/drpy2.min.js",
-     "ext":"http://weixine.link:33/js/youku.js"
+     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
+     "ext":"http://vip.weixine.link:88/js/youku.js"
     },
     {
      "key":"MG",
      "name":"果果(官)",
      "type":3,
-     "api":"http://weixine.link:33/js/lib/drpy2.min.js",
-     "ext":"http://weixine.link:33/js/mangguo.js"
+     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
+     "ext":"http://vip.weixine.link:88/js/mangguo.js"
     },
     {
      "key":"sohu",
@@ -87,7 +87,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar":"http://weixine.link:33/ali.jar"
+      "jar":"http://vip.weixine.link:88/ali.jar"
     },
     {
      "key":"T4_wo",
