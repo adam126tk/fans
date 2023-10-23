@@ -162,12 +162,11 @@
       "key": "ML",
       "name": "YSC┃4K",
       "type": 3,
-      "api": "csp_MLYS",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://svip.weixine.net:88/ysc.json",
-      "jar": "http://svip.weixine.net:88/YSC.jar;md5;46ebca59522b2f8d94f9992caf4082c4"
+      "ext": "http://svip.weixine.net:88/api/v1.vod",
     },
     {
       "key": "Yiren",
