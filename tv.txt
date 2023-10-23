@@ -158,16 +158,6 @@
       "changeable": 1,
       "ext": "https://www.maolvys.com/"
     },
-      {
-      "key": "ML",
-      "name": "YSC┃4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://svip.weixine.net:88/api/v1.vod",
-    },
     {
       "key": "Yiren",
       "name": "伊人┃4K",
