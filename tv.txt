@@ -2,8 +2,7 @@
 //公众号：『乐享汇fans』『乐享生活fans』
 //QQ频道：『乐享汇fans』     QQ群：621886232     630383903
 {	
-  "spider": "http://vip.weixine.link:88/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",	
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",	
+  "spider": "http://vip.weixine.link:88/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",		
   "lives": [
     {		   
       "name": "live",		    
