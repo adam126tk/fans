@@ -198,9 +198,8 @@
       "api": "csp_Appto",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,      
-      "ext":"http://150.138.81.147:2583/appto/v1",    
-      "jar":"./jar/YSC.jar"
+      "filterable":1,    
+      "ext":"http://150.138.81.147:2583/appto/v1"
     },
     {
      "key":"TOTO",
