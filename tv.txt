@@ -125,6 +125,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "playerType": 2, 
       "ext": "LnrX8L/siI4zccP4Qwyd3lwxD6MyYhT76IAOJuIxZRLilqJq5fTxB8NjKYXDcYQ5as3m2TGzzPbpaFJEWApeY7AjM99qSQ1NOuRJ/Bj/6//KxlX5HiGfYJXO8PM34LHy1XtNgCcNgWDO7j6zLOrjoFQHTQijykZOSok/X4PPAJVviFWrRa9esDgmYEmD5qS8TbDXkJ7LHxKVa0CiB91es8qT0FHs1bUza2F+tayKxqUxk/SPnNfXEupHtsPWeSCxLBxkcPzizwsMmy89bqX81L7SUC5pofs4FxIJ4FKMl78="
     },
     {
