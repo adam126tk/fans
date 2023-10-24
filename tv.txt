@@ -121,7 +121,7 @@
       "key": "JM",
       "name": "热剧┃4K",
       "type": 3,
-      "api": "csp_AppJm",
+      "api": "http://150.138.81.147:2583/appto/v1",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
