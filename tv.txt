@@ -222,6 +222,8 @@
       "timeout": 30,
       "ext": "vip.lyyytv.cn"
     },
+
+{"key": "csp_AppYsV2_大鹏","name": "🍳大鹏┃TV","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
     { 
       "key": "csp_XYQHiker_‍dyx", 
       "name": "磁力┃4K", 
