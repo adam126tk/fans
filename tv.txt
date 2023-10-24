@@ -423,7 +423,7 @@
 "parses":[
 {"name": "解析聚合","type": 3,"url": "Demo"}, 
 {"name":"Json轮询","type":2,"url":"Sequence"},
-        {"name":"影视车","type":1,"url":"wGCJ3nPbGgj3u2hLYDarQvSYrkN3prWI2PqOWhSKEyDY1UaPlAKh8eJULLYTdQIain3VJY0%2Fm7suNRkTt1EkZ0aQc02CgSGsn9Y7yAjGqUjo2R1RVv2JfQlyO%2B1OyTG8D4FIVmqwFgScQqVo%2BTWZ71hflrmkcRoDALWXGQ%2BF%2B1P3ulfvbxQ4850M%2BEm1Mbdy"}
+        {"name":"影视车","type":1,"url":"wGCJ3nPbGgj3u2hLYDarQvSYrkN3prWI2PqOWhSKEyDY1UaPlAKh8eJULLYTdQIain3VJY0%2Fm7suNRkTt1EkZ0aQc02CgSGsn9Y7yAjGqUjo2R1RVv2JfQlyO%2B1OyTG8D4FIVmqwFgScQqVo%2BTWZ71hflrmkcRoDALWXGQ%2BF%2B1P3ulfvbxQ4850M%2BEm1Mbdy"},
         {"name":"乐乐","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
         {"name":"毛毛","type":1,"url":"http://jx.daenys.vip:2587/tjxdsg.php?url="},
         {"name":"奇奇","type":1,"url":"https://jx.xn--2qux23cmstnvb.com/api/?key=kqbMl0BF9i7sdLCKtr&url="},
