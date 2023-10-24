@@ -99,7 +99,7 @@
      "filterable":1
     },
     {"key": "csp_XBPQ_6V",
-     "name": "宝盒┃4K",
+     "name": "宝宝┃4K",
      "type": 3,
      "api": "csp_XBPQ",
      "searchable": 1,
@@ -109,7 +109,7 @@
     },
     {
       "key": "Mino",
-      "name": "米诺┃4K",
+      "name": "诺诺┃4K",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -119,7 +119,7 @@
     },
     {
       "key": "剧猫",
-      "name": "剧猫┃4K",
+      "name": "剧剧┃4K",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
