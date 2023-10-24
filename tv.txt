@@ -202,6 +202,16 @@
       "ext":"http://150.138.81.147:2583/appto/v1"
     },
     {
+      "key": "Yinian",
+      "name": "念念┃4K",
+      "type": 3,
+      "api": "csp_Appto",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable":1,    
+      "ext":"http://220.167.103.192:8520/appto/v1"
+    },
+    {
      "key":"TOTO",
      "name":"图图┃4K",
      "type":3,
