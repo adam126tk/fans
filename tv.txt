@@ -193,7 +193,7 @@
     }, 
     {
       "key": "Yiren",
-      "name": "伊人┃4K",
+      "name": "伊伊┃4K",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -211,7 +211,7 @@
     },
     {
      "key":"YT",
-     "name":"探探┃4K",
+     "name":"影影┃4K",
      "type":3,
      "api":"csp_AppYsV2",
      "searchable":1,
@@ -221,7 +221,7 @@
     },
     {
       "key": "探探",
-      "name": "影探┃4K",
+      "name": "探探┃4K",
       "type": 3,
       "playerType": "1",
       "api": "csp_YTVIP",
@@ -393,7 +393,7 @@
     },
     { 
       "key": "狐狸", 
-      "name": "狐狸┃蓝光", 
+      "name": "狸狸┃蓝光", 
       "type": 3, 
       "api": "csp_AppYsV2", 
       "searchable": 1, 
