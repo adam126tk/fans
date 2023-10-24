@@ -1,9 +1,9 @@
-{//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供个人交流学习使用，请勿用于商业违法用途]
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供个人交流学习使用，请勿用于商业违法用途]
 //公众号：『乐享汇fans』『乐享生活fans』
 //QQ频道：『乐享汇fans』     QQ群：621886232     630383903
  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8f8f0f3cb3d1c025746ffb35b22748a5",
 "wallpaper":"https://api.likepoems.com/img/bing",
-"warningText":"lxhfans:接口为公益接口,切勿上当受骗!",
+"warningText":"lxhfans温馨提醒：每次打开app记得长按主页刷新接口",
   "lives": [
     {
       "name": "直播",
