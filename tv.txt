@@ -3,7 +3,7 @@
 //QQ频道：『乐享汇fans』     QQ群：621886232     630383903
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8f8f0f3cb3d1c025746ffb35b22748a5",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "warningText":"lxhfans:接口为公益接口,切勿上当受骗!",
+  "warningText":"lxhfans: 每次打开app记得长按主页刷新接口",
   "lives": [
     {
       "name": "直播",
