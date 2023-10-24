@@ -39,8 +39,8 @@
      "key":"TX",
      "name":"腾腾(官)",
      "type":3,
-     "api":"http://weixine.link:33/js/lib/drpy2.min.js",
-     "ext":"http://weixine.link:33/js/tengxun.js"
+     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
+     "ext":"http://vip.weixine.link:88/js/tengxun.js"
     },
     {
      "key":"SG",
