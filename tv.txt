@@ -137,29 +137,7 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
     },
-    {
-     "key":"YT",
-     "name":"探探┃4K",
-     "type":3,
-     "api":"csp_AppYsV2",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "ext":"http://ytcms.lyyytv.cn/api.php/app/"
-    },
-    {
-      "key": "探探",
-      "name": "影探┃4K",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30,
-      "ext": "vip.lyyytv.cn"
-    },
-     {"key":"Mm",
+    {"key":"Mm",
      "name":"毛毛┃4K",
      "type":3,
      "api":"csp_AppYsV2",
@@ -168,7 +146,7 @@
      "filterable":1,
      "ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
-     {
+    {
       "key": "ML",
       "name": "驴驴┃4K",
       "type": 3,
@@ -230,6 +208,28 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,    "ext":"pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv","jar":"./jar/spider备用.jar"
+    },
+    {
+     "key":"YT",
+     "name":"探探┃4K",
+     "type":3,
+     "api":"csp_AppYsV2",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "ext":"http://ytcms.lyyytv.cn/api.php/app/"
+    },
+    {
+      "key": "探探",
+      "name": "影探┃4K",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "ext": "vip.lyyytv.cn"
     },
     { 
       "key": "csp_XYQHiker_‍dyx", 
