@@ -466,13 +466,31 @@
     },
 #云盘
 
-{
-  "key":"云搜","name":"云搜┃🍭","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"
-},
-{ 
-  "key":"易搜","name":"易搜┃🍭","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"
-},
-{
+   {
+      "key":"云搜",
+      "name":"云搜┃🍭",
+      "type":3,
+      "api":"csp_UpYun",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/fm.jar"
+    },
+    { 
+      "key":"易搜",
+      "name":"易搜┃🍭",
+      "type":3,
+      "api":"csp_YiSo",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/fm.jar"
+    },
+    {
       "key": "PanSou",
       "name": "盘搜┃🍭",
       "type": 3,
@@ -480,15 +498,32 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"
-},
-{
-  "key":"七夜","name":"七夜┃🍭","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"
-},
-{
-  "key":"纸条","name":"纸条┃🍭","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"
-},  
-{
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/fm.jar"
+    },
+    {
+      "key":"七夜",
+      "name":"七夜┃🍭",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable":1,
+      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/fm.jar"
+    },
+    {
+      "key":"纸条",
+      "name":"纸条┃🍭",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/fm.jar"
+    },  
+    {
       "key": "Zhaozy",
       "name": "资源┃🍭",
       "type": 3,
@@ -496,9 +531,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"
-},
-{"key":"LR","name":"🌎数据来源于互联网|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
+      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/fm.jar"
+    },
+    {"key":"LR","name":"🌎数据来源于互联网|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
 ],
 
 "parses":[
