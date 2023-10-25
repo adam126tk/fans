@@ -365,8 +365,28 @@
        "filterable": 1,
        "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5;FE290599BF2EF6D202B92B9B733F776F"
     },
-    {"key":"笑笑影视","name":"🚛笑笑┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.weixine.link:88/sub/xiaoxiao.json"},
-{"key":"乐猪影视","name":"🚛乐猪┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.weixine.link:88/sub/lezhu.json"},
+    {"key":"笑笑影视","name":"笑笑┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.weixine.link:88/sub/xiaoxiao.json"},
+    { 
+      "key": "狐狸", 
+      "name": "狸狸┃蓝光", 
+      "type": 3, 
+      "api": "csp_AppYsV2", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "https://www.kuin.one/api.php/app/" 
+    }, 
+    {
+      "key": "zxzj",
+      "name": "线线┃蓝光",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/"
+    },
+    {"key":"乐猪影视","name":"猪猪┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.weixine.link:88/sub/lezhu.json"},
     {
       "key": "cjzy_快看",
       "name": "看看┃蓝光",
@@ -394,26 +414,6 @@
         "惊悚片",
         "冒险片"
       ]
-    },
-    { 
-      "key": "狐狸", 
-      "name": "狸狸┃蓝光", 
-      "type": 3, 
-      "api": "csp_AppYsV2", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1, 
-      "ext": "https://www.kuin.one/api.php/app/" 
-    }, 
-    {
-      "key": "zxzj",
-      "name": "线线┃蓝光",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
     },
     {
       "key": "Xinsj",
