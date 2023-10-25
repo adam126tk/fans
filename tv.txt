@@ -234,7 +234,7 @@
     },
     { 
       "key": "csp_XYQHiker_‍dyx", 
-      "name": "磁力┃4K", 
+      "name": "磁磁┃4K", 
       "type": 3, 
       "api": "csp_XYQHiker", 
       "searchable": 1, 
@@ -255,7 +255,7 @@
     }, 
     { 
       "key": "csp_XYQHikerlg4k", 
-      "name": "云盘┃4K", 
+      "name": "云云┃4K", 
       "type": 3, 
       "api": "csp_XYQHiker", 
       "searchable": 1, 
@@ -266,7 +266,7 @@
     }, 
     { 
       "key": "csp_XYQHiker4klg", 
-      "name": "原盘┃4K", 
+      "name": "盘盘┃4K", 
       "type": 3, 
       "api": "csp_XYQHiker", 
       "searchable": 1, 
@@ -311,7 +311,7 @@
     },
     {
       "key": "49zy",
-      "name": "九九┃蓝光",
+      "name": "玖玖┃蓝光",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
