@@ -434,7 +434,7 @@
     },
     {
       "key":"csp_YQKan",
-      "name":"一起看",
+      "name":"一起┃蓝光",
       "type":3,
       "api":"csp_YQKan",
       "jar": "./lxhfans.jar",
@@ -453,7 +453,17 @@
       "filterable":1,
       "ext":"FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
     },
-
+    {
+      "key":"YY",
+      "name":"YY",
+      "type":3,
+      "api":"csp_AppMao",
+      "searchable":1,
+      "quickSearch":1,
+      "jar": "./lxhfans.jar",
+      "filterable":1,
+      "ext":"oBnsDKnV0rqvLCUTcYxGQu5y6Vsus0n7FDMB/6G0v/tOoOyYpZCtviz2kb74Y/vJzwmbx58BD/fMnkZ58dPVjyOBLWzzfBSz7u9E+qhbgPjIQQPvQ2UzB1YFLzMY3ctnloQk/4XHdhN6GhmNnlvE8wQEQI2Rl2VRGkx6yp6clJO3cd7HsC9hYCdLUX7x74LQ6bYaWuUP9CgZaiWyv3AMMwiZjn3qanVTxxsRU9QuR0hoBFAhxVQYW8AeMkeZvL2pMFVeiZ/LQ5WFIXM+aRhBV6GmQHZhyOI2MfQk49CttpU8gqhGJByY4jhYM6nakpUv2kCWUb/Wd9x5/qiuUQsa5hPHH4fVkkv5RLQ97aj1s3MnC2bh5rFoZEN7nsQCXs4hIZC7epI1HULB9Y6Y/h2CE7SdCTsWlXzs3e2uBCid8Mc="
+    },
 #云盘
 
 {"key":"云搜","name":"云搜┃🍭","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
