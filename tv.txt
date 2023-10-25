@@ -355,6 +355,16 @@
         "海外剧"
       ]
     },
+    { 
+       "key": "csp_AppMr",
+       "name": "明明┃蓝光",
+       "type": 3,
+       "api": "csp_AppMr",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "jar": "./lxhfans.jar"
+    },
     {
       "key": "cjzy_快看",
       "name": "看看┃蓝光",
@@ -382,16 +392,6 @@
         "惊悚片",
         "冒险片"
       ]
-    },
-    { 
-       "key": "csp_AppMr",
-       "name": "明明┃蓝光",
-       "type": 3,
-       "api": "csp_AppMr",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5;FE290599BF2EF6D202B92B9B733F776F"
     },
     { 
       "key": "狐狸", 
