@@ -516,17 +516,6 @@
         "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
       }
     },
-    {
-      "key": "厂长",
-      "name": "🏭┃厂长┃影视",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://cz01.pw/"
-    },
 
 #云盘
 
@@ -613,6 +602,7 @@
         {"name":"追追","type":1,"url":"http://115.231.220.36:9999/jx/tvbox/zytv.php?url="},
         {"name":"酷酷","type":1,"url":"http://jx.realdou.cn/api/?key=FfeBSwPEyz1MBrTCvd&url="},
         {"name":"圈圈","type":1,"url":"http://111.173.118.253:9898/api/xg/?key=9ZPXS98JzGPRQeN1s6&url="},
+        {"name": "叉叉","type": 1,"url": "http://cache.json.icu/1804857380.php?url="},
         {"name":"巧巧","type":1,"url":"http://pandown.pro/app/kkdy.php?url="},
         {"name":"妙妙","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url="},
         {"name":"海滩","type":0,"url":"https://okjx.cc/?url="},
