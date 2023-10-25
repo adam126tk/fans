@@ -413,7 +413,7 @@
       "ext":"https://www.69mj.com/xgapp.php/v2/"
     },  
     {
-     "key":"JOJO",
+     "key":"JJ",
      "name":"俊俊┃蓝光",
      "type":3,"jar":"./jar/1013.jar",
      "api": "csp_Jiohub",
@@ -422,18 +422,18 @@
      "changeable":1,
      "ext":{"danmu": true}
     },
-        {
+    {
       "key": "JOJO",
-      "name": "🕊︎JOJO┃直连",
+      "name": "🕊JOJO┃蓝光",
       "type": 3,
       "api": "csp_JOJO",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
-       {
+    {
       "key": "zxzj",
-      "name": "📗在线┃直连",
+      "name": "在线┃蓝光",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -443,7 +443,7 @@
     },
     {
       "key": "Xinsj",
-      "name": "👓视觉┃直连",
+      "name": "视觉┃蓝光",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -453,7 +453,7 @@
     },
     {
       "key": "一念",
-      "name": "👀一念┃App",
+      "name": "一念┃蓝光",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
