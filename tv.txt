@@ -443,28 +443,8 @@
       "ext":"https://www.69mj.com/xgapp.php/v2/"
     },  
     {
-     "key":"JJ",
-     "name":"俊俊┃蓝光",
-     "type":3,"jar":"./jar/1013.jar",
-     "api": "csp_Jiohub",
-     "searchable":1,
-     "filterable":1,
-     "changeable":1,
-     "ext":{"danmu": true}
-    },
-    {
-      "key":"csp_YQKan",
-      "name":"乐乐┃蓝光",
-      "type":3,
-      "api":"csp_YQKan",
-      "jar": "./lxhfans.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-    },
-    {
       "key": "嘉靓",
-      "name": "💫┃嘉良┃影视",
+      "name": "嘉良┃蓝光",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": 2,
@@ -475,7 +455,7 @@
     },
     {
       "key": "csp_XBP南坊",
-      "name": "🏡┃南坊┃影视",
+      "name": "南坊┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://xhww.fun:63/小米/ab.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf",
@@ -515,6 +495,26 @@
         "分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0",
         "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
       }
+    },
+    {
+     "key":"JOJO",
+     "name":"俊俊┃蓝光",
+     "type":3,"jar":"./jar/1013.jar",
+     "api": "csp_Jiohub",
+     "searchable":1,
+     "filterable":1,
+     "changeable":1,
+     "ext":{"danmu": true}
+    },
+    {
+      "key":"csp_YQKan",
+      "name":"乐乐┃蓝光",
+      "type":3,
+      "api":"csp_YQKan",
+      "jar": "./lxhfans.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
 
 #云盘
