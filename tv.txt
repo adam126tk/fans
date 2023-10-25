@@ -403,35 +403,6 @@
       "ext": "https://www.kuin.one/api.php/app/" 
     }, 
     {
-      "key":"csp_MeiJu69",
-      "name":"美剧┃蓝光",
-      "api":"csp_AppYsV2",
-      "type":3,
-      "filterable":1,
-      "quickSearch":1,
-      "searchable":1,
-      "ext":"https://www.69mj.com/xgapp.php/v2/"
-    },  
-    {
-     "key":"JJ",
-     "name":"俊俊┃蓝光",
-     "type":3,"jar":"./jar/1013.jar",
-     "api": "csp_Jiohub",
-     "searchable":1,
-     "filterable":1,
-     "changeable":1,
-     "ext":{"danmu": true}
-    },
-    {
-      "key": "JOJO",
-      "name": "🕊JOJO┃蓝光",
-      "type": 3,
-      "api": "csp_JOJO",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "zxzj",
       "name": "在线┃蓝光",
       "type": 3,
@@ -460,6 +431,26 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddka4wFqHtLjQhalHiNTh6w9Of9ADGP70IR6Z3jEgnqm+oREdxZJm8nktRA8E9V38KMk34oPdI8ugMCclsIKNWf0oEEFd7jQg+J06kiGg57gdJuphV2ODd3REMVHU34759SkYEr7GD0jCiO/TMpAnm1emAQazjYwcmYLuSflAsqMVHYxrRyfbS3OLioIlQzOBbFGItBtIH0Vv1gtD3PSTJGX1waF9CIXAG1ybvpNQq5OyVk3/tqSSPCtQmk6jE/gGfgSfZweIe2DCznW9/i0bY8Zgs2L/Ux6Y8yI2fjwRz6k++NcfQIj0sZjnpv7JmoMO+HfQ+lqKgJbQFoIwooyyYo6SgNP1zJ/SS"
+    },
+    {
+      "key":"csp_MeiJu69",
+      "name":"美剧┃蓝光",
+      "api":"csp_AppYsV2",
+      "type":3,
+      "filterable":1,
+      "quickSearch":1,
+      "searchable":1,
+      "ext":"https://www.69mj.com/xgapp.php/v2/"
+    },  
+    {
+     "key":"JJ",
+     "name":"俊俊┃蓝光",
+     "type":3,"jar":"./jar/1013.jar",
+     "api": "csp_Jiohub",
+     "searchable":1,
+     "filterable":1,
+     "changeable":1,
+     "ext":{"danmu": true}
     },
     {
       "key":"csp_YQKan",
