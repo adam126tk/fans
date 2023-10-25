@@ -184,8 +184,6 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
     },
-    {"key":"追忆影院","name":"🚛追忆┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.alovo.cn/api.php/app/"},
-
     {
      "key":"喵喵",
      "name":"喵喵┃4K",
@@ -368,10 +366,7 @@
        "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5;FE290599BF2EF6D202B92B9B733F776F"
     },
     {"key":"笑笑影视","name":"🚛笑笑┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.weixine.link:88/sub/xiaoxiao.json"},
-{"key": "玉米", "name": "🚛玉米┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ym.dytt996.com:3/api.php/app/"},
 {"key":"乐猪影视","name":"🚛乐猪┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.weixine.link:88/sub/lezhu.json"},
-{"key":"速映影视","name":"🚛速映┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.weixine.link:88/sub/suying.json"},
-{"key":"素白白","name":"🚛素白┃秒播","type":3,"api":"http://vip.weixine.link:88/js/lib/drpy2.min.js","ext":"http://vip.weixine.link:88/js/subaibai.js"},
     {
       "key": "cjzy_快看",
       "name": "看看┃蓝光",
@@ -609,7 +604,7 @@
         {"name":"追追","type":1,"url":"http://115.231.220.36:9999/jx/tvbox/zytv.php?url="},
         {"name":"酷酷","type":1,"url":"http://jx.realdou.cn/api/?key=FfeBSwPEyz1MBrTCvd&url="},
         {"name":"圈圈","type":1,"url":"http://111.173.118.253:9898/api/xg/?key=9ZPXS98JzGPRQeN1s6&url="},
-        {"name": "叉叉","type": 1,"url": "http://cache.json.icu/1804857380.php?url="},
+        {"name":"叉叉","type": 1,"url": "http://cache.json.icu/1804857380.php?url="},
         {"name":"巧巧","type":1,"url":"http://pandown.pro/app/kkdy.php?url="},
         {"name":"妙妙","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url="},
         {"name":"海滩","type":0,"url":"https://okjx.cc/?url="},
