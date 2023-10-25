@@ -363,7 +363,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
-       "jar": "./lxhfans.jar"
+       "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5;FE290599BF2EF6D202B92B9B733F776F"
     },
     {
       "key": "cjzy_快看",
