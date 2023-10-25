@@ -174,24 +174,14 @@
       "playerType": 2,      "ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g=="
     },
         {
-      "key": "追忆",
-      "name": "🐿追忆┃App",
+      "key": "ZY",
+      "name": "追追┃4K",
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
-    },
-    {
-     "key":"ZY",
-     "name":"追追┃4K",
-     "type":3,
-     "api":"csp_Appto",
-     "playerType":2,
-     "searchable":1,
-     "quickSearch":1,
-     "changeable":1,     "ext":"SgfqwZ7mXT9kHnNF5fEfBFRfJVGiy4+WwnapqG/NY3BxdbcjxuSmnXN/KMdKfEmAbW86nRfRRsx8wG3JuaVRwKtFGrTNs9GKFMjzDysgVx+vXROKpT7GgFNl6mjK8KYx2Cd9N8wv9vOboEhX87E2+ckvZL2uDPkYk9cW+IePzeeW7N1VrtZGAJ5s8cnPumrviNowWKczX9/9g3IUgNAchFGWS8MIHy2LHJ/Jj1upM3boVaFchNX3fkkXpdfPjIHoRSgjQ3AkFnS7tcqEno/ZHQexTvGGwDN760tqsJnQiOJgr6wl3DaOAZpfS75U+i5cpvHkX9cYjCMp7Q33fl5FhFiMZruipNxP3ujfF1Y2sKhANvz+fycqBzvJr5ogkLc1sPDw+St4uFsGkDnmAraX0zPzwwggknimRXeudT7TZz1fk8Pfuh1acXEju5g8H6XPzbsi8KcJskusAiIoPiu86apOh6wNcWuD13IDIfs0RXSn+AkD6ELJFa+hPa1UZ8BddfI0Cd+LV15gKaZg0eiKs9n4t8rasm6x4KpP/XBwYR/kzMIS6aYri42R37koBsuHChJkOdsaRjS0+xUNTuIN8aM9QOWBK4fmoU1f4qYW3Nf/sdICVIh0FflXgHO0NgfE9tenAPWDCtxZia8eo3C4JcR43a7wRgJf3HyA6zcIh7eOs74eDoak9b1wU82+EHNhec3XrkfzSoSpqUzqz2NMtPYe8RU+lRXAiS6xGU8Uq7fYBzLiw/LfCnfoMXPbsQuwGCCy5348lrN3MqK1v/WMxHY2/7iGEDgHZAs/YJ+0Visz0mULi4bau8BJ9z/VYTZ9O67XWYSpZTvMA55rIDee9OwMGqqgRFVYE4xiiSj8JYVHT0WwxSYkcZes5qBL3h6hcCWUZoUXoY3rvNkdweATQ/nvnD5+Z6hvX6eNP4yUJWvB4CwqCI5htdXwTFQH6sdJWOLVK+oQiicDS8Non9FbFfgI6dGG+W5p5reMIfFExV+MdpOs5QWqVaw8tMPEMqKnG","jar": "./lxhfans.jar"
     },
     {
      "key":"喵喵",
@@ -431,6 +421,45 @@
      "filterable":1,
      "changeable":1,
      "ext":{"danmu": true}
+    },
+        {
+      "key": "JOJO",
+      "name": "🕊︎JOJO┃直连",
+      "type": 3,
+      "api": "csp_JOJO",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+       {
+      "key": "zxzj",
+      "name": "📗在线┃直连",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/"
+    },
+    {
+      "key": "Xinsj",
+      "name": "👓视觉┃直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.6080yy3.com/"
+    },
+    {
+      "key": "一念",
+      "name": "👀一念┃App",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddka4wFqHtLjQhalHiNTh6w9Of9ADGP70IR6Z3jEgnqm+oREdxZJm8nktRA8E9V38KMk34oPdI8ugMCclsIKNWf0oEEFd7jQg+J06kiGg57gdJuphV2ODd3REMVHU34759SkYEr7GD0jCiO/TMpAnm1emAQazjYwcmYLuSflAsqMVHYxrRyfbS3OLioIlQzOBbFGItBtIH0Vv1gtD3PSTJGX1waF9CIXAG1ybvpNQq5OyVk3/tqSSPCtQmk6jE/gGfgSfZweIe2DCznW9/i0bY8Zgs2L/Ux6Y8yI2fjwRz6k++NcfQIj0sZjnpv7JmoMO+HfQ+lqKgJbQFoIwooyyYo6SgNP1zJ/SS"
     },
     {
       "key":"csp_YQKan",
