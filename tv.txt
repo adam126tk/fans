@@ -457,7 +457,7 @@
       "key":"YY",
       "name":"YY",
       "type":3,
-      "api":"csp_AppMao",
+      "api":"csp_Appto",
       "searchable":1,
       "quickSearch":1,
       "jar": "./lxhfans.jar",
