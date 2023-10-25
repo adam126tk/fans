@@ -311,7 +311,7 @@
     },
     {
       "key": "49zy",
-      "name": "四九┃蓝光",
+      "name": "九九┃蓝光",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -356,7 +356,7 @@
     },
     {
       "key": "cjzy_快看",
-      "name": "快看┃蓝光",
+      "name": "看看┃蓝光",
       "type": 1,
       "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
       "playUrl": "",
@@ -404,7 +404,7 @@
     }, 
     {
       "key": "zxzj",
-      "name": "在线┃蓝光",
+      "name": "线线┃蓝光",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -414,7 +414,7 @@
     },
     {
       "key": "Xinsj",
-      "name": "视觉┃蓝光",
+      "name": "觉觉┃蓝光",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -424,7 +424,7 @@
     },
     {
       "key": "一念",
-      "name": "一念┃蓝光",
+      "name": "念念┃蓝光",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -434,7 +434,7 @@
     },
     {
       "key":"csp_MeiJu69",
-      "name":"美剧┃蓝光",
+      "name":"美美┃蓝光",
       "api":"csp_AppYsV2",
       "type":3,
       "filterable":1,
@@ -444,7 +444,7 @@
     },  
     {
       "key": "嘉靓",
-      "name": "嘉良┃蓝光",
+      "name": "嘉嘉┃蓝光",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": 2,
@@ -455,7 +455,7 @@
     },
     {
       "key": "csp_XBP南坊",
-      "name": "南坊┃蓝光",
+      "name": "南南┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://xhww.fun:63/小米/ab.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf",
