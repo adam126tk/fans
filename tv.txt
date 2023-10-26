@@ -449,7 +449,7 @@
       "ext":"https://www.69mj.com/xgapp.php/v2/"
     },
      {
-      "key": "剧猫",
+      "key": "JUMAO",
       "name": "剧剧┃蓝光",
       "type": 3,
       "api": "csp_AppMao",
