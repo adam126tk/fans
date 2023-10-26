@@ -107,6 +107,28 @@
      "ext":"./h/6Vip.json"
     },
     {
+      "key":"影巢",
+      "name":"巢巢┃4K",
+      "type":3,
+      "api":"csp_Hdhive",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/fm.jar"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "咖咖┃4K",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa",
+      "jar": "./HeChengChaXiu.jar"
+    },
+    {
       "key": "嘉靓",
       "name": "嘉嘉┃4K",
       "type": 3,
@@ -128,19 +150,16 @@
       "filterable":1,
       "ext":"FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
     },
-     {"key":"影巢","name":"巢巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
-{"key":"校长","name":"长长┃4K","type":3,"api":"csp_XiaoZhang","jar":"./jar/1019.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"
-   },
-   {
-      "key": "Gitcafe",
-      "name": "条条┃4K",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa",
-      "jar": "./HeChengChaXiu.jar"
+    { "key":"RJM",
+      "name":"猫猫┃4K",
+      "type":3,
+      "api":"csp_AppMao",
+      "searchable":1,
+      "quickSearch":1,
+      "playerType":2,
+      "filterable":1,
+      "ext":"FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJaXjxO/+6vlgsLQ5varHTH2V6Poee7Djr8Jz/R+GIpgnJnQ3krSZ9SRy8UOIbtjH3TUm9NrVkdyuAzfem0fT9yKBXkOxVq28ux/jLTJMYnSI8n4EpQvk6AcXZDdLamk1stGuAZbzYeBh2My+RQq8g8DOoxWcAPNXU6TCF5jgsdTzPvgFskwBJVrfZjjcLynmEhXHwD36QAZUcqhamhzRyjdcb79DK8hcq2QozIfxkadpK4dn0jw8kudBzd9MPssMT5nMxQ6IVYREIIDc4V1n7BrbKIGxS3a1lDUk9zW38G12j+2tNw4fXClSbM81zAdcM5lLT66EPmpxSW2Jd/0Hff1QwiiAuu8NNT2/u5raxPwPzQtA==",
+      "jar":"./jar/fm.jar"
     },
     {
       "key": "皮皮虾",
@@ -182,17 +201,6 @@
       "changeable":1,
       "ext":"cmx8moYeCnvhEzzoIqDwiozurCMvY5XTmR+ZwTbv+7bvpEPAt2XLw0Op8RypDuoKGJLmD4myErADmLF/cx9QoQMDBTapbZxkouCm/bw+1AWuBCBnDQFCgXrw3I4lAGTaJfY0coVBSqSJ77BW5OATwkB4IfwqtWu7xXwlbEHFUsGRESh6g7VHmnFp0q4L+ohf5PkjTcyaMxjWM9FH+XOoji5ItsDhuWiFWOaRFw26Z6W8naU8v05Br77nFJteyk0MT630gW0aZEtB/J13mBmsT2tjhiuLZ+9lZq3DQk81VqABKYRXH6uauLeDBZj699Qe0A7BE+0l/tlAKV8RIvDWj6xgQeOHDZM/+D8moBHveF8j3terhJRfsAj/ukKkvdzehYA/wWrzulwpU1K4WE4OMVb/UoMiLzJijTdC1TdkmMKnXzZgKp3TJuUiPv9qi58BSRlLyY1GRHvjhBya0KEodI9QPAHqOAaW6Z2lADJc4uwImiN0UAug26SHIzWDoJ8P+0APXMA5OzqTwQ5PlGISfCChHlI4fBKRSWGiJNzVO9NxjB+9fi1d5Pp5sHegNVpuvHs3jhCg2C9Wyqwl1UA6+BxKADG2FpFHacAd1OrH7kidPzRWm8mwb202QT0+tJbtjQExHQfNuxLaZXISixJsQP7GKBBUQernokP5U1Qj2rbo=",
       "jar":"./lxhfans1.jar"
-    },
-    { "key":"RJM",
-      "name":"猫猫┃4K",
-      "type":3,
-      "api":"csp_AppMao",
-      "searchable":1,
-      "quickSearch":1,
-      "playerType":2,
-      "filterable":1,
-      "ext":"FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJaXjxO/+6vlgsLQ5varHTH2V6Poee7Djr8Jz/R+GIpgnJnQ3krSZ9SRy8UOIbtjH3TUm9NrVkdyuAzfem0fT9yKBXkOxVq28ux/jLTJMYnSI8n4EpQvk6AcXZDdLamk1stGuAZbzYeBh2My+RQq8g8DOoxWcAPNXU6TCF5jgsdTzPvgFskwBJVrfZjjcLynmEhXHwD36QAZUcqhamhzRyjdcb79DK8hcq2QozIfxkadpK4dn0jw8kudBzd9MPssMT5nMxQ6IVYREIIDc4V1n7BrbKIGxS3a1lDUk9zW38G12j+2tNw4fXClSbM81zAdcM5lLT66EPmpxSW2Jd/0Hff1QwiiAuu8NNT2/u5raxPwPzQtA==",
-      "jar":"./jar/fm.jar"
     },
     {
       "key": "Juzi",
@@ -282,6 +290,8 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     }, 
+    {"key":"校长","name":"长长┃4K","type":3,"api":"csp_XiaoZhang","jar":"./jar/1019.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"
+   },
     { 
       "key": "csp_xpath_yinfans", 
       "name": "范范┃4K", 
@@ -615,10 +625,20 @@
       "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
       "jar":"./jar/fm.jar"
     },
-    {"key":"ZT","name":"纸纸┃🍭","type":3,"api":"csp_XiaoZhiTiao","jar":"./jar/1019.jar","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt", "danmu": true}},
+    {
+      "key":"ZT",
+      "name":"纸纸┃🍭",
+      "type":3,
+      "api":"csp_XiaoZhiTiao",
+      "jar":"./jar/1019.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt", "danmu": true}
+    },
     {
       "key":"纸条",
-      "name":"纸条┃🍭",
+      "name":"条条┃🍭",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
