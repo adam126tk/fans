@@ -140,7 +140,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa",
-      "jar": "./lxhfans2.jar",
+      "jar": "./lxhfans2.jar"
     },
     {
       "key": "皮皮虾",
