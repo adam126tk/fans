@@ -602,6 +602,19 @@
       "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
       "jar":"./jar/fm.jar"
     },
+    {"key":"影巢","name":"影巢｜云盘","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tok.txt","jar":"./jar/fm.jar"},
+{"key":"校长","name":"校长｜云盘","type":3,"api":"csp_XiaoZhang","jar":"./jar/1019.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tok.txt","jar":"./jar/fm.jar"},
+{"key":"纸条","name":"纸条｜云盘","type":3,"api":"csp_XiaoZhiTiao","jar":"./jar/1019.jar","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"./tok.txt", "danmu": true}},
+     {
+      "key": "Gitcafe",
+      "name": "🔍阿里|纸条搜",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+    },
     {
       "key":"纸条",
       "name":"纸条┃🍭",
