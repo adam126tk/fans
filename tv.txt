@@ -128,7 +128,9 @@
       "filterable":1,
       "ext":"FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
     },
-   
+     {"key":"影巢","name":"巢巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
+{"key":"校长","name":"长长┃4K","type":3,"api":"csp_XiaoZhang","jar":"./jar/1019.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
+{"key":"纸条","name":"纸条｜云盘","type":3,"api":"csp_XiaoZhiTiao","jar":"./jar/1019.jar","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt", "danmu": true}},
     {
       "key": "皮皮虾",
       "name": "皮皮┃4K",
@@ -554,7 +556,7 @@
       "filterable":1
     },
 
-#云盘
+#云盘搜索
 
    {
       "key":"云搜",
@@ -601,19 +603,6 @@
       "filterable":1,
       "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
       "jar":"./jar/fm.jar"
-    },
-    {"key":"影巢","name":"影巢｜云盘","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tok.txt","jar":"./jar/fm.jar"},
-{"key":"校长","name":"校长｜云盘","type":3,"api":"csp_XiaoZhang","jar":"./jar/1019.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tok.txt","jar":"./jar/fm.jar"},
-{"key":"纸条","name":"纸条｜云盘","type":3,"api":"csp_XiaoZhiTiao","jar":"./jar/1019.jar","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"./tok.txt", "danmu": true}},
-     {
-      "key": "Gitcafe",
-      "name": "🔍阿里|纸条搜",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
     },
     {
       "key":"纸条",
