@@ -2,7 +2,7 @@
 //公众号：『乐享汇fans』『乐享生活fans』
 //QQ频道：『乐享汇fans』     QQ群：621886232     630383903
   "spider": "./lxhfans.jar",
-  "warningText":"lxhfans: 每次打开app记得长按主页刷新接口",
+  "warningText":"公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
   "lives": [
     {
       "name": "直播",
@@ -97,7 +97,8 @@
      "quickSearch":1,
      "filterable":1
     },
-    {"key": "csp_XBPQ_6V",
+    {
+     "key": "csp_XBPQ_6V",
      "name": "宝宝┃4K",
      "type": 3,
      "api": "csp_XBPQ",
@@ -107,17 +108,17 @@
      "ext":"./h/6Vip.json"
     },
     {
-      "key":"影巢",
-      "name":"巢巢┃4K",
-      "type":3,
-      "api":"csp_Hdhive",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/fm.jar"
-    },
-    {
+     "key":"影巢",
+     "name":"巢巢┃4K",
+     "type":3,
+     "api":"csp_Hdhive",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":0,
+     "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+     "jar":"./jar/fm.jar"
+   },
+   {
       "key": "Gitcafe",
       "name": "咖咖┃4K",
       "type": 3,
@@ -162,6 +163,18 @@
       "jar":"./jar/fm.jar"
     },
     {
+      "key":"艾艾",
+      "name":"艾艾┃4K",
+      "type":3,
+      "api":"csp_Appto",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1,
+      "ext":"cmx8moYeCnvhEzzoIqDwiozurCMvY5XTmR+ZwTbv+7bvpEPAt2XLw0Op8RypDuoKGJLmD4myErADmLF/cx9QoQMDBTapbZxkouCm/bw+1AWuBCBnDQFCgXrw3I4lAGTaJfY0coVBSqSJ77BW5OATwkB4IfwqtWu7xXwlbEHFUsGRESh6g7VHmnFp0q4L+ohf5PkjTcyaMxjWM9FH+XOoji5ItsDhuWiFWOaRFw26Z6W8naU8v05Br77nFJteyk0MT630gW0aZEtB/J13mBmsT2tjhiuLZ+9lZq3DQk81VqABKYRXH6uauLeDBZj699Qe0A7BE+0l/tlAKV8RIvDWj6xgQeOHDZM/+D8moBHveF8j3terhJRfsAj/ukKkvdzehYA/wWrzulwpU1K4WE4OMVb/UoMiLzJijTdC1TdkmMKnXzZgKp3TJuUiPv9qi58BSRlLyY1GRHvjhBya0KEodI9QPAHqOAaW6Z2lADJc4uwImiN0UAug26SHIzWDoJ8P+0APXMA5OzqTwQ5PlGISfCChHlI4fBKRSWGiJNzVO9NxjB+9fi1d5Pp5sHegNVpuvHs3jhCg2C9Wyqwl1UA6+BxKADG2FpFHacAd1OrH7kidPzRWm8mwb202QT0+tJbtjQExHQfNuxLaZXISixJsQP7GKBBUQernokP5U1Qj2rbo=",
+      "jar":"./lxhfans1.jar"
+    },
+    {
       "key": "皮皮虾",
       "name": "皮皮┃4K",
       "type": 3,
@@ -189,18 +202,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.maolvys.com/"
-    },
-    {
-      "key":"艾艾",
-      "name":"艾艾┃4K",
-      "type":3,
-      "api":"csp_Appto",
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":1,
-      "ext":"cmx8moYeCnvhEzzoIqDwiozurCMvY5XTmR+ZwTbv+7bvpEPAt2XLw0Op8RypDuoKGJLmD4myErADmLF/cx9QoQMDBTapbZxkouCm/bw+1AWuBCBnDQFCgXrw3I4lAGTaJfY0coVBSqSJ77BW5OATwkB4IfwqtWu7xXwlbEHFUsGRESh6g7VHmnFp0q4L+ohf5PkjTcyaMxjWM9FH+XOoji5ItsDhuWiFWOaRFw26Z6W8naU8v05Br77nFJteyk0MT630gW0aZEtB/J13mBmsT2tjhiuLZ+9lZq3DQk81VqABKYRXH6uauLeDBZj699Qe0A7BE+0l/tlAKV8RIvDWj6xgQeOHDZM/+D8moBHveF8j3terhJRfsAj/ukKkvdzehYA/wWrzulwpU1K4WE4OMVb/UoMiLzJijTdC1TdkmMKnXzZgKp3TJuUiPv9qi58BSRlLyY1GRHvjhBya0KEodI9QPAHqOAaW6Z2lADJc4uwImiN0UAug26SHIzWDoJ8P+0APXMA5OzqTwQ5PlGISfCChHlI4fBKRSWGiJNzVO9NxjB+9fi1d5Pp5sHegNVpuvHs3jhCg2C9Wyqwl1UA6+BxKADG2FpFHacAd1OrH7kidPzRWm8mwb202QT0+tJbtjQExHQfNuxLaZXISixJsQP7GKBBUQernokP5U1Qj2rbo=",
-      "jar":"./lxhfans1.jar"
     },
     {
       "key": "Juzi",
@@ -290,8 +291,6 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     }, 
-    {"key":"校长","name":"长长┃4K","type":3,"api":"csp_XiaoZhang","jar":"./jar/1019.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"
-   },
     { 
       "key": "csp_xpath_yinfans", 
       "name": "范范┃4K", 
@@ -626,6 +625,17 @@
       "jar":"./jar/fm.jar"
     },
     {
+      "key": "Zhaozy",
+      "name": "资源┃🍭",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/fm.jar"
+    },
+    {
       "key":"ZT",
       "name":"纸纸┃🍭",
       "type":3,
@@ -647,17 +657,6 @@
       "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
       "jar":"./jar/fm.jar"
     },  
-    {
-      "key": "Zhaozy",
-      "name": "资源┃🍭",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/fm.jar"
-    },
     {"key":"LR","name":"🌎数据来源于互联网|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
 ],
 
@@ -752,4 +751,3 @@
 {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
 }
-
