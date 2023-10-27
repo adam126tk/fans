@@ -150,6 +150,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://121.62.23.188:11166/appto/v1/"
+      "jar": "./YSC.jar"
     },
     {
       "key":"Mino",
