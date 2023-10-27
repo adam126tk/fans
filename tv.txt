@@ -149,8 +149,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://xjst.tpddns.cn:726/video.php/xiaojun/",
-      "jar":"./lxhfans1.jar"
+      "ext": "2351f2a7fb8cc5a849ac749d2df5dd28",
+      "jar":"./YSC.jar"
     },
     {
       "key":"Mino",
