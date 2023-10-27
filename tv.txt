@@ -141,6 +141,17 @@
       "ext": "http://api.jialiangos.com:81/api.php/app/"
     },
     {
+      "key": "YSC",
+      "name": "YSC┃4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://121.62.23.188:11166/appto/v1/"
+    },
+    {
       "key":"Mino",
       "name":"诺诺┃4K",
       "type":3,
