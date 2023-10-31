@@ -90,7 +90,7 @@
     },
     {
       "key": "Wobg",
-      "name": "♻️阿里|玩偶表哥",
+      "name": "玩偶表哥┃4K",
       "type": 3,
       "style": {
         "type": "rect",
