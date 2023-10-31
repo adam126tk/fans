@@ -579,14 +579,73 @@
 
 #云盘搜索
 
-
-    {"key": "易搜","name": "易搜┃🍭","type": 3,"api": "csp_YiSo","playerType":2,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
-    {"key": "UP云搜","name": "云搜┃🍭","type": 3,"api": "csp_UpYun","playerType":2,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
-{"key":"PanSearch","name":"盘搜┃🍭","type":3,"api":"csp_PanSearch","searchable":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
-{"key":"七夜","name":"七夜┃🍭","type":3,"api":"csp_Dovx","playerType":2,"searchable":1,"searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
-{"key": "找资源","name": "资源┃🍭","type": 3,"api": "csp_Zhaozy","playerType":2,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$fanty$$$qqq111"},
-{"key":"csp_GitCafe2","name":"纸条┃🍭","type":3,"api":"csp_Gitcafe","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
-{"key":"LR","name":"🌎数据来源于互联网|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
+    {
+      "key": "易搜",
+      "name": "易搜┃🍭",
+      "type": 3,
+      "api": "csp_YiSo",
+      "playerType":2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
+    },
+    {
+      "key": "UP云搜",
+      "name": "云搜┃🍭",
+      "type": 3,
+      "api": "csp_UpYun",
+      "playerType":2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
+    },
+    {
+      "key":"PanSearch",
+      "name":"盘搜┃🍭",
+      "type":3,
+      "api":"csp_PanSearch",
+      "playerType":2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
+    },
+    {
+      "key":"七夜",
+      "name":"七夜┃🍭",
+      "type":3,
+      "api":"csp_Dovx",
+      "playerType":2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
+    },
+    {
+      "key": "找资源",
+      "name": "资源┃🍭",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "playerType":2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$fanty$$$qqq111"
+    },
+    {
+      "key":"csp_GitCafe2",
+      "name":"纸条┃🍭",
+      "type":3,
+      "api":"csp_Gitcafe",
+      "playerType":2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
+    },
+    {"key":"LR","name":"🌎数据来源于互联网|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
 ],
 
 "parses":[
