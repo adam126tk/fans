@@ -86,7 +86,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar":"http://vip.weixine.link:88/ali.jar"
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"
     },
     {
      "key":"T4_wo",
@@ -115,7 +115,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+     "ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt",
      "jar":"./jar/fm.jar"
    },
    {
