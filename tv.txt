@@ -578,16 +578,7 @@
     },
 
 #云盘搜索
-       {
-      "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$弹"
-    },
+
 
     {"key": "易搜","name": "易搜┃🍭","type": 3,"api": "csp_YiSo","playerType":2,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
     {"key": "UP云搜","name": "云搜┃🍭","type": 3,"api": "csp_UpYun","playerType":2,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
