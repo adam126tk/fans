@@ -89,8 +89,17 @@
       "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"
     },
     {
+     "key":"T4_wo",
+     "name":"玩偶┃T4",
+     "type":4,
+     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
+    },
+    {
       "key": "Wobg",
-      "name": "玩偶表哥┃4K",
+      "name": "玩偶┃表哥",
       "type": 3,
       "style": {
         "type": "rect",
@@ -99,15 +108,6 @@
       "jar": "./jar/pg.jar",
       "api": "csp_Wobg",
       "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt$$$http://wobge.run.goorm.io"
-    },
-    {
-     "key":"T4_wo",
-     "name":"玩偶┃T4",
-     "type":4,
-     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1
     },
     {
      "key": "csp_XBPQ_6V",
