@@ -101,13 +101,13 @@
       "key": "Wobg",
       "name": "玩偶┃表哥",
       "type": 3,
-      "style": {
+       "style": {
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./jar/pg.jar",
       "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt$$$http://wobge.run.goorm.io"
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt$$$http://wobge.run.goorm.io",
+      "jar": "./jar/pg.jar"
     },
     {
      "key":"影巢",
