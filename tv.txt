@@ -86,7 +86,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$http://www.wogg.xyz/"
     },
     {
      "key":"T4_wo",
