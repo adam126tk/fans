@@ -98,18 +98,6 @@
      "filterable":1
     },
     {
-      "key": "Wobg",
-      "name": "玩偶┃表哥",
-      "type": 3,
-       "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt$$$http://wobge.run.goorm.io",
-      "jar": "./jar/pg.jar"
-    },
-    {
      "key":"影巢",
      "name":"巢巢┃4K",
      "type":3,
