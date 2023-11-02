@@ -169,8 +169,8 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1, 
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "ext": "./JS/dyg.json",
+      "jar": "./jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     }, 
     { 
       "key": "csp_xpath_yinfans", 
@@ -180,7 +180,7 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1, 
-      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"
+      "ext": "./JS/音范丝.json"
     }, 
     { 
       "key": "csp_XYQHikerlg4k", 
@@ -190,8 +190,8 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1, 
-      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/4KHDR.json",
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "ext": "./JS/4KHDR.json",
+      "jar": "./jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     }, 
     { 
       "key": "csp_XYQHiker4klg", 
@@ -201,8 +201,8 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1, 
-      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json",
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "ext": "./JS/中国蓝光网.json",
+      "jar": "./jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },  
     {
       "key": "嘉靓",
