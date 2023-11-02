@@ -295,6 +295,17 @@
       "ext": "https://jihulab.com/ymz1231/json/-/raw/main/音范丝.json"
     }, 
     { 
+      "key": "csp_XYQHiker_‍dyx", 
+      "name": "磁磁┃4K", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "jar": "./jar/spider.txt,     
+      "ext": "./JS/dyg.json"
+    }, 
+    { 
       "key": "csp_XYQHikerlg4k", 
       "name": "云云┃4K", 
       "type": 3, 
