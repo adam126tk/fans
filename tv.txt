@@ -292,7 +292,7 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1, 
-      "jar": "./JAR/spider.txt,     
+      "jar": "./jar/spider.txt,     
       "ext": "./JS/dyg.json"
     }, 
     { 
