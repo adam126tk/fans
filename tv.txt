@@ -292,8 +292,8 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1, 
-      "jar": "./jar/spider.txt,     
-      "ext": "./JS/dyg.json"
+      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     }, 
     { 
       "key": "csp_xpath_yinfans", 
