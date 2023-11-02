@@ -170,7 +170,7 @@
       "quickSearch": 1, 
       "filterable": 1, 
       "ext": "./JS/dyg.json",
-      "jar": "./jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "jar": "./jar/spider.txt"
     }, 
     { 
       "key": "csp_xpath_yinfans", 
@@ -191,7 +191,7 @@
       "quickSearch": 1, 
       "filterable": 1, 
       "ext": "./JS/4KHDR.json",
-      "jar": "./jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "jar": "./jar/spider.txt"
     }, 
     { 
       "key": "csp_XYQHiker4klg", 
@@ -202,7 +202,7 @@
       "quickSearch": 1, 
       "filterable": 1, 
       "ext": "./JS/中国蓝光网.json",
-      "jar": "./jar/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "jar": "./jar/spider.txt"
     },  
     {
       "key": "嘉靓",
