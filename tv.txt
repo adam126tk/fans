@@ -150,8 +150,8 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 1,
-     "ext":"./h/6Vip.json",
-     "jar":"./jar/vip.jar"
+     "jar":"./jar/vip.jar",
+     "ext":"./h/6Vip.json"
     },
     {
       "key":"Mino",
