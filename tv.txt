@@ -190,7 +190,6 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1, 
-      "playerType": 1, 
       "jar": "./jar/spider.txt",
       "ext": "./JS/4KHDR.json"     
     }, 
@@ -202,7 +201,6 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1, 
-      "playerType": 1, 
       "jar": "./jar/spider.txt",
       "ext": "./JS/中国蓝光网.json"  
     },  
