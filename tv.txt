@@ -292,8 +292,8 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1, 
-      "ext": "./JS/dyg.json",
-      "jar": "./JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "jar": "./JAR/spider.txt,     
+      "ext": "./JS/dyg.json"
     }, 
     { 
       "key": "csp_xpath_yinfans", 
