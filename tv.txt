@@ -161,16 +161,6 @@
       "changeable": 1,
       "ext": "https://www.maolvys.com/"
     },
-    {
-      "key": "HDR",
-      "name": "杜比┃4K",
-      "type": 3,
-      "api": "csp_dubi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://4khdr.cn/"
-    },
     { 
       "key": "csp_XYQHiker_‍dyx", 
       "name": "磁磁┃4K", 
