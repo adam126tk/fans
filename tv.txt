@@ -117,7 +117,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd$$$弹"
+      "ext":"http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
       "key": "玩偶弹幕版",
