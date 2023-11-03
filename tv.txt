@@ -86,7 +86,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$http://www.wogg.xyz/"
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/"
     },
     {
      "key":"T4_wo",
@@ -96,6 +96,43 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1
+    },
+    {
+      "key": "Wobg",
+      "name": "♻️阿里|玩偶表哥",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./jar/pg.jar",
+      "api": "csp_Wobg",
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt$$$http://wobge.run.goorm.io"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "👽玩偶哥哥┃4K弹幕.饭",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd$$$弹"
+    },
+    {
+      "key": "玩偶弹幕版",
+      "name": "♻️玩偶哥哥弹幕版|4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+        "filter": "./JS/wogg.json",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
     },
     {
      "key": "csp_XBPQ_6V",
