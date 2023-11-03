@@ -110,7 +110,7 @@
       "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt$$$http://wobge.run.goorm.io"
     },
     {
-      "key": "csp_WoGG",
+      "key": "csp_Wo",
       "name": "👽玩偶哥哥┃4K弹幕.饭",
       "type": 3,
       "api": "csp_WoGG",
