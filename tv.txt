@@ -89,15 +89,6 @@
       "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/"
     },
     {
-     "key":"T4_wo",
-     "name":"玩偶┃T4",
-     "type":4,
-     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1
-    },
-    {
       "key": "Wobg",
       "name": "玩偶|表哥",
       "type": 3,
@@ -133,6 +124,15 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
+    },
+    {
+     "key":"T4_wo",
+     "name":"玩偶┃T4",
+     "type":4,
+     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
     },
     {
      "key": "csp_XBPQ_6V",
@@ -663,6 +663,238 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
+    },
+        {
+      "key": "gitcafe_php",
+      "name": "小纸条PHP[影视壳专用]",
+      "type": 1,
+      "api": "http://tvbox.top/gitcafe.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小纸条_cli",
+      "name": "小纸条[俊.T4]",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+      "timeout": 30
+    },
+    {
+      "key": "纸条弹幕版",
+      "name": "🔍纸条弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "盘Se弹幕版",
+      "name": "🔍盘Se弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "找資源弹幕版",
+      "name": "🔍找資源弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+        "username": "zhaoziyuannb",
+        "password": "zhaoziyuannb",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "七夜弹幕版",
+      "name": "🔍七夜弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "盘搜弹幕版",
+      "name": "🔍盘搜弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "易搜弹幕版",
+      "name": "🔍易搜弹幕版┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+     {
+      "key": "YiSo",
+      "name": "😹易搜┃搜索♻️",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🐺找资源┃搜索♻️",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd$$$yannanfei$$$abcdefg"
+    },
+    {
+      "key": "PanSou",
+      "name": "🦊盘搜┃搜索♻️",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "UpYun",
+      "name": "😻Up搜┃搜索♻️",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃搜索♻️",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "七夜",
+      "name": "😾七夜┃搜索♻️",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "📀小纸条♻️",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Gitcafe",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt"
+    },
+    {
+      "key": "csp_Zhaozy",
+      "name": "📀找资源♻️",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Zhaozy",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "📀喵狸盘搜♻️",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_AliPS",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt"
+    },
+    {
+      "key": "csp_Yisou",
+      "name": "📀易搜♻️",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Yisou",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt"
+    },
+    {
+      "key": "csp_Upyunso",
+      "name": "📀UP云搜♻️",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Upyunso",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt"
     },
     {
       "key": "找资源",
