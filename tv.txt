@@ -656,7 +656,7 @@
     },
     {
       "key": "UpYun",
-      "name": "🦊Up搜┃🍭",
+      "name": "🦊云搜┃🍭",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -737,7 +737,7 @@
     },
     {
       "key": "csp_Upyunso",
-      "name": "📀UP云搜┃🍭",
+      "name": "📀云搜┃🍭",
       "type": 3,
       "jar": "./jar/xyq.jar",
       "api": "csp_Upyunso",
@@ -746,26 +746,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt"
-    },
-    {
-      "key": "gitcafe_php",
-      "name": "小纸条PHP[影视壳专用]",
-      "type": 1,
-      "api": "http://tvbox.top/gitcafe.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "小纸条_cli",
-      "name": "小纸条┃🍭",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
-      "timeout": 30
     },
     {
       "key": "纸条弹幕版",
@@ -852,6 +832,26 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
+    },
+        {
+      "key": "gitcafe_php",
+      "name": "小纸条PHP[影视壳专用]",
+      "type": 1,
+      "api": "http://tvbox.top/gitcafe.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小纸条_cli",
+      "name": "小纸条┃🍭",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+      "timeout": 30
     },
     {"key":"LR","name":"🌎数据来源于互联网|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
 ],
