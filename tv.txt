@@ -70,13 +70,13 @@
      "ext":"http://vip.weixine.link:88/js/mangguo.js"
     },
     {
-     "key":"sohu",
-     "name":"狐狐(官)",
-     "type":1,
-     "api":"http://tvbox-1-g5221611.deta.app/vod/sohu",
+     "key":"T4_wo",
+     "name":"玩偶┃T4",
+     "type":4,
+     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
      "searchable":1,
      "quickSearch":1,
-     "playUrl":"parse:并发"
+     "filterable":1
     },
     {
       "key":"csp_WoGG",
@@ -124,15 +124,6 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
-    },
-    {
-     "key":"T4_wo",
-     "name":"玩偶┃T4",
-     "type":4,
-     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1
     },
     {
      "key": "csp_XBPQ_6V",
