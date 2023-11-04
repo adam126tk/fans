@@ -675,7 +675,7 @@
     },
     {
       "key": "小纸条_cli",
-      "name": "小纸条[俊.T4]",
+      "name": "小纸条┃🍭",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
       "searchable": 1,
@@ -772,7 +772,7 @@
     },
      {
       "key": "YiSo",
-      "name": "😹易搜┃🍭",
+      "name": "🦊易搜┃🍭",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -783,7 +783,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🐺找资源┃🍭",
+      "name": "🦊资源┃🍭",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -805,7 +805,7 @@
     },
     {
       "key": "UpYun",
-      "name": "😻Up搜┃🍭",
+      "name": "🦊Up搜┃🍭",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -816,7 +816,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "🙀盘Se┃🍭",
+      "name": "🦊盘Se┃🍭",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -827,7 +827,7 @@
     },
     {
       "key": "七夜",
-      "name": "😾七夜┃🍭",
+      "name": "🦊七夜┃🍭",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -895,28 +895,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt"
-    },
-    {
-      "key": "找资源",
-      "name": "资源┃🍭",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "playerType":2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$fanty$$$qqq111"
-    },
-    {
-      "key":"csp_GitCafe2",
-      "name":"纸条┃🍭",
-      "type":3,
-      "api":"csp_Gitcafe",
-      "playerType":2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
     },
     {"key":"LR","name":"🌎数据来源于互联网|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
 ],
