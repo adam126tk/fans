@@ -844,7 +844,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"LR","name":"关注公众号：乐享汇fans","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
+    {"key":"LR","name":"🌎关注公众号：乐享汇fans","type":3,"api":"csp_KungFu404","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://weixine.net/alibaba.jar"}
 ],
 
 "parses":[
