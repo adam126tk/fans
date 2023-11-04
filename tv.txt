@@ -688,7 +688,7 @@
       "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd"
     },
     {
-      "key": "Gitcafe",
+      "key": "Gitcafee",
       "name": "📀小纸条┃🍭",
       "type": 3,
       "jar": "./jar/xyq.jar",
