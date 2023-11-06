@@ -79,7 +79,7 @@
      "filterable":1
     },
     {
-     "key": "csp_WoGG",
+     "key": "csp_GG",
      "name": "❤🤡玩偶哥哥┃4K",
      "type": 3,
      "style": {
