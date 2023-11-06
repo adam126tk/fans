@@ -91,8 +91,8 @@
      "quickSearch": 1,
      "filterable": 1,
      "ext": "7984abb3f03c447196459eebd03eda63",
-     "jar": "https://qu.ax/rski.js"
-   },
+     "jar": "./JS/rski.js"
+    },
     {
       "key":"csp_WoGG",
       "name": "玩偶┃4K",
