@@ -79,6 +79,21 @@
      "filterable":1
     },
     {
+     "key": "csp_WoGG",
+     "name": "❤🤡玩偶哥哥┃4K",
+     "type": 3,
+     "style": {
+       "type": "rect",
+       "ratio": 0.8
+     },
+     "api": "csp_WoGG",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext": "7984abb3f03c447196459eebd03eda63",
+     "jar": "https://qu.ax/rski.js"
+   },
+    {
       "key":"csp_WoGG",
       "name": "玩偶┃4K",
       "type": 3,
