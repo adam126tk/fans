@@ -218,7 +218,7 @@
     },  
     {
       "key": "嘉靓",
-      "name": "嘉嘉┃4K",
+      "name": "嘉嘉┃蓝光",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": 2,
@@ -229,7 +229,7 @@
     },
     {
      "key":"YT",
-     "name":"影影┃4K",
+     "name":"探探┃蓝光",
      "type":3,
      "api":"csp_AppYsV2",
      "searchable":1,
@@ -237,19 +237,9 @@
      "filterable":1,
      "ext":"http://ytcms.lyyytv.cn/api.php/app/"
     },
-        {
-      "key": "姐姐",
-      "name": "♻️玩偶姐姐",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://dytt996.com/api.php/app/"
-    },
     {
-      "key": "小姨",
-      "name": "♻️玩偶姨妹",
+      "key": "乐乐",
+      "name": "乐乐┃蓝光",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
