@@ -78,6 +78,16 @@
      "quickSearch":1,
      "filterable":1
     },
+   {
+      "key": "csp_woggcli",
+      "name": "♻️T4┃俊哥玩偶",
+      "type": 4,
+      "jar": "./jar/JGWO.jar",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
      "key": "csp_WoGG",
      "name": "玩偶┃4K",
