@@ -228,97 +228,6 @@
       "ext": "http://api.jialiangos.com:81/api.php/app/"
     },
     {
-      "key":"夜猫",
-      "name":"夜夜┃4K",
-      "type":3,
-      "api":"csp_DDMJ",
-      "searchable":1,
-      "quickSearch":1,
-      "playerType":2,
-      "filterable":1,
-      "jar":"./jar/qiaoji.jar",
-      "ext":"WEsYYDEDe6UIv+lLoR1ZFtw/KalgoC77ziQ/i1e0G5lahN54qE13n3chXS953b6h1mDPSqWgnaBubrHoosxDmwcpULYyPtPTF31PHWfgjFED47XFXittwD+aj6u7iwvDOn/F3QvmT/XzOCoa/YkFlgQyfGyxHC26vvAlZcSyiUp9RsZtlXZ9Qe3ZpLGXuJYIhroOFpm0veOnGvw4sZUKFrRNG1hxcvBIxxJj0ALpb13muDjYXHJa26n0UUaBP5/x4SZk1SdinjGsSNX3eSlUKgDRwkF3oZcEtZdTseqiMroULgJfZBFOkPhv38SPXqlxq8Ig/7rFOdntpbCeirTw+NidxizzL3pSH4LYNREEIKOzV5qILPoAUs7p7vw8Lf9POoKCXekDSMGE7+xCQyrHXYQ7Z89FW+fjkLb2PZYAmRWpSfU1aOdsgKeADNaKEOfIcRkaXzN5r+pVv+IU3NF7jOGxHBw2sGVMhYzghAX6E4gQbxxJVxjTtxWXP41mJruCTT2XhvgGesauv5DZ8ORHfMTKpdwnasnlNxojBHhGgpqEAjfsxx18njoq5L719mm+RUVtOxc7cJYqgbrQSpxAp5DHS7SRnzlqC9An/5n1Rjm/48kOoUFcOfoHsn/mYow4f8ZXI5lXsDrXnk5Zk/HQgelqhihJty1oHds/mf/1v1NU="      
-    },
-    {
-      "key":"Mino",
-      "name":"诺诺┃4K",
-      "type":3,
-      "api":"csp_AppMao",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar": "./lxhfans.jar",
-      "ext":"FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
-    },
-    {
-      "key":"艾艾",
-      "name":"艾艾┃4K",
-      "type":3,
-      "api":"csp_Appto",
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":1,
-      "jar":"./lxhfans1.jar",
-      "ext":"cmx8moYeCnvhEzzoIqDwiozurCMvY5XTmR+ZwTbv+7bvpEPAt2XLw0Op8RypDuoKGJLmD4myErADmLF/cx9QoQMDBTapbZxkouCm/bw+1AWuBCBnDQFCgXrw3I4lAGTaJfY0coVBSqSJ77BW5OATwkB4IfwqtWu7xXwlbEHFUsGRESh6g7VHmnFp0q4L+ohf5PkjTcyaMxjWM9FH+XOoji5ItsDhuWiFWOaRFw26Z6W8naU8v05Br77nFJteyk0MT630gW0aZEtB/J13mBmsT2tjhiuLZ+9lZq3DQk81VqABKYRXH6uauLeDBZj699Qe0A7BE+0l/tlAKV8RIvDWj6xgQeOHDZM/+D8moBHveF8j3terhJRfsAj/ukKkvdzehYA/wWrzulwpU1K4WE4OMVb/UoMiLzJijTdC1TdkmMKnXzZgKp3TJuUiPv9qi58BSRlLyY1GRHvjhBya0KEodI9QPAHqOAaW6Z2lADJc4uwImiN0UAug26SHIzWDoJ8P+0APXMA5OzqTwQ5PlGISfCChHlI4fBKRSWGiJNzVO9NxjB+9fi1d5Pp5sHegNVpuvHs3jhCg2C9Wyqwl1UA6+BxKADG2FpFHacAd1OrH7kidPzRWm8mwb202QT0+tJbtjQExHQfNuxLaZXISixJsQP7GKBBUQernokP5U1Qj2rbo="
-    },
-    {
-      "key": "皮皮虾",
-      "name": "皮皮┃4K",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1, 
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
-    },
-    {
-      "key": "Juzi",
-      "name": "橘橘┃4K",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,      "ext":"FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
-    },
-    {
-      "key": "BLUE",
-      "name": "蕾蕾┃4K",
-      "type": 3,
-      "api": "csp_AppMao",
-      "playerType": 2,      "ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g=="
-    },
-    {
-      "key": "ZY",
-      "name": "追追┃4K",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
-    }, 
-    {
-      "key": "Yiren",
-      "name": "伊伊┃4K",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,      "ext":"49GSQNXJ1R6WXCJZT2oeVVfj1FM6UX0CnQBodIg0neFgls8ZvVNccagbD55VUGBf9dcnzwMX+1R7mca0102wseJSe7SDvL8RgHdlfSyg5VWa+b5FViAtIauAXJYw8w+LOjr9M5GsKt9U8ylOECZpDnefOSsUmEcd/EeW25clGO0WM1jbgARPeqR7vVZBmbIwcMpwxiJ4cMXN6LVkdhBkTxH0WW6IegG3rL+OFwalSwvlQsMpm63WdfYMTvAIk8zBE/m8oxbANMxlX34P4RHgGLlBJiQTNDsK0s1pklBKVh8ZAx1vjhPQdolvweVB9iJ0j8Ja36F9+OtADh16tG4vFBAboaemQUtLmKt9sVCDxFOtKfcCtBH4xpvkWOf5+AxwOtUtMFfbmqoWs5RgwQ0tQz8DKo15Nz1g9GnD1lk9OhSMr6Uzm93jdkigANjFTuOVrfLqTQWaFY4zLWKW57nUnZ/7H3TZiF/kaLYM9kH7zxbmcKlTgUdbbqmsvVQ4UbD79Z9h598n0O2Ay14zxMFPl5xGsmCB468pghCHgoBMMgwOlFq+Pg0cF2dmG4SIa16/iqgoF67DpWpFk80sdESdruCzWODkLWIbR6ikaI7HaXdRr/mCtPwSsKbUWm2Po3tsLc9ShxkD+RtzcskvVKi+ml2tTSMEwtou2EHLmdhKLx3bKflTgbxZGA9BFAFqFdVB6ByJx/iRxh41ZB5ZQrzGoKW44RWXa5Zzd075CWZj2JuUT2/VZFsjA8lyu6T1x3HHntQgCXmDkJbYw+E+qh5mOPUw6dx+nwaaOi4gMgoPFauwGRRjkkuyiUiIRMn3REgd6Nx6cgppAjHSE1AEOQ/HJHqVGVaqf27dN7D7UKXuhpUPaB0lRTjCOsc9t8et17wliesyA1MLUEFLf9m7tq55TkiSuXyDKgyi4kWC1Yk/NlXEXQyTN8eXQhLkhrNtsSF3OroXU8OCvlaU82tn4dUKS5Y5nE0QGSP33eyIDaC/evG8wc+Q3ZfC8s5amwXMQSF0OHyjC2ErrVSi4I8tdYZgpMYgWWpdn19p9L/UD4uDAwGSfFMah9xlosmHM2KmBZYGZ86RkjVcG1bk7xM0PiLaC2mjODjTy+JdHn7WW8XDoCYHFRuhMNXUSawhoONVe+w38Pnr10UZVm778Mi2gS5691HQDE7rJ6ZFQGDcLcyq0AQxjD+RQPHKt2Pp9G5auuYs+kV59iWGWNWwD5SIYXCxcxEIIabuXMlBlz1XNxUN0GjNC0C3LGFCEYobeGTwaOuDbL24qULqiarsyx7U99CEJ4mJ4pThdFBT7Lia+JK3JUuOI7Mm0PpYkYjbRMk9QgiNH+rRfFCYRAKMZ+M64G07DTL5KN1GOADVyqPFB/3vwSbeEAzB+4Q6PKgsKtL1hpnMo/SUYAa6Hf3p5cqtMJnVuUBV3Vz6NAgK+dHpzYrtQBfbHN6n3eG393aBeq8EK9QsK7cs4YtO5ofBzI5QlhWZ7LMbBlcWvgnb9BJwsc3YmPuFDKGORMU+epQ7BK1bqkcFPOFLvMSSRuhrbsRZSytAB0vEuMtznsoOd3o6qDs0jtgLyb2quBMxrVIGie+pxc/j8saZKCap+uIWn/kouVBfdw80oq1YNjNU+GAU7CgHhapkER7d2AcmyWZFb9k+qwtQn79q9k9gVg6qkQb+XTZ6TpgZFC6HwJFaYkxGfO8P5HcC3L8IDaHsxsSrBLk0GiWE4Oj3s3fjzJCbqwjjixrJhN8SuviRz6sLkCMqZdqukqXiSdqoyh5tK9jFm06uvkMAcMEwfikVDOwKvgzLyxPFXLbI1ZfqOQoHO3r+wqw7HUnpIe48SIRmRR8LHeS22IsWaKsBmg9iSQHSlJHimsgUl7Tl8Go11ftgiT6oCXq2s5Ep7sH/Qpr01R2L48xopN3HaaDkzOLXNYJohT7NsaEm7w=="
-    },
-    {
-     "key":"TOTO",
-     "name":"图图┃4K",
-     "type":3,
-     "api":"csp_APPTT",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,    
-     "jar":"./lxhfans1.jar",
-     "ext":"pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"
-    },
-    {
      "key":"YT",
      "name":"影影┃4K",
      "type":3,
@@ -327,18 +236,6 @@
      "quickSearch":1,
      "filterable":1,
      "ext":"http://ytcms.lyyytv.cn/api.php/app/"
-    },
-    {
-      "key": "探探",
-      "name": "探探┃4K",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30,
-      "ext": "vip.lyyytv.cn"
     },
 
 #云盘搜索
