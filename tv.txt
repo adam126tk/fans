@@ -153,21 +153,9 @@
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
     },
     {
-     "key":"影巢",
-     "name":"巢巢┃4K",
-     "type":3,
-     "api":"csp_Hdhive",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0,
-     "jar":"./jar/fm.jar", 
-     "ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"    
-    },
-    {
-      "key": "LELE",
-      "name": "乐乐┃4K",
+      "key": "影巢",
+      "name": "巢巢┃4K",
       "type": 3,
-      "playerType": 1,
       "api": "csp_Hdhive",
       "searchable": 1,
       "quickSearch": 1,
@@ -250,8 +238,8 @@
      "ext":"http://ytcms.lyyytv.cn/api.php/app/"
     },
     {
-      "key": "汇汇",
-      "name": "汇汇┃蓝光",
+      "key": "乐乐",
+      "name": "乐乐┃蓝光",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
