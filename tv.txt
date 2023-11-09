@@ -172,8 +172,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./jar/xry.jar"
-      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+      "jar": "./jar/xry.jar",
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt"
     },
     {
       "key":"Mm",
