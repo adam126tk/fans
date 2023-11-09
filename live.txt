@@ -9,25 +9,30 @@ http://52bsj.vip:81/api/v3/file/get/97712/%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E
 https://vd2.bdstatic.com/mda-ndpg29kxui1g1xrj/sc/cae_h264_delogo/1650799724379445533/mda-ndpg29kxui1g1xrj.mp4
 #EXTINF:-1 group-title="乐享汇出品",『乐享生活fans』
 http://52bsj.vip:81/api/v3/file/get/97713/ba22f6ad1be11c9679f19bc8d866da15.mp4?sign=7T4la_UuJ8JzHAVur7ltNQwo6MqSkg5lQ6u2yh3XjOU%3D%3A0
-#EXTINF:-1 group-title="乐享汇出品",QQ群
+#EXTINF:-1 group-title="乐享汇出品",QQ群_QQ频道
 http://52bsj.vip:81/api/v3/file/get/98686/%E9%9F%A9%E5%9B%BD%E8%88%9E%E5%9B%A2.mp4?sign=ukUlD0f4xuTcY0LLB1dEF3zsjiimiBioZQDmliRGef8%3D%3A0
 #EXTINF:-1 group-title="乐享汇出品",『621886232』
 http://52bsj.vip:81/api/v3/file/get/129480/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91.mp4?sign=xePyCzwnjsEkFhQ16uNlI2ndDiyOUnTptvBgj5DAXqE%3D%3A0
 #EXTINF:-1 group-title="乐享汇出品",『630383903』
 http://52bsj.vip:81/api/v3/file/get/155291/%E6%B1%9F%E6%B9%96%E8%B7%AF2.mp4?sign=BDXHOf0XO5XVPx6DLsiYohAY2yLlYHjpxWTommVNyk8%3D%3A0
-#EXTINF:-1 group-title="乐享汇出品",QQ频道
+#EXTINF:-1 group-title="乐享汇出品",【乐享汇fans】
 https://alimov2.a.kwimgs.com/upic/2023/04/22/17/BMjAyMzA0MjIxNzI1MzZfMjgzNjA2ODc5N18xMDEyMzc2NjE3NDlfMF8z_b_B97021f3592e1779257f420d55885ac3a.mp4?clientCacheKey=3x73a4vbk8wzt2q_b.mp4&tt=b&di=b7d53c28&bp=10000
-#EXTINF:-1 group-title="乐享汇出品",『乐享生活fans』
+#EXTINF:-1 group-title="乐享汇出品",【乐享生活fans】
 http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
 #EXTINF:-1 group-title="乐享汇出品",公众号：乐享汇fans免费分享持续更新
 https://vd3.bdstatic.com/mda-pd369avvets19gch/sc/cae_h264/1680582897997490362/mda-pd369avvets19gch.mp4
 #EXTINF:-1 group-title="乐享汇出品",更多详情见公众号文章
 http://lxajh.top/tv/douyu.php?id=2901080
-不说再见,http://52bsj.vip:81/api/v3/file/get/159981/%E4%B8%8D%E8%AF%B4%E5%86%8D%E8%A7%81.mp4?sign=Dh1qLV_ENWTO66yyJI5_Tsfthi9y-Ixdl27nLkQCODg%3D%3A0
-金榜题名,http://52bsj.vip:81/api/v3/file/get/159974/%E7%88%B1%E6%96%B9%E8%8C%B42.mp4?sign=7q_Gg-GzbIYm82974-1mnEvUWNPlL5tZaBVAE6pl-Hg%3D%3A0
-匆匆那年,http://52bsj.vip:81/api/v3/file/get/159978/-%E5%8C%86%E5%8C%86%E6%96%B9%E8%8C%B4.mp4?sign=O3ChNf1AlfnBlil1_SNwabh42mb3IziH6cFCqkM7cvk%3D%3A0
-各奔天涯,http://52bsj.vip:81/api/v3/file/get/159984/%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA.mp4?sign=YkhL8-Huig3gMP2m0HUroMpeu9vsyFNObTWma1tZLuM%3D%3A0
-致敬追梦人,http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+#EXTINF:-1 group-title="乐享汇出品",不说再见
+http://52bsj.vip:81/api/v3/file/get/159981/%E4%B8%8D%E8%AF%B4%E5%86%8D%E8%A7%81.mp4?sign=Dh1qLV_ENWTO66yyJI5_Tsfthi9y-Ixdl27nLkQCODg%3D%3A0
+#EXTINF:-1 group-title="乐享汇出品",金榜题名
+http://52bsj.vip:81/api/v3/file/get/159974/%E7%88%B1%E6%96%B9%E8%8C%B42.mp4?sign=7q_Gg-GzbIYm82974-1mnEvUWNPlL5tZaBVAE6pl-Hg%3D%3A0
+#EXTINF:-1 group-title="乐享汇出品",匆匆那年
+http://52bsj.vip:81/api/v3/file/get/159978/-%E5%8C%86%E5%8C%86%E6%96%B9%E8%8C%B4.mp4?sign=O3ChNf1AlfnBlil1_SNwabh42mb3IziH6cFCqkM7cvk%3D%3A0
+#EXTINF:-1 group-title="乐享汇出品",各奔天涯
+http://52bsj.vip:81/api/v3/file/get/159984/%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA.mp4?sign=YkhL8-Huig3gMP2m0HUroMpeu9vsyFNObTWma1tZLuM%3D%3A0
+#EXTINF:-1 group-title="乐享汇出品",致敬追梦人
+http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
 
 #EXTINF:-1 group-title="4K",BTV纪实科教 8K
 http://159.75.85.63:6798
