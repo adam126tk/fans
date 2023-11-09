@@ -164,6 +164,18 @@
      "ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"    
     },
     {
+      "key": "LELE",
+      "name": "乐乐┃4K",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./jar/xry.jar"
+      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
+    },
+    {
       "key":"Mm",
       "name":"毛毛┃4K",
       "type":3,
@@ -238,8 +250,8 @@
      "ext":"http://ytcms.lyyytv.cn/api.php/app/"
     },
     {
-      "key": "乐乐",
-      "name": "乐乐┃蓝光",
+      "key": "汇汇",
+      "name": "汇汇┃蓝光",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
