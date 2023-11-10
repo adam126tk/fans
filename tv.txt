@@ -73,6 +73,7 @@
      "key":"T4_wo",
      "name":"玩偶┃T4",
      "type":4,
+     "jar": "./jar/JGWO.jar",
      "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
      "searchable":1,
      "quickSearch":1,
@@ -90,8 +91,8 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 1,
-     "ext": "7984abb3f03c447196459eebd03eda63",
-     "jar": "./JS/rski.js"
+     "jar": "./JS/rski.js",
+     "ext": "7984abb3f03c447196459eebd03eda63" 
     },
     {
       "key": "Wobg",
@@ -106,18 +107,8 @@
       "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt$$$http://wobge.run.goorm.io"
     },
     {
-      "key": "csp_Wo",
-      "name": "玩偶┃弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
-    {
       "key": "玩偶弹幕版",
-      "name": "哥哥|弹幕",
+      "name": "玩偶|弹幕",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -129,6 +120,16 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "csp_Wo",
+      "name": "哥哥┃弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
      "key": "csp_XBPQ_6V",
