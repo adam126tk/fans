@@ -122,7 +122,7 @@
       "jar": "./jar/danmu.jar"
     },
     {
-      "key": "csp_Wo",
+      "key": "哥哥弹幕版",
       "name": "哥哥┃弹幕",
       "type": 3,
       "api": "csp_WoGG",
