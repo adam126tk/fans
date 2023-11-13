@@ -5,14 +5,7 @@
   "warningText":"公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
   
   "sites": [
-	 {
-     "key":"DB",
-     "name":"🌎豆瓣|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
-     "type":3,
-     "api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"
-    },
 
- 
     { "key": "横版影院", "name": "❤️短剧一
     ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
 {
