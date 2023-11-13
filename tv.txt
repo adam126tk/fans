@@ -618,9 +618,9 @@
         {"name":"奇奇","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url="},
         {"name":"妙妙","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url="},
         {"name":"米米","type":1,"url":"http://api.888484.xyz/jiexi/米太硬.php?url="},
-        {"name":"沿途","type":0,"url":"https://jx.yangtu.top/?url="},
-        {"name":"浩大","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-        {"name":"宇宙","type":0,"url":"https://jx.jsonplayer.com/player/?url="}
+        {"name":"途途","type":0,"url":"https://jx.yangtu.top/?url="},
+        {"name":"浩浩","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+        {"name":"宙宙","type":0,"url":"https://jx.jsonplayer.com/player/?url="}
         ],
 
 "flags":
