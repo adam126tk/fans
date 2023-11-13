@@ -253,27 +253,28 @@
      "quickSearch":1,
      "filterable":1,
      "ext":"http://ytcms.lyyytv.cn/api.php/app/"
+    },   
+    {"key":"荐片","name":"荐荐┃蓝光","type":3,"api":"./JS/drpy.min.js","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"./JS/荐片.js"},
+    {"key":"快看影视","name":"康康┃蓝光","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider备用.jar"},
+    {"key":"酷云","name":"云云┃蓝光","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
+{"key":"雨晴","name":"雨雨┃蓝光","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
+{"key":"王朝","name":"潮潮┃蓝光","type":3,"api":"csp_Yswc","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"},
+{"key":"涛涛剧","name":"涛涛┃蓝光","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.129.187.120:8090/ruifenglb_api.php/v1.vod"},
+{"key":"九八影视","name":"酒酒┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/九八影视.js"},
+{"key":"宅腐影视","name":"宅宅┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
+{"key":"罐子影视","name":"罐罐┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"key":"子子影视","name":"子子┃蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/子子影视.js"},
+{"key":"大米星球","name":"米米┃蓝光","type":3,"api":"./JS/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/大米星球.js"},
+{"key":"企鹅","name":"鹅鹅┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.12.90.7:86/api.php/app/"},
+    {
+      "key":"JOJO",
+      "name":"俊俊┃蓝光",
+      "type":3,"jar":"./jar/1019.jar",
+      "api":"csp_Jiohub",
+      "searchable":1,
+      "filterable":1,
+      "changeable":1
     },
-    {"key":"JOJO","name":"俊俊","type":3,"jar":"./jar/1019.jar","api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1},
-    {"key":"荐片","name":"荐片","type":3,"api":"./JS/drpy.min.js","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"./JS/荐片.js"},
-    {"key":"酷云","name":"酷云","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
-{"key":"雨晴","name":"雨晴","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
-{"key":"王朝","name":"王朝","type":3,"api":"csp_Yswc","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"},
-{"key":"三司","name":"三司","api":"csp_XBPQ","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"./JS/348影视.js"},
-{"key":"鱼儿","name":"鱼儿","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"ilH3/t4mr1SM09PvschTH1LOZQVQKtsm4MVV71I4Lwh63Oc97KaPnM2ZzZRvsQpckmVsMew5wnfhBUdHmy8YP+wok44dwqClEg0/PhTrtSCTOBGoOIf5QmbrPwtmGCBSsfWb2JZ6jrJ05gANATBhTNcmf3lFV45rF6ahsGTbeiIZTRVQM4TVfHB6CJI8QNfc88sKDjYjvMC7XhYNrmebd3ZIA++k361VGPv0jlGOHS8iUA6ywLlBgHp+jl84MIJcLvmzqN5OfD04xGXE/nNTqlf6CG83cX27GZ2036L7ZVdSiI9/dI0vmuQUvXXaA/OqH2xqDA1Y4ltd0fZoH7/x9fY+gg1nsxgDTalCQJL8lkAOdvft2m+QKyQB4gXrcWrH+eUOaScueRXlKSTGer3OR1ZyZmSgd/BvqSukXeaUmDPDJsERNe80PFW6B7xqbGQz5l9jNsxgwVkjque5eNYUuvyc3YK3N09bR1hMWw3aUpLldwBMLDNgCgH/YYBjEqAfXjooSZxI3nPReKeRyOnUmpoqbXE045w6A8nrFsiJ9jZaDQoRf6u9g8xNlXM11v5klfzrhT+0cHWdhIME4cn4Fq83p1NzlIZ808fXP79xmnqQdeNbMGKRELseJSwV8hfx+e6yVN5oOrRrVjD2rCDPSYBZh25Pp+5VH0k6NF3N6JwI=","jar":"./jar/qiaoji.jar"},
-{"key":"涛涛剧","name":"涛涛剧","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.129.187.120:8090/ruifenglb_api.php/v1.vod"},
-{"key":"好戏网","name":"好戏网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/好戏网.js"},
-{"key":"三六零","name":"三六零","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/1013.jar"},
-{"key":"五五五","name":"五五五","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://555dy3.com/api.php/app/","header":{"user-agent":"okhttp/5.0.0-alpha.10"}},
-{"key":"九八影视","name":"九八影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/九八影视.js"},
-{"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/spider备用.jar"},
-{"key":"宅腐影视","name":"宅腐影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
-{"key":"子子影视","name":"子子影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/子子影视.js"},
-
-{"key":"罐子影视","name":"罐子影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
-{"key":"大米星球","name":"大米星球","type":3,"api":"./JS/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/大米星球.js"},
-{"key":"企鹅","name":"企鹅","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.12.90.7:86/api.php/app/"},
-
     {
       "key": "乐乐",
       "name": "乐乐┃蓝光",
@@ -285,6 +286,12 @@
         "综艺",
         "动漫"
       ]
+    },
+    {"key":"三司","name":"三四八┃蓝光","api":"csp_XBPQ","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"./JS/348影视.js"},
+{"key":"三六零","name":"三六零┃蓝光","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/1013.jar"},
+{"key":"五五五","name":"五五五┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://555dy3.com/api.php/app/","header":{"user-agent":"okhttp/5.0.0-alpha.10"}},
+{"key":"好戏网","name":"好戏网┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/好戏网.js"},
+    {"key":"鱼儿","name":"鱼鱼┃蓝光","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"ilH3/t4mr1SM09PvschTH1LOZQVQKtsm4MVV71I4Lwh63Oc97KaPnM2ZzZRvsQpckmVsMew5wnfhBUdHmy8YP+wok44dwqClEg0/PhTrtSCTOBGoOIf5QmbrPwtmGCBSsfWb2JZ6jrJ05gANATBhTNcmf3lFV45rF6ahsGTbeiIZTRVQM4TVfHB6CJI8QNfc88sKDjYjvMC7XhYNrmebd3ZIA++k361VGPv0jlGOHS8iUA6ywLlBgHp+jl84MIJcLvmzqN5OfD04xGXE/nNTqlf6CG83cX27GZ2036L7ZVdSiI9/dI0vmuQUvXXaA/OqH2xqDA1Y4ltd0fZoH7/x9fY+gg1nsxgDTalCQJL8lkAOdvft2m+QKyQB4gXrcWrH+eUOaScueRXlKSTGer3OR1ZyZmSgd/BvqSukXeaUmDPDJsERNe80PFW6B7xqbGQz5l9jNsxgwVkjque5eNYUuvyc3YK3N09bR1hMWw3aUpLldwBMLDNgCgH/YYBjEqAfXjooSZxI3nPReKeRyOnUmpoqbXE045w6A8nrFsiJ9jZaDQoRf6u9g8xNlXM11v5klfzrhT+0cHWdhIME4cn4Fq83p1NzlIZ808fXP79xmnqQdeNbMGKRELseJSwV8hfx+e6yVN5oOrRrVjD2rCDPSYBZh25Pp+5VH0k6NF3N6JwI=","jar":"./jar/qiaoji.jar"
     },
 
 #云盘搜索
