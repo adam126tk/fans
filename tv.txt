@@ -34,19 +34,16 @@
      "changeable":0,
      "jar":"http://vip.weixine.link:88/alibaba.jar"
     },
-    {"key":"腾讯","name":"腾讯","type":3,"api":"./JS/drpy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/腾讯.js"},
-{"key":"芒果","name":"芒果","type":3,"api":"./JS/drpy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/芒果.js"},
-{"key":"奇艺","name":"奇艺","type":3,"api":"./JS/drpy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/爱奇.js"},
-{"key":"优酷","name":"优酷","type":3,"api":"./JS/drpy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/优酷.js"},
-{"key":"企鹅","name":"企鹅","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.12.90.7:86/api.php/app/"},
-
-
     {
-     "key":"TX",
-     "name":"腾腾(官)",
-     "type":3,
-     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
-     "ext":"http://vip.weixine.link:88/js/tengxun.js"
+      "key":"TX",
+      "name":"腾腾(官)",
+      "type":3,
+      "api":"./JS/drpy.min.js",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./JS/腾讯.js"
     },
     {
      "key":"SG",
@@ -56,25 +53,37 @@
      "ext":"http://vip.weixine.link:88/js/caigou.js"
     },
     {
-     "key":"IQY",
-     "name":"爱爱(官)",
-     "type":3,
-     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
-     "ext":"http://vip.weixine.link:88/js/aiqiyi.js"
+      "key":"IQY",
+      "name":"爱爱(官)",
+      "type":3,
+      "api":"./JS/drpy.min.js",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./JS/爱奇.js"
     },
     {
-     "key":"YK",
-     "name":"优优(官)",
-     "type":3,
-     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
-     "ext":"http://vip.weixine.link:88/js/youku.js"
+      "key":"YK",
+      "name":"优优(官)",
+      "type":3,
+      "api":"./JS/drpy.min.js",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./JS/优酷.js"
     },
     {
-     "key":"MG",
-     "name":"果果(官)",
-     "type":3,
-     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
-     "ext":"http://vip.weixine.link:88/js/mangguo.js"
+      "key":"MG",
+      "name":"果果(官)",
+      "type":3,
+      "api":"./JS/drpy.min.js",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./JS/芒果.js"
     },
     {
      "key":"T4_wo",
@@ -263,6 +272,8 @@
 
 {"key":"罐子影视","name":"罐子影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"大米星球","name":"大米星球","type":3,"api":"./JS/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/大米星球.js"},
+{"key":"企鹅","name":"企鹅","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.12.90.7:86/api.php/app/"},
+
     {
       "key": "乐乐",
       "name": "乐乐┃蓝光",
