@@ -35,6 +35,16 @@
      "jar":"http://vip.weixine.link:88/alibaba.jar"
     },
     {
+      "key": "应用商店",
+      "name": "🏫应用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://codeberg.org/wuyou/TVBox/raw/branch/main/yy/yysc.json",
+      "jar": "https://pan.shangui.cc/f/PQGeUK/%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
+    },
+    {
       "key":"TX",
       "name":"腾腾(官)",
       "type":3,
