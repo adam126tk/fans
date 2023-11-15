@@ -507,8 +507,9 @@
       "changeable":0,
       "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt",
       "jar":"./jar/1019.jar"
-    },  {
-      "key": "Gitcafe",
+    },  
+    {
+      "key": "Gitcafe1",
       "name": "小纸条HK┃🍭",
       "type": 3,
       "jar": "./jar/xyq.jar",
