@@ -41,8 +41,8 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://codeberg.org/wuyou/TVBox/raw/branch/main/yy/yysc.json",
-      "jar": "https://pan.shangui.cc/f/PQGeUK/%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/yysd/main/yysc.json",
+      "jar": "https://gh-proxy.com/https://github.com/lxhfans/yysd/blob/main/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
     },
     {
       "key":"TX",
