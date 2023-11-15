@@ -464,28 +464,6 @@
       "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
-      "key":"七夜",
-      "name":"七夜┃🍭",
-      "type":3,
-      "api":"csp_Dovx",
-      "jar":"./jar/fm.jar",
-      "searchable":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
-    },
-    {
-      "key":"盘搜",
-      "name":"盘搜┃🍭",
-      "type":3,
-      "api":"csp_PanSearch",
-      "jar":"./jar/1019.jar",
-      "searchable":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
-    },
-    {
       "key":"易搜",
       "name":"易搜┃🍭",
       "type":3,
@@ -507,10 +485,32 @@
       "changeable":0,
       "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt",
       "jar":"./jar/1019.jar"
-    },  
+    }, 
+    {
+      "key":"盘搜",
+      "name":"盘搜┃🍭",
+      "type":3,
+      "api":"csp_PanSearch",
+      "jar":"./jar/1019.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key":"七夜",
+      "name":"七夜┃🍭",
+      "type":3,
+      "api":"csp_Dovx",
+      "jar":"./jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
     {
       "key": "Gitcafe1",
-      "name": "小纸条HK┃🍭",
+      "name": "纸条HK┃🍭",
       "type": 3,
       "jar": "./jar/xyq.jar",
       "api": "csp_Gitcafe",
@@ -518,30 +518,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
-    },
-    {
-      "key": "csp_Zhaozy",
-      "name": "找资源HK┃🍭",
-      "type": 3,
-      "jar": "./jar/xyq.jar",
-      "api": "csp_Zhaozy",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
-    },
-    {
-      "key": "csp_AliPS",
-      "name": "盘搜HK┃🍭",
-      "type": 3,
-      "jar": "./jar/xyq.jar",
-      "api": "csp_AliPS",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
@@ -562,6 +538,30 @@
       "type": 3,
       "jar": "./jar/xyq.jar",
       "api": "csp_Upyunso",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "盘搜HK┃🍭",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_AliPS",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "csp_Zhaozy",
+      "name": "资源HK┃🍭",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Zhaozy",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
