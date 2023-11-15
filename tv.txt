@@ -461,7 +461,7 @@
       "searchable":1,
       "filterable":1,
       "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
       "key":"七夜",
@@ -472,7 +472,7 @@
       "searchable":1,
       "filterable":1,
       "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
       "key":"盘搜",
@@ -483,7 +483,7 @@
       "searchable":1,
       "filterable":1,
       "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
       "key":"易搜",
@@ -494,7 +494,7 @@
       "searchable":1,
       "filterable":1,
       "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
       "key":"云搜",
@@ -505,8 +505,67 @@
       "quickSearch":1,
       "filterable":1,
       "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt",
       "jar":"./jar/1019.jar"
+    },  {
+      "key": "Gitcafe",
+      "name": "小纸条HK┃🍭",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Gitcafe",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "csp_Zhaozy",
+      "name": "找资源HK┃🍭",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Zhaozy",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "盘搜HK┃🍭",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_AliPS",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "csp_Yisou",
+      "name": "易搜HK┃🍭",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Yisou",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "csp_Upyunso",
+      "name": "云搜HK┃🍭",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Upyunso",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
       "key": "纸条弹幕版",
@@ -517,7 +576,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/乐享TV/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
@@ -531,7 +590,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/乐享TV/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
@@ -545,7 +604,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/乐享TV/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
         "username": "zhaoziyuannb",
         "password": "zhaoziyuannb",
         "danmu": true
@@ -561,7 +620,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/乐享TV/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
@@ -575,7 +634,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/乐享TV/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
@@ -589,7 +648,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/乐享TV/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
