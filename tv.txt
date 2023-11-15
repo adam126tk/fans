@@ -498,15 +498,16 @@
       "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
-      "key":"七夜",
-      "name":"七夜┃🍭",
-      "type":3,
-      "api":"csp_Dovx",
-      "jar":"./jar/fm.jar",
-      "searchable":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "key": "Gitcafe1",
+      "name": "纸条HK┃🍭",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Gitcafe",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
       "key": "csp_Yisou",
@@ -544,30 +545,6 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
-        {
-      "key": "Gitcafe1",
-      "name": "纸条HK┃🍭",
-      "type": 3,
-      "jar": "./jar/xyq.jar",
-      "api": "csp_Gitcafe",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
-    },
-    {
-      "key": "csp_Zhaozy",
-      "name": "资源HK┃🍭",
-      "type": 3,
-      "jar": "./jar/xyq.jar",
-      "api": "csp_Zhaozy",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
-    },
     {
       "key": "纸条弹幕版",
       "name": "纸条弹幕┃🍭",
@@ -575,36 +552,6 @@
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar"
-    },
-    {
-      "key": "找资源弹幕版",
-      "name": "资源弹幕┃🍭",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
-        "username": "zhaoziyuannb",
-        "password": "zhaoziyuannb",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar"
-    },
-    {
-      "key": "七夜弹幕版",
-      "name": "七夜弹幕┃🍭",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "filterable": 0,
       "changeable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
@@ -645,6 +592,59 @@
       "name": "盘搜弹幕┃🍭",
       "type": 3,
       "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+      {
+      "key":"七夜",
+      "name":"七夜┃🍭",
+      "type":3,
+      "api":"csp_Dovx",
+      "jar":"./jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "csp_Zhaozy",
+      "name": "资源HK┃🍭",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Zhaozy",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
+      "key": "找资源弹幕版",
+      "name": "资源弹幕┃🍭",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "username": "zhaoziyuannb",
+        "password": "zhaoziyuannb",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "七夜弹幕版",
+      "name": "七夜弹幕┃🍭",
+      "type": 3,
+      "api": "csp_Dovx",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
