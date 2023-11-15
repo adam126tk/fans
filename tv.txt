@@ -184,7 +184,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "./jar/xry.jar",
-      "ext": "http://127.0.0.1:9978/file/乐享TV/token.txt"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
       "key":"Mm",
