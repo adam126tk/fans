@@ -105,7 +105,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/乐享TV/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
         "filter": "./JS/wogg.json",
         "danmu": false
       },
@@ -121,7 +121,7 @@
       },
       "jar": "./jar/pg.jar",
       "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/乐享TV/token.txt$$$http://wobge.run.goorm.io"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$http://wobge.run.goorm.io"
     },
    {
       "key": "玩偶弹幕版",
@@ -132,7 +132,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/乐享TV/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
         "filter": "./JS/wogg.json",
         "danmu": true
       },
