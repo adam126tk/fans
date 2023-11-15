@@ -41,8 +41,8 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/yysd/main/yysc.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/yysd/main/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/yysd/main/yysd.json",
+      "jar": "https://cloud.lxweb.cn/s/0w9fj/lxhfans应用市场.jar"
     },
     {
       "key":"TX",
