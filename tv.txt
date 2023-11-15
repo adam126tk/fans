@@ -2,6 +2,7 @@
 //公众号：『乐享汇fans』『乐享生活fans』
 //QQ频道：『乐享汇fans』     QQ群：621886232     630383903
   "spider":"./lxhfans.jar",
+  "wallpaper":"https://api.likepoems.com/img/bing",
   "warningText":"公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
   "lives": [
     {
@@ -528,6 +529,12 @@
       "ext": "http://127.0.0.1:9978/file/乐享TV/token.txt",
       "timeout": 30
     },
+    {"key":"纸条","name":"纸条1｜云盘","type":3,"api":"csp_XiaoZhiTiao","jar":"./jar/1019.jar","searchable":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"七夜","name":"七夜1｜云盘","type":3,"api":"csp_Dovx","jar":"./jar/fm.jar","searchable":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"盘搜","name":"盘搜1｜云盘","type":3,"api":"csp_PanSearch","jar":"./jar/1019.jar","searchable":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"易搜","name":"易搜1｜云盘","type":3,"api":"csp_YiSo","jar":"./jar/fm.jar","searchable":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"云搜","name":"云搜1｜云盘","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/1019.jar"},
+
     {
       "key": "纸条弹幕版",
       "name": "纸条弹幕┃🍭",
