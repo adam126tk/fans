@@ -35,16 +35,6 @@
      "jar":"http://vip.weixine.link:88/alibaba.jar"
     },
     {
-      "key": "应用商店",
-      "name": "🏫应用商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./JS/yysd.json",
-      "jar": "./jar/lxhfans应用市场.jar"
-    },
-    {
       "key":"TX",
       "name":"腾腾(官)",
       "type":3,
@@ -105,6 +95,33 @@
      "quickSearch":1,
      "filterable":1
     },
+        {
+      "key": "玩偶弹幕版",
+      "name": "玩偶|弹幕",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/乐享TV/token.txt",
+        "filter": "./JS/wogg.json",
+        "danmu": false
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "Wobg",
+      "name": "玩偶|表哥",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./jar/pg.jar",
+      "api": "csp_Wobg",
+      "ext": "http://127.0.0.1:9978/file/乐享TV/token.txt$$$http://wobge.run.goorm.io"
+    },
     {
      "key": "csp_WoGG",
      "name": "玩偶┃4K",
@@ -121,33 +138,6 @@
      "ext": "7984abb3f03c447196459eebd03eda63" 
     },
     {
-      "key": "Wobg",
-      "name": "玩偶|表哥",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "./jar/pg.jar",
-      "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt$$$http://wobge.run.goorm.io"
-    },
-    {
-      "key": "玩偶弹幕版",
-      "name": "玩偶|弹幕",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt",
-        "filter": "./JS/wogg.json",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar"
-    },
-    {
       "key": "哥哥弹幕版",
       "name": "哥哥┃弹幕",
       "type": 3,
@@ -155,7 +145,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/乐享TV/阿狸/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "ext":"http://127.0.0.1:9978/file/乐享TV/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
      "key": "csp_XBPQ_6V",
