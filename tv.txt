@@ -582,21 +582,7 @@
       },
       "jar": "./jar/danmu.jar"
     },
-    {
-      "key": "盘Se弹幕版",
-      "name": "盘S弹幕┃🍭",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar"
-    },
-    {
+       {
       "key": "找资源弹幕版",
       "name": "资源弹幕┃🍭",
       "type": 3,
@@ -627,10 +613,24 @@
       "jar": "./jar/danmu.jar"
     },
     {
-      "key": "盘搜弹幕版",
-      "name": "盘搜弹幕┃🍭",
+      "key": "易搜弹幕版",
+      "name": "易搜弹幕┃🍭",
       "type": 3,
-      "api": "csp_PanSou",
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+        {
+      "key": "盘Se弹幕版",
+      "name": "云搜弹幕┃🍭",
+      "type": 3,
+      "api": "csp_PanSearch",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
@@ -641,10 +641,10 @@
       "jar": "./jar/danmu.jar"
     },
     {
-      "key": "易搜弹幕版",
-      "name": "易搜弹幕┃🍭",
+      "key": "盘搜弹幕版",
+      "name": "盘搜弹幕┃🍭",
       "type": 3,
-      "api": "csp_YiSo",
+      "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
