@@ -122,21 +122,6 @@
       "api": "csp_Wobg",
       "ext": "http://127.0.0.1:9978/file/乐享TV/token.txt$$$http://wobge.run.goorm.io"
     },
-    {
-     "key": "csp_WoGG",
-     "name": "玩偶┃备用",
-     "type": 3,
-     "style": {
-       "type": "rect",
-       "ratio": 0.8
-     },
-     "api": "csp_WoGG",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "jar": "./JS/rski.js",
-     "ext": "7984abb3f03c447196459eebd03eda63" 
-    },
    {
       "key": "玩偶弹幕版",
       "name": "玩偶|弹幕",
@@ -151,6 +136,21 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
+    },
+    {
+     "key": "csp_WoGG",
+     "name": "玩偶┃备用",
+     "type": 3,
+     "style": {
+       "type": "rect",
+       "ratio": 0.8
+     },
+     "api": "csp_WoGG",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "jar": "./JS/rski.js",
+     "ext": "7984abb3f03c447196459eebd03eda63" 
     },
     {
      "key": "csp_XBPQ_6V",
