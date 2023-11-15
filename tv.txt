@@ -95,9 +95,9 @@
      "quickSearch":1,
      "filterable":1
     },
-        {
-      "key": "玩偶弹幕版",
-      "name": "玩偶|弹幕",
+    {
+      "key": "玩偶哥哥",
+      "name": "玩偶|哥哥",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -137,15 +137,20 @@
      "jar": "./JS/rski.js",
      "ext": "7984abb3f03c447196459eebd03eda63" 
     },
-    {
-      "key": "哥哥弹幕版",
-      "name": "哥哥┃弹幕",
+   {
+      "key": "玩偶弹幕版",
+      "name": "玩偶|弹幕",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Wogg",
       "searchable": 1,
-      "quickSearch": 1,
+      "filterable": 1,
       "changeable": 0,
-      "ext":"http://127.0.0.1:9978/file/乐享TV/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/乐享TV/token.txt",
+        "filter": "./JS/wogg.json",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
     },
     {
      "key": "csp_XBPQ_6V",
