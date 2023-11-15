@@ -601,7 +601,7 @@
       },
       "jar": "./jar/danmu.jar"
     },
-      {
+    {
       "key":"七夜",
       "name":"七夜┃🍭",
       "type":3,
@@ -625,6 +625,20 @@
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
+      "key": "七夜弹幕版",
+      "name": "七夜弹幕┃🍭",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
       "key": "找资源弹幕版",
       "name": "资源弹幕┃🍭",
       "type": 3,
@@ -636,20 +650,6 @@
         "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
         "username": "zhaoziyuannb",
         "password": "zhaoziyuannb",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar"
-    },
-    {
-      "key": "七夜弹幕版",
-      "name": "七夜弹幕┃🍭",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
