@@ -42,7 +42,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/yysd/main/yysd.json",
-      "jar": "https://cloud.lxweb.cn/s/0w9fj/lxhfans应用市场.jar"
+      "jar": "./jar/lxhfans应用市场.jar"
     },
     {
       "key":"TX",
