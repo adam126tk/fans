@@ -105,7 +105,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
         "filter": "./JS/wogg.json",
         "danmu": false
       },
@@ -121,7 +121,7 @@
       },
       "jar": "./jar/pg.jar",
       "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$http://wobge.run.goorm.io"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$http://wobge.run.goorm.io"
     },
    {
       "key": "玩偶弹幕版",
@@ -132,7 +132,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
         "filter": "./JS/wogg.json",
         "danmu": true
       },
@@ -184,7 +184,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "./jar/xry.jar",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key":"Mm",
@@ -461,7 +461,7 @@
       "searchable":1,
       "filterable":1,
       "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key":"易搜",
@@ -472,7 +472,7 @@
       "searchable":1,
       "filterable":1,
       "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key":"云搜",
@@ -483,7 +483,7 @@
       "quickSearch":1,
       "filterable":1,
       "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt",
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
       "jar":"./jar/1019.jar"
     }, 
     {
@@ -495,7 +495,7 @@
       "searchable":1,
       "filterable":1,
       "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "Gitcafe1",
@@ -507,7 +507,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_Yisou",
@@ -519,7 +519,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_Upyunso",
@@ -531,7 +531,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_AliPS",
@@ -543,7 +543,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "纸条弹幕版",
@@ -554,7 +554,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
@@ -568,7 +568,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
@@ -582,7 +582,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
@@ -596,7 +596,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
@@ -610,7 +610,7 @@
       "searchable":1,
       "filterable":1,
       "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_Zhaozy",
@@ -622,7 +622,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "七夜弹幕版",
@@ -633,7 +633,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
@@ -647,7 +647,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
         "username": "zhaoziyuannb",
         "password": "zhaoziyuannb",
         "danmu": true
