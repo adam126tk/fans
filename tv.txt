@@ -498,30 +498,6 @@
       "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
-      "key": "csp_XYQHiker_土拨鼠搜索",
-      "name": "📀土拨鼠(搜索)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./JS/土拨鼠搜索.json"
-    },
-    {
-      "key": "csp_XYQHikerAL_橘子盘搜",
-      "name": "📀橘子盘搜(搜索)",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa",      
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./JS/橘子盘搜.json"
-    },
-    {
       "key": "Gitcafe1",
       "name": "纸条HK┃🍭",
       "type": 3,
