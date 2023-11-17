@@ -479,12 +479,12 @@
       "name":"云搜┃🍭",
       "type":3,
       "api":"csp_UpYun",
-      "jar":"./jar/fm.jar"
+      "jar":"./jar/fm.jar",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
       "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     }, 
     {
       "key":"盘搜",
