@@ -502,73 +502,73 @@
       "name": "🦊纸条 | 搜索",
       "type": 3,
       "api": "csp_Gitcafe",
+      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
-      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_Zhaozy2",
       "name": "📀找资源 | 搜索",
       "type": 3,
       "api": "csp_Zhaozy",
+      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
-      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_AliPS2",
       "name": "📀盘搜 | 搜索",
       "type": 3,
       "api": "csp_AliPS",
+      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
-      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"     
     },
     {
       "key": "csp_Yisou2",
       "name": "📀易搜 | 搜索",
       "type": 3,
       "api": "csp_Yisou",
+      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
-      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
     },
     {
       "key": "csp_XYQHiker_土拨鼠搜索",
       "name": "📀土拨鼠(搜索)",
       "type": 3,
       "api": "csp_XYQHiker",
+      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./JS/土拨鼠搜索.json",
-      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
+      "ext": "./JS/土拨鼠搜索.json+4k|auto|fhd"
     },
     {
       "key": "csp_XYQHikerAL_橘子盘搜",
       "name": "📀橘子盘搜(搜索)",
       "type": 3,
       "api": "csp_XYQHikerAL",
+      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa",      
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./JS/橘子盘搜.json",
-      "jar": "./jar/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
+      "ext": "./JS/橘子盘搜.json+4k|auto|fhd"
     },
     {
       "key": "Gitcafe1",
