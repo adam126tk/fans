@@ -556,7 +556,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./JS/土拨鼠搜索.json+4k|auto|fhd"
+      "ext": "./JS/土拨鼠搜索.json"
     },
     {
       "key": "csp_XYQHikerAL_橘子盘搜",
@@ -568,7 +568,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./JS/橘子盘搜.json+4k|auto|fhd"
+      "ext": "./JS/橘子盘搜.json"
     },
     {
       "key": "Gitcafe1",
