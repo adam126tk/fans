@@ -43,7 +43,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "./JS/yysd.json",
-      "jar": "./lxhfans应用商店.jar"
+      "jar": "./jar/lxhfans应用商店.jar"
     },
     {
       "key":"TX",
