@@ -97,7 +97,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "玩偶┃哥哥",
+      "name": "玩偶┃GG",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -112,7 +112,7 @@
     },
     {
       "key": "Wobg",
-      "name": "玩偶┃表哥",
+      "name": "玩偶┃BG",
       "type": 3,
       "style": {
         "type": "rect",
@@ -139,7 +139,7 @@
     },
     {
      "key": "csp_WoGG",
-     "name": "玩偶┃备用",
+     "name": "玩偶┃BY",
      "type": 3,
      "style": {
        "type": "rect",
