@@ -46,17 +46,6 @@
       "jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
     },
     {
-      "key":"TX",
-      "name":"腾腾(官)",
-      "type":3,
-      "api":"./JS/drpy.min.js",
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./JS/腾讯.js"
-    },
-    {
      "key":"SG",
      "name":"狗狗(官)",
      "type":3,
@@ -86,15 +75,15 @@
       "ext":"./JS/优酷.js"
     },
     {
-      "key":"MG",
-      "name":"果果(官)",
+      "key":"TX",
+      "name":"腾腾(官)",
       "type":3,
       "api":"./JS/drpy.min.js",
       "playerType":2,
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./JS/芒果.js"
+      "ext":"./JS/腾讯.js"
     },
     {
      "key":"T4_wo",
