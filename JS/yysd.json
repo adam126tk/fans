@@ -1,12 +1,17 @@
 [
 {"name": "推荐","list": [{"name": "公众号：『乐享汇fans』免费分享持续更新👊🏻","url": "","icon": "https://cloud.lxweb.cn/f/aEgyI6/Miru.png","version": ""}]},
+{"name": "乐享汇粉丝专属","list": [
+{"name": "小白云盘TV","url": "https://cloud.lxweb.cn/f/nJqGU6/%E5%B0%8F%E7%99%BD%E4%BA%91%E7%9B%98TV-v1.6.4.2-%E9%80%9A%E7%94%A8%E7%89%88.apk","icon": "https://cloud.lxweb.cn/f/mrbAtj/%E5%B0%8F%E7%99%BD%E4%BA%91%E7%9B%98.png","version": "1.6.4.2通用版"},
+{"name": "MBox","url": "https://cloud.lxweb.cn/f/dLkrc2/MBox_1.0.1.apk","icon": "https://cloud.lxweb.cn/f/ymB6SE/MBox.png","version": "1.0.1版"},
+{"name": "宝盒","url": "https://cloud.lxweb.cn/f/AXgeia/%E5%AE%9D%E7%9B%92_3.0.9.apk","icon": "https://cloud.lxweb.cn/f/0gNEU0/%E5%AE%9D%E7%9B%92.png","version": "3.0.9版"},
+{"name": "猫爪CatBox","url": "https://cloud.lxweb.cn/f/E02diX/CatBox_20231115_1611.apk","icon": "https://cloud.lxweb.cn/f/lg6PFw/CatBox.png"},
+{"name": "电视家","url": "https://cloud.lxweb.cn/f/2JNQcG/%E7%94%B5%E8%A7%86%E5%AE%B63.0_3.10.25.apk","icon": "https://cloud.lxweb.cn/f/XqZ8cK/%E9%87%8E%E7%81%AB%E7%9B%B4%E6%92%AD.png","version": "3.10.25版"},
+{"name": "电视家","url": "https://cloud.lxweb.cn/f/1Vl2he/%E7%94%B5%E8%A7%86%E5%AE%B63.0_3.10.26.apk","icon": "https://cloud.lxweb.cn/f/XqZ8cK/%E9%87%8E%E7%81%AB%E7%9B%B4%E6%92%AD.png","version": "3.10.26版"},
+{"name": "野火直播","url": "https://cloud.lxweb.cn/f/jmxghy/%E9%87%8E%E7%81%AB%E7%9B%B4%E6%92%AD_V5.1.5.apk","icon": "https://cloud.lxweb.cn/f/VxYAsr/%E9%87%8E%E7%81%AB%E7%9B%B4%E6%92%AD.png","version": "5.1.5版"},
+{"name": "影视仓","url": "https://cloud.lxweb.cn/f/NOLGuR/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.13.apk","icon": "https://cloud.lxweb.cn/f/9kNkI1/%E5%BD%B1%E8%A7%86%E4%BB%93.jpg","version": "5.0.13版内置"}]},
 {"name": "工具软件","list": [
 {"name": "超卓管理器","url": "https://cloud.lxweb.cn/f/weJXI2/%E8%B6%85%E5%8D%93%E6%96%87%E7%AE%A1_15.4.4.apk","icon": "https://cloud.lxweb.cn/f/7aYpfr/cz.png"},
 {"name": "小白管理器","url": "https://cloud.lxweb.cn/f/B61EF9/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8_2.8.0.apk","icon": "https://cloud.lxweb.cn/f/WQpKTB/xb.png"}]},
-{"name": "粉丝专属","list": [
-{"name": "小白云盘TV","url": "https://cloud.lxweb.cn/f/7aQEcr/%E5%B0%8F%E7%99%BD%E4%BA%91%E7%9B%98TV-v1.6.4.2-%E9%80%9A%E7%94%A8%E7%89%88.apk","icon": "https://cloud.lxweb.cn/f/DRpyf1/%E5%B0%8F%E7%99%BD%E4%BA%91%E7%9B%98.png","version": "1.6.4.2通用版"},
-{"name": "宝盒","url": "https://cloud.lxweb.cn/f/AXgeia/%E5%AE%9D%E7%9B%92_3.0.9.apk","icon": "https://cloud.lxweb.cn/f/0gNEU0/640%20%287%29.png","version": "3.0.9版"},
-{"name": "影视仓","url": "https://cloud.lxweb.cn/f/KwMqtX/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.12_1.apk","icon": "https://cloud.lxweb.cn/f/9kNkI1/640%20%281%29.jpg","version": "5.0.12版内置"}]},
 {"name": "音乐软件","list": [
 {"name": "酷狗概念版","url": "https://cloud.lxweb.cn/f/xgBjTM/%E9%85%B7%E7%8B%97%E6%A6%82%E5%BF%B5%E7%89%88_3.3.7.apk","icon": "https://cloud.lxweb.cn/f/NOpqtR/%E9%85%B7%E7%8B%97.png","version": "3.3.7版"},
 {"name": "MusicFree","url": "https://cloud.lxweb.cn/f/qLMmie/MusicFree.zip","icon": "https://cloud.lxweb.cn/f/lgznIw/MusicFree.png","version": "0.1.1版"},
