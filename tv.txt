@@ -35,6 +35,16 @@
      "changeable":0,
      "jar":"./jar/alisz.jar"
     },
+        {
+      "key": "应用商店",
+      "name": "🏫应用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./JS/yysd.json",
+      "jar": "./lxhfans应用商店.jar"
+    },
     {
       "key":"TX",
       "name":"腾腾(官)",
