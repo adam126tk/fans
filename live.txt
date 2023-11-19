@@ -3,35 +3,35 @@
 #EXT-X-APTV-TYPE local
 
 #EXTINF:-1 group-title="乐享汇出品",🌎关注公众号🌎
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/KwoqiX/%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E7%AD%891080P.mp4
 #EXTINF:-1 group-title="乐享汇出品",『乐享汇fans』
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/pYrKfe/%E6%99%9A%E9%A3%8E%E5%BF%83%E9%87%8C%E5%90%B9.mp4
 #EXTINF:-1 group-title="乐享汇出品",『乐享生活fans』
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/WQDKUB/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91.mp4
 #EXTINF:-1 group-title="乐享汇出品",🎉QQ群_频道🎉
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/AXyeha/%E7%AC%91%E7%BA%A2%E5%B0%98.mp4
 #EXTINF:-1 group-title="乐享汇出品",『621886232』
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/wepXu2/%E6%B1%9F%E6%B9%96%E8%B7%AF2.mp4
 #EXTINF:-1 group-title="乐享汇出品",『630383903』
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/B6NEH9/%E9%9F%A9%E5%9B%BD%E8%88%9E%E5%9B%A2.mp4
 #EXTINF:-1 group-title="乐享汇出品",【乐享汇fans】
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/0gyEI0/wuqu.mp4
 #EXTINF:-1 group-title="乐享汇出品",【乐享生活fans】
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/7aNpur/dongman.mp4
 #EXTINF:-1 group-title="乐享汇出品",乐享汇fans免费分享持续更新
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/9kXkC1/%E5%8F%AF%E8%83%BD.mp4
 #EXTINF:-1 group-title="乐享汇出品",更多详情见公众号文章
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/NOzGFR/%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA.mp4
 #EXTINF:-1 group-title="乐享汇出品",不说再见
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/QR6Vs1/%E7%88%B1%E6%96%B9%E8%8C%B42.mp4
 #EXTINF:-1 group-title="乐享汇出品",金榜题名
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/mrnAij/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4
 #EXTINF:-1 group-title="乐享汇出品",匆匆那年
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/nJnGI6/%E5%8C%86%E5%8C%86%E9%82%A3%E5%B9%B4.mp4
 #EXTINF:-1 group-title="乐享汇出品",各奔天涯
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/9kXkC1/%E5%8F%AF%E8%83%BD.mp4
 #EXTINF:-1 group-title="乐享汇出品",致敬追梦人
-http://52bsj.vip:81/api/v3/file/get/129476/%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp4?sign=_66lUNcLugM2-NZQdw7NltkhoYm4wsBEHLxF8dbuUN8%3D%3A0
+https://cloud.lxweb.cn/f/OyQ1Cb/%E6%9D%8E%E5%AD%90%E6%9F%92.mp4
 
 #EXTINF:-1 group-title="4K",BTV纪实科教 8K
 http://159.75.85.63:6798
