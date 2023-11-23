@@ -10,19 +10,19 @@
 //上面链接是针对那些电视端添加仓库失败的个别人员使用
 
 {"urls": [
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/DEMO/master/duanju.json","name":"乐享汇fans短剧专线"},
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt","name":"乐享汇fans4K蓝光专线①"},
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/TVBox/master/tv.txt","name":"乐享汇fans4K蓝光专线②"},
+{"url": "https://ghproxy.net/https://raw.githubusercontent.com/lxhfans/DEMO/master/duanju.json","name":"乐享汇fans短剧专线"},
+{"url": "https://ghproxy.net/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt","name":"乐享汇fans4K蓝光专线①"},
+{"url": "https://ghproxy.net/https://raw.githubusercontent.com/lxhfans/TVBox/master/tv.txt","name":"乐享汇fans4K蓝光专线②"},
  {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/DEMO/master/gz.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/lxhfans/DEMO/master/gz.txt",
       "name": "🌟关注公众号"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/DEMO/master/gzh.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/lxhfans/DEMO/master/gzh.txt",
       "name": "🌟乐享汇fans"
     },
   {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/DEMO/master/gzh1.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/lxhfans/DEMO/master/gzh1.txt",
       "name": "🌟乐享生活fans"
     }
 ]
