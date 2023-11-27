@@ -1,7 +1,7 @@
 {//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供个人交流学习使用，请勿用于商业违法用途]
 //公众号：『乐享汇fans』『乐享生活fans』
 //QQ频道：『乐享汇fans』     QQ群：621886232     630383903
-"spider":"./lxhfans.jar",
+ "spider":"./lxhfans.jar",
   "wallpaper":"https://api.likepoems.com/img/bing",
   "warningText":"公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
   "lives": [
@@ -682,7 +682,7 @@
     },
     {
       "key": "cc4",
-      "name": "11.23维护更新🍁🍀",
+      "name": "11.27维护更新🍁🍀",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -696,7 +696,7 @@
         {"name":"乐乐","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
         {"name":"奇奇","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url="},
         {"name":"妙妙","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url="},
-        {"name":"米米","type":1,"url":"http://api.888484.xyz/jiexi/米太硬.php?url="},
+         {"name":"米米","type":1,"url":"http://103.42.31.123:5821/jx/?url="},
         {"name":"途途","type":0,"url":"https://jx.yangtu.top/?url="},
         {"name":"浩浩","type":0,"url":"https://jx.777jiexi.com/player/?url="},
         {"name":"宙宙","type":0,"url":"https://jx.jsonplayer.com/player/?url="}
