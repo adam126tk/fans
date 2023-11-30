@@ -86,14 +86,15 @@
       "ext":"./JS/腾讯.js"
     },
     {
-     "key":"T4_wo",
-     "name":"玩偶┃T4",
-     "type":4,
-     "jar": "./jar/JGWO.jar",
-     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1
+     "key": "csp_XBPQ_6V",
+     "name": "宝宝┃4K",
+     "type": 3,
+     "api": "csp_XBPQ",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "jar":"./jar/vip.jar",
+     "ext":"./h/6Vip.json"
     },
     {
       "key": "玩偶哥哥",
@@ -153,15 +154,14 @@
      "ext": "7984abb3f03c447196459eebd03eda63" 
     },
     {
-     "key": "csp_XBPQ_6V",
-     "name": "宝宝┃4K",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "jar":"./jar/vip.jar",
-     "ext":"./h/6Vip.json"
+     "key":"T4_wo",
+     "name":"玩偶┃T4",
+     "type":4,
+     "jar": "./jar/JGWO.jar",
+     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
     },
     {
       "key": "Gitcafe",
@@ -206,15 +206,17 @@
       "jar": "./jar/spider.txt",
       "ext": "./JS/dyg.json"    
     }, 
-    { 
-      "key": "csp_xpath_yinfans", 
-      "name": "范范┃4K", 
-      "type": 3, 
-      "api": "csp_XPath", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1, 
-      "ext": "./JS/音范丝.json"
+    {
+      "key" : "csp_XiaoYa",
+      "name": "宙宙┃4K",
+      "type": 3,
+      "api" : "csp_XiaoYa",
+      "jar" : "http://101.200.184.252:4567/spring.jar",
+      "ext" : "eyJhcGlLZXkiOiJiMzBlYTE0ZS1iMzQxLTQ5MWItOTJlOS1mMjI3NGNlNDU0ZWMiLCJhcGkiOiJodHRwOi8vMTAxLjIwMC4xODQuMjUyOjQ1NjcifQ==",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["电视剧","电影","动漫","综艺","纪录片"]
     }, 
     { 
       "key": "csp_XYQHikerlg4k", 
@@ -280,17 +282,16 @@
       "filterable":1,
       "jar":"./jar/spider备用.jar"
     },
-    {
-      "key":"KY",
-      "name":"云云┃蓝光",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://iosa.xn--654a.cc/api.php/app/"
-    },
+    { 
+      "key": "csp_xpath_yinfans", 
+      "name": "云云┃蓝光", 
+      "type": 3, 
+      "api": "csp_XPath", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "./JS/音范丝.json"
+    }, 
     {
       "key":"YQ",
       "name":"雨雨┃蓝光",
