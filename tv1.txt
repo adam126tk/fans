@@ -96,8 +96,32 @@
      "jar":"./jar/vip.jar",
      "ext":"./h/6Vip.json"
     },
+  {
+      "key": "Wogg",
+      "name": "玩偶┃哥哥",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./jar/pg.jar",
+      "api": "csp_Wogg",
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$https://api.wogg.xyz/"
+    },
     {
-      "key": "玩偶哥哥",
+      "key": "Wobg",
+      "name": "玩偶┃表哥",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./jar/pg.jar",
+      "api": "csp_Wobg",
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$http://wobge.run.goorm.io"
+    },
+    {
+      "key": "Wogg1",
       "name": "玩偶┃GG",
       "type": 3,
       "api": "csp_Wogg",
@@ -112,7 +136,7 @@
       "jar": "./jar/danmu.jar"
     },
     {
-      "key": "Wobg",
+      "key": "Wobg1",
       "name": "玩偶┃BG",
       "type": 3,
       "style": {
@@ -185,16 +209,6 @@
       "jar": "./jar/xry.jar",
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
-    {
-      "key":"Mm",
-      "name":"毛毛┃4K",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },
     { 
       "key": "csp_XYQHiker_‍dyx", 
       "name": "磁磁┃4K", 
@@ -205,18 +219,6 @@
       "filterable": 1, 
       "jar": "./jar/spider.txt",
       "ext": "./JS/dyg.json"    
-    }, 
-    {
-      "key" : "csp_XiaoYa",
-      "name": "宙宙┃4K",
-      "type": 3,
-      "api" : "csp_XiaoYa",
-      "jar" : "http://101.200.184.252:4567/spring.jar",
-      "ext" : "eyJhcGlLZXkiOiJiMzBlYTE0ZS1iMzQxLTQ5MWItOTJlOS1mMjI3NGNlNDU0ZWMiLCJhcGkiOiJodHRwOi8vMTAxLjIwMC4xODQuMjUyOjQ1NjcifQ==",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": ["电视剧","电影","动漫","综艺","纪录片"]
     }, 
     { 
       "key": "csp_XYQHikerlg4k", 
