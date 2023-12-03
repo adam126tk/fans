@@ -1,7 +1,7 @@
 {//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供个人交流学习使用，请勿用于商业违法用途]
 //公众号：『乐享汇fans』『乐享生活fans』
 //QQ频道：『乐享汇fans』     QQ群：621886232     630383903
- "spider":"./lxhfans.jar",
+ "spider":"./lxhfans1.jar",
   "wallpaper":"https://api.likepoems.com/img/bing",
   "warningText":"公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
   "lives": [
@@ -44,46 +44,6 @@
       "changeable": 0,
       "ext": "./JS/yysd.json",
       "jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
-    },
-    {
-     "key":"SG",
-     "name":"狗狗(官)",
-     "type":3,
-     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
-     "ext":"http://vip.weixine.link:88/js/caigou.js"
-    },
-    {
-      "key":"IQY",
-      "name":"爱爱(官)",
-      "type":3,
-      "api":"./JS/drpy.min.js",
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./JS/爱奇.js"
-    },
-    {
-      "key":"YK",
-      "name":"优优(官)",
-      "type":3,
-      "api":"./JS/drpy.min.js",
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./JS/优酷.js"
-    },
-    {
-      "key":"TX",
-      "name":"腾腾(官)",
-      "type":3,
-      "api":"./JS/drpy.min.js",
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./JS/腾讯.js"
     },
     {
             "key": "小纸条_cli",
@@ -263,219 +223,99 @@
       "filterable": 1, 
       "jar": "./jar/spider.txt",
       "ext": "./JS/中国蓝光网.json"  
-    },  
+    },
     {
-      "key": "JL",
-      "name": "嘉嘉┃蓝光",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
+      "key": "sohu",
+      "name": "搜搜(官)",
+      "type": 1,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://api.jialiangos.com:81/api.php/app/"
-    },
+      "playUrl": "json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },  
     {
-     "key":"YT",
-     "name":"探探┃蓝光",
+     "key":"SG",
+     "name":"狗狗(官)",
      "type":3,
-     "api":"csp_AppYsV2",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "ext":"http://ytcms.lyyytv.cn/api.php/app/"
-    },   
-    {
-      "key":"JP",
-      "name":"荐荐┃蓝光",
-      "type":3,
-      "api":"./JS/drpy.min.js",
-      "playerType":1,
-      "searchable":1,
-      "filterable":1,
-      "changeable":1,
-      "ext":"./JS/荐片.js"
+     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
+     "ext":"http://vip.weixine.link:88/js/caigou.js"
     },
     {
-      "key":"KK",
-      "name":"康康┃蓝光",
-      "type":3,
-      "api":"csp_Kuaikan",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar":"./jar/spider备用.jar"
-    },
-    { 
-      "key": "csp_xpath_yinfans", 
-      "name": "云云┃蓝光", 
-      "type": 3, 
-      "api": "csp_XPath", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1, 
-      "ext": "./JS/音范丝.json"
-    }, 
-    {
-      "key":"YQ",
-      "name":"雨雨┃蓝光",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"
+      "key": "drpy_js_奇珍异兽",
+      "name": "爱爱(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/爱奇艺.js"
     },
     {
-      "key":"WC",
-      "name":"潮潮┃蓝光",
-      "type":3,
-      "api":"csp_Yswc",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"",
-      "jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"
+      "key": "drpy_js_优酷",
+      "name": "优优(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/优酷.js"
     },
     {
-     "key":"TT",
-     "name":"涛涛┃蓝光",
-     "type":3,
-     "api":"csp_AppYsV2",
-     "playerType":2,
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "ext":"http://43.129.187.120:8090/ruifenglb_api.php/v1.vod"
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾腾(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/腾讯.js"
     },
     {
-      "key":"JB",
-      "name":"酒酒┃蓝光",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./JS/九八影视.js"
+      "key": "drpy_js_百忙无果",
+      "name": "芒芒(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/芒果.js"
     },
     {
-     "key":"ZF",
-     "name":"宅宅┃蓝光",
-     "type":3,
-     "api":"csp_AppYsV2",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-    },
-    {
-      "key":"GZ",
-      "name":"罐罐┃蓝光",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
-      "key":"ZZ",
-      "name":"子子┃蓝光",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./JS/子子影视.js"
-    },
-    {
-      "key":"YE",
-      "name":"鱼鱼┃蓝光",
-      "type":3,
-      "api":"csp_DDMJ",
-      "searchable":1,
-      "quickSearch":1,
-      "playerType":2,
-      "filterable":1,
-      "ext":"ilH3/t4mr1SM09PvschTH1LOZQVQKtsm4MVV71I4Lwh63Oc97KaPnM2ZzZRvsQpckmVsMew5wnfhBUdHmy8YP+wok44dwqClEg0/PhTrtSCTOBGoOIf5QmbrPwtmGCBSsfWb2JZ6jrJ05gANATBhTNcmf3lFV45rF6ahsGTbeiIZTRVQM4TVfHB6CJI8QNfc88sKDjYjvMC7XhYNrmebd3ZIA++k361VGPv0jlGOHS8iUA6ywLlBgHp+jl84MIJcLvmzqN5OfD04xGXE/nNTqlf6CG83cX27GZ2036L7ZVdSiI9/dI0vmuQUvXXaA/OqH2xqDA1Y4ltd0fZoH7/x9fY+gg1nsxgDTalCQJL8lkAOdvft2m+QKyQB4gXrcWrH+eUOaScueRXlKSTGer3OR1ZyZmSgd/BvqSukXeaUmDPDJsERNe80PFW6B7xqbGQz5l9jNsxgwVkjque5eNYUuvyc3YK3N09bR1hMWw3aUpLldwBMLDNgCgH/YYBjEqAfXjooSZxI3nPReKeRyOnUmpoqbXE045w6A8nrFsiJ9jZaDQoRf6u9g8xNlXM11v5klfzrhT+0cHWdhIME4cn4Fq83p1NzlIZ808fXP79xmnqQdeNbMGKRELseJSwV8hfx+e6yVN5oOrRrVjD2rCDPSYBZh25Pp+5VH0k6NF3N6JwI=",
-      "jar":"./jar/qiaoji.jar"
-    },
-    {
-      "key":"QW",
-      "name":"鹅鹅┃蓝光",
-      "type":3,"api":
-      "csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,"ext":"http://154.12.90.7:86/api.php/app/"
-    },
-    {
-      "key":"JOJO",
-      "name":"俊俊┃蓝光",
-      "type":3,"jar":"./jar/1019.jar",
-      "api":"csp_Jiohub",
-      "searchable":1,
-      "filterable":1,
-      "changeable":1
-    },
-    {
-      "key": "LELE",
-      "name": "乐乐┃蓝光",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key":"348",
-      "name":"三四八┃蓝光",
-      "api":"csp_XBPQ",
-      "type":3,
-      "filterable":1,
-      "playerType":2,
-      "quickSearch":1,
-      "searchable":1,
-      "ext":"./JS/348影视.js"
-    },
-    {
-      "key":"360",
-      "name":"三六零┃蓝光",
-      "type":3,
-      "api":"csp_Sp360",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar":"./jar/1013.jar"
-    },
-    {
-      "key":"555",
-      "name":"五五五┃蓝光",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://555dy3.com/api.php/app/","header":{"user-agent":"okhttp/5.0.0-alpha.10"}
-    },
-    {
-      "key":"HXW",
-      "name":"好戏网┃蓝光",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./JS/好戏网.js"
+      "key": "drpy_js_360影视",
+      "name": "360(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/360.js"
     },
 
 
 #云盘搜索
 
+   {
+      "key":"七夜",
+      "name":"七夜┃🍭",
+      "type":3,
+      "api":"csp_Dovx",
+      "jar":"./jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "七夜弹幕版",
+      "name": "七夜DM┃🍭",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "csp_Zhaozy",
+      "name": "资源HK┃🍭",
+      "type": 3,
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Zhaozy",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
+    },
     {
       "key":"纸条",
       "name":"纸条┃🍭",
@@ -626,59 +466,6 @@
       "jar": "./jar/danmu.jar"
     },
     {
-      "key":"七夜",
-      "name":"七夜┃🍭",
-      "type":3,
-      "api":"csp_Dovx",
-      "jar":"./jar/fm.jar",
-      "searchable":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "csp_Zhaozy",
-      "name": "资源HK┃🍭",
-      "type": 3,
-      "jar": "./jar/xyq.jar",
-      "api": "csp_Zhaozy",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "七夜弹幕版",
-      "name": "七夜DM┃🍭",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar"
-    },
-    {
-      "key": "找资源弹幕版",
-      "name": "资源DM┃🍭",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
-        "username": "zhaoziyuannb",
-        "password": "zhaoziyuannb",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar"
-    },
-    {
       "key": "cc1",
       "name": "🍀🍁关注公众号",
       "type": 3,
@@ -716,16 +503,19 @@
     }
 ],
 "parses":[
-        {"name":"解析聚合","type":3,"url":"Demo"},
-        {"name":"Json轮询","type":2,"url":"Sequence"},
-        {"name":"乐乐","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
-        {"name":"奇奇","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url="},
-        {"name":"妙妙","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url="},
-         {"name":"米米","type":1,"url":"http://103.42.31.123:5821/jx/?url="},
+        {"name":"关注","type":3,"url":"Demo"},
+        {"name":"公众号","type":2,"url":"Sequence"},
+        {"name": "『乐享汇fans』","type": 3,"url": "Web"},
+        {"name": "『乐享生活fans』","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="},
+        {"name":"彩彩","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url=","ext":{"flag":["imgv","migu","qq","qiyi","mgtv","bilibili","youku"],"header":{"User-Agent":"okhttp/3.12.0"}}},
+        {"name":"云云","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext":{"flag":["imgv","migu","qq","qiyi","mgtv","bilibili"],"header":{"User-Agent":"okhttp/3.12.0"}}},
+        {"name":"乐乐","type":1,"url":"http://103.42.31.123:5821/jx/?url="},
         {"name":"途途","type":0,"url":"https://jx.yangtu.top/?url="},
-        {"name":"浩浩","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-        {"name":"宙宙","type":0,"url":"https://jx.jsonplayer.com/player/?url="}
+        {"name":"米米","type":0,"url":"https://jx.xmflv.com/?url="},
+        {"name":"七七","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+        {"name":"玖玖","type":0,"url":"https://jx.jsonplayer.com/player/?url="}
         ],
+
 
 "flags":
 ["youku","qq","QQ","iqiyi","qiqi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","FEI","XAL","QEYSS","aliyun","AliS","ddzy","kuying-zj","xfyun","wuduzy","wasu","bilibili","renrenmi","haiwaikan","cool","tnmb","xigua","m1905","funshion","imgo","ruyi1080","ruyib1080","juquan4k","tucheng","yzm","seven","caihong","YuMi-vip"],
