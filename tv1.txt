@@ -86,19 +86,19 @@
       "ext":"./JS/腾讯.js"
     },
     {
-     "key": "csp_XBPQ_6V",
-     "name": "宝宝┃4K",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "jar":"./jar/vip.jar",
-     "ext":"./h/6Vip.json"
+            "key": "小纸条_cli",
+            "name": "纸条┃T4 ",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+            "timeout": 30
     },
-  {
+   {
       "key": "Wogg",
-      "name": "玩偶┃哥哥",
+      "name": "玩偶┃PG",
       "type": 3,
       "style": {
         "type": "rect",
@@ -109,16 +109,37 @@
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$https://api.wogg.xyz/"
     },
     {
-      "key": "Wobg",
-      "name": "玩偶┃表哥",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "./jar/pg.jar",
-      "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$http://wobge.run.goorm.io"
+            "key": "csp_WoGG",
+            "name": "玩偶┃FS",
+            "type": 3,
+            "jar": "./jar/fan.txt",
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/"
+    },
+    {
+            "key": "csp_XYQHikerAL",
+            "name": "玩偶┃HK",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/xyq.jar",
+            "ext": "./JS/玩偶哥哥.json"
+    },
+    {
+            "key": "csp_woggcli",
+            "name": "玩偶┃T4",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
       "key": "Wogg1",
@@ -136,7 +157,7 @@
       "jar": "./jar/danmu.jar"
     },
     {
-      "key": "Wobg1",
+      "key": "Wobg",
       "name": "玩偶┃BG",
       "type": 3,
       "style": {
@@ -147,7 +168,22 @@
       "api": "csp_Wobg",
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$http://wobge.run.goorm.io"
     },
-   {
+    {
+     "key": "csp_WoGG1",
+     "name": "玩偶┃BY",
+     "type": 3,
+     "style": {
+       "type": "rect",
+       "ratio": 0.8
+     },
+     "api": "csp_WoGG",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "jar": "./JS/rski.js",
+     "ext": "7984abb3f03c447196459eebd03eda63" 
+    },
+    {
       "key": "玩偶弹幕版",
       "name": "玩偶┃DM",
       "type": 3,
@@ -163,29 +199,15 @@
       "jar": "./jar/danmu.jar"
     },
     {
-     "key": "csp_WoGG",
-     "name": "玩偶┃BY",
+     "key": "csp_XBPQ_6V",
+     "name": "宝宝┃4K",
      "type": 3,
-     "style": {
-       "type": "rect",
-       "ratio": 0.8
-     },
-     "api": "csp_WoGG",
+     "api": "csp_XBPQ",
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 1,
-     "jar": "./JS/rski.js",
-     "ext": "7984abb3f03c447196459eebd03eda63" 
-    },
-    {
-     "key":"T4_wo",
-     "name":"玩偶┃T4",
-     "type":4,
-     "jar": "./jar/JGWO.jar",
-     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1
+     "jar":"./jar/vip.jar",
+     "ext":"./h/6Vip.json"
     },
     {
       "key": "Gitcafe",
@@ -685,7 +707,7 @@
     },
     {
       "key": "cc4",
-      "name": "11.28维护更新🍁🍀",
+      "name": "12.03维护更新🍁🍀",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
