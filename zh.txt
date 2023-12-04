@@ -86,7 +86,7 @@
     },
  {
       "key": "兔小贝",
-      "name": "🚸兔小贝",
+      "name": "📺兔小贝",
       "type": 3,
       "api": "./lib/man.js",
       "searchable": 0,
@@ -95,32 +95,12 @@
       "ext": "./lib/兔小贝.js"
     },
     {
-      "key": "py_cctv_少儿",
-      "name": "📺央视少儿(py)",
-      "type": 3,
-      "api": "py_cctv_full",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/央视少儿.py"
-    },
-    {
       "key": "py_央视片库",
       "name": "📺cctv片库(py)",
       "type": 3,
       "playerType": 2,
       "api": "py_cctv",
       "ext": "./lib/央视片库.py"
-    },
-    {
-      "key": "py_cctv_大全",
-      "name": "📺央视大全(py)",
-      "type": 3,
-      "api": "py_cctv_full",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/央视大全.py"
     },
     {
       "key": "py_cctv_企鹅",
@@ -141,86 +121,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/虎牙.py"
-    },
-    {
-      "key": "js_斗鱼直播",
-      "name": "💙斗鱼直播",
-      "type": 3,
-      "api": "./lib/man.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/斗鱼.js"
-    },
-    {
-      "key": "虎牙直播",
-      "name": "💙虎牙直播",
-      "type": 3,
-      "api": "./lib/man.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/虎牙.js"
-    },
-    {
-      "key": "哔哩直播",
-      "name": "💙哔哩直播",
-      "type": 3,
-      "api": "./lib/man.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/哔哩直播.js"
-    },
-    {
-      "key": "py_音乐",
-      "name": "🎵哔哩音乐(py)",
-      "type": 3,
-      "api": "py_yy",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/哔哩音乐.py"
-    },
-    {
-      "key": "py_歌手",
-      "name": "🎵歌手专辑(py)",
-      "type": 3,
-      "api": "py_yy",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://122.51.37.23/man/py/歌手.py"
-    },
-    {
-      "key": "js_a8音乐",
-      "name": "🎵A8音乐",
-      "type": 3,
-      "api": "./lib/man.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/A8音乐.js"
-    },
-    {
-      "key": "py_MTV",
-      "name": "🎵歌曲MTV(py)",
-      "type": 3,
-      "api": "py_MTV",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://122.51.37.23/man/py/歌曲MTV.py"
-    },
-    {
-      "key": "js_酷狗MV",
-      "name": "🎵酷狗音乐",
-      "type": 3,
-      "api": "./lib/man.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/酷狗.js"
     },
     {
       "key": "csp_酷奇",
