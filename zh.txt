@@ -45,15 +45,15 @@
       "ext": "./JS/yysd.json",
       "jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
     },
-
-{
-      "key": "短剧网",
-      "name": "💛短剧网",
+    {
+      "key": "csp_酷奇",
+      "name": "🎵酷奇音乐",
       "type": 3,
-      "api": "csp_Duanjuw",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/酷奇MV.json"
     },
     {
       "key": "沙雕",
@@ -64,6 +64,15 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/沙雕动漫.json"
+    },
+    { 
+      "key": "短剧网",
+      "name": "💛短剧网络",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "短剧合集",
@@ -86,7 +95,7 @@
     },
  {
       "key": "兔小贝",
-      "name": "📺兔小贝",
+      "name": "📺兔小贝贝",
       "type": 3,
       "api": "./lib/man.js",
       "searchable": 0,
@@ -96,7 +105,7 @@
     },
     {
       "key": "py_央视片库",
-      "name": "📺cctv片库(py)",
+      "name": "📺央视片库",
       "type": 3,
       "playerType": 2,
       "api": "py_cctv",
@@ -104,7 +113,7 @@
     },
     {
       "key": "py_cctv_企鹅",
-      "name": "📺体育直播(py)",
+      "name": "📺体育直播",
       "type": 3,
       "api": "py_cctv_full",
       "searchable": 0,
@@ -114,73 +123,13 @@
     },
     {
       "key": "py_huya",
-      "name": "💙虎牙(py)",
+      "name": "📺虎牙直播",
       "type": 3,
       "api": "py_huya",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/虎牙.py"
-    },
-    {
-      "key": "csp_酷奇",
-      "name": "🎵酷奇音乐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/酷奇MV.json"
-    },
-    {
-      "key": "相声小品",
-      "name": "🏮相声小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/相声小品.json"
-    },
-    {
-      "key": "戏 曲",
-      "name": "🏮国粹戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/戏曲.json"
-    },
-    {
-      "key": "吾爱解说",
-      "name": "🅱吾爱解说",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/解说.json"
-    },
-    {
-      "key": "哔哩哔哩",
-      "name": "🅱哔哩大全",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/哔哩大全.json"
-    },
-    {
-      "key": "py_meishi",
-      "name": "🅱美食合集(py)",
-      "type": 3,
-      "api": "py_meishi",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/美食.py"
     },
     {
       "key": "软件教程",
@@ -193,8 +142,28 @@
       "ext": "./lib/软件教程.json"
     },
     {
+      "key": "py_meishi",
+      "name": "📚美食合集",
+      "type": 3,
+      "api": "py_meishi",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/美食.py"
+    },
+    {
+      "key": "py_zyy",
+      "name": "📚中医药区",
+      "type": 3,
+      "api": "py_zyy",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/中医.py"
+    },
+    {
       "key": "学外语",
-      "name": "📚学外语",
+      "name": "📚学习外语",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -243,14 +212,44 @@
       "ext": "./lib/高中教育.json"
     },
     {
-      "key": "py_zyy",
-      "name": "📚中医药区(py)",
+      "key": "吾爱解说",
+      "name": "🅱吾爱解说",
       "type": 3,
-      "api": "py_zyy",
+      "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/中医.py"
+      "ext": "./lib/解说.json"
+    },
+    {
+      "key": "哔哩哔哩",
+      "name": "🅱哔哩大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/哔哩大全.json"
+    },
+    {
+      "key": "相声小品",
+      "name": "🏮相声小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/相声小品.json"
+    },
+    {
+      "key": "戏 曲",
+      "name": "🏮国粹戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/戏曲.json"
     },
    {
       "key": "cc1",
@@ -281,7 +280,7 @@
     },
     {
       "key": "cc4",
-      "name": "11.28维护更新🍁🍀",
+      "name": "12.04维护更新🍁🍀",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
