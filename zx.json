@@ -10,7 +10,6 @@
 //上面链接是针对那些电视端添加仓库失败的个别人员使用
 
 {"urls": [
-
 {"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/TV/master/tv.txt","name":"乐享汇fans主力专线"},
 {"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/TVBox/master/tv.txt","name":"乐享汇fans备用专线"},
 {"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/DEMO/master/duanju.json","name":"乐享汇fans短剧专线"},
