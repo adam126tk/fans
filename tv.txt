@@ -305,11 +305,10 @@
       "jar": "./jar/danmu.jar"
     },
     {
-      "key": "csp_Zhaozy",
+      "key": "csp_AliPS",
       "name": "资源HK┃🍭",
       "type": 3,
-      "jar": "./jar/xyq.jar",
-      "api": "csp_Zhaozy",
+      "api": "csp_AliPS",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
