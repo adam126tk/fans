@@ -10,9 +10,10 @@
 //上面链接是针对那些电视端添加仓库失败的个别人员使用
 
 {"urls": [
+{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/tv1.txt","name":"乐享汇fans主力专线"},
+{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TVBox/master/tv1.txt","name":"乐享汇fans备用专线"},
 {"url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/DEMO/master/duanju.json","name":"乐享汇fans短剧专线"},
-{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/tv1.txt","name":"乐享汇fans4K蓝光专线①"},
-{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TVBox/master/tv1.txt","name":"乐享汇fans4K蓝光专线②"},
+{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/DEMO/master/zh.txt","name":"乐享汇fans综合专线"},
  {
       "url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/DEMO/master/gz.txt",
       "name": "🌟关注公众号"
