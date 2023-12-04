@@ -397,7 +397,7 @@
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
-      "key": "csp_AliPS",
+      "key": "csp_AliPS1",
       "name": "盘搜HK┃🍭",
       "type": 3,
       "jar": "./jar/xyq.jar",
