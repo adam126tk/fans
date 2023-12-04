@@ -1,0 +1,10 @@
+{
+    "作者": "cally",
+    "站名": "剧看看",
+    "请求头": "手机",
+    "主页url": "https://www.jukankan.cc/",
+    "简介": "【cally满】提醒您请勿相信影片中的广告，以免上当受骗！+简介：detail-content\"&&</span>",
+    "分类url": "https://www.jukankan.cc/vodtype/{cateId}-{catePg}.html",
+    "搜索url": "https://www.jukankan.cc/vodsearch/{wd}----------{catePg}---.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+}
