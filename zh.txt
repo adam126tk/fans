@@ -1,10 +1,51 @@
-{"sites":[
+{//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供个人交流学习使用，请勿用于商业违法用途]
+//公众号：『乐享汇fans』『乐享生活fans』
+//QQ频道：『乐享汇fans』     QQ群：621886232     630383903
+ "spider":"./lxhfans1.jar",
+  "wallpaper":"https://api.likepoems.com/img/bing",
+  "warningText":"公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "./live.txt",
+      "playerType": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+     },
+      "epg": "http://api.cntv.cn/epg/epginfo?serviceId=cbox&c={name}&d={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+     }
+     ],
+
+"sites":[
     {
      "key":"DB",
      "name":"🌎豆瓣|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
      "type":3,
      "api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"
     },
+    {
+     "key": "csp_KungFu404",
+     "name":"🎦阿狸设置",
+     "type": 3, 
+     "api": "csp_KungFu404", 
+     "searchable":1,
+     "filterable": 0, 
+     "changeable":0,
+     "jar":"./jar/alisz.jar"
+    },
+        {
+      "key": "应用商店",
+      "name": "🏫应用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./JS/yysd.json",
+      "jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
+    },
+
 {
       "key": "短剧网",
       "name": "💛短剧网",
