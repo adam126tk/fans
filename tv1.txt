@@ -1,7 +1,7 @@
 {//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供个人交流学习使用，请勿用于商业违法用途]
 //公众号：『乐享汇fans』『乐享生活fans』
 //QQ频道：『乐享汇fans』     QQ群：621886232     630383903
- "spider":"./lxhfans1.jar",
+ "spider":"./lxhfans.jar",
   "wallpaper":"https://api.likepoems.com/img/bing",
   "warningText":"公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
   "lives": [
@@ -49,7 +49,7 @@
             "key": "小纸条_cli",
             "name": "纸条┃T4 ",
             "type": 4,
-            "api": "http://home.jundie.top:9520/spider/cli_gitCafe?sort=原画,蓝光,超清,高清&token=3d1b27afd5384721879ccc99ac2a0761",
+            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -94,7 +94,7 @@
             "key": "csp_woggcli",
             "name": "玩偶┃T4",
             "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=3d1b27afd5384721879ccc99ac2a0761",
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
