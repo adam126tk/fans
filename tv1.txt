@@ -309,7 +309,6 @@
       "type": 3,
       "api": "csp_AliPS",
       "jar": "./lxhfans1.jar",
-      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
