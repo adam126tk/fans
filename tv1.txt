@@ -243,37 +243,39 @@
       "key": "drpy_js_奇珍异兽",
       "name": "爱爱(官)",
       "type": 3,
-      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "api": "http://122.51.37.23/man/js/lib/man.js",
       "ext": "http://122.51.37.23/man/js/爱奇艺.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优优(官)",
       "type": 3,
-      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "api": "http://122.51.37.23/man/js/lib/man.js",
       "ext": "http://122.51.37.23/man/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾腾(官)",
       "type": 3,
-      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "api": "http://122.51.37.23/man/js/lib/man.js",
       "ext": "http://122.51.37.23/man/js/腾讯.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "芒芒(官)",
       "type": 3,
-      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "api": "http://122.51.37.23/man/js/lib/man.js",
       "ext": "http://122.51.37.23/man/js/芒果.js"
     },
     {
       "key": "drpy_js_360影视",
       "name": "360(官)",
       "type": 3,
-      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "api": "http://122.51.37.23/man/js/lib/man.js",
       "ext": "http://122.51.37.23/man/js/360.js"
     },
+
+  
 
 
 #云盘搜索
