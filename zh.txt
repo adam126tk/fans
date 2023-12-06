@@ -98,6 +98,7 @@
       "name": "📺兔小贝贝",
       "type": 3,
       "api": "./lib/man.js",
+      "jar": "./lxhfans1.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
