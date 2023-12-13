@@ -265,13 +265,37 @@
       ]
     },
     {
-      "key": "black",
-      "name": "自营┃XH",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://d.xzam.cn/api.php/provide/vod/"
-    },
-    {
+            "key": "天天开心",
+            "name": "自营┃KX ",
+            "type": 1,
+            "api": "http://ttkx.rihou.vip:55/api.php/provide/vod/",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "短剧",
+                "电影",
+                "连续剧",
+                "动漫",
+                "综艺",
+                "纪录片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "灾难片",
+                "悬疑片",
+                "犯罪片",
+                "奇幻片",
+                "国产剧",
+                "港台剧"
+            ]
+     },
+     {
       "key": "TX资源",
             "name": "️自营┃TX",
             "type": 1,
