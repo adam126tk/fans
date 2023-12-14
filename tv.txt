@@ -605,8 +605,11 @@
 "parses":[
         {"name":"关注","type":3,"url":"Demo"},
         {"name":"公众号","type":2,"url":"Sequence"},
-        {"name": "『乐享汇fans』","type": 3,"url": "Web"},
+        {"name": "QQ频道","type": 3,"url": "Web"},
+        {"name": "『乐享汇fans』","type": 2,"url": "Parallel"}, 
         {"name": "『乐享生活fans』","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="},
+        {"name": "七七","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
+        {"name": "玖玖","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
         {"name":"彩彩","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url=","ext":{"flag":["imgv","migu","qq","qiyi","mgtv","bilibili","youku"],"header":{"User-Agent":"okhttp/3.12.0"}}},
         {"name":"云云","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext":{"flag":["imgv","migu","qq","qiyi","mgtv","bilibili"],"header":{"User-Agent":"okhttp/3.12.0"}}},
         {"name":"米米","type":1,"url":"https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url="},
@@ -615,9 +618,7 @@
         {"name":"途途","type":0,"url":"https://jx.yangtu.top/?url="},
         {"name":"星星","type":0,"url":"https://jx.xmflv.com/?url="},
         {"name":"夜夜","type":0,"url":"https://www.yemu.xyz/?url="},
-        {"name":"可可","type":0,"url":"https://www.ecmys.com/player/art.php?url="},
-        {"name":"七七","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-        {"name":"玖玖","type":0,"url":"https://jx.jsonplayer.com/player/?url="}
+        {"name":"可可","type":0,"url":"https://www.ecmys.com/player/art.php?url="}
         ],
 
 
