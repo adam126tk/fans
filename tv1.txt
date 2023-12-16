@@ -69,6 +69,17 @@
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$https://api.wogg.xyz/"
     },
     {
+      "key": "玩偶OG",
+      "name": "玩偶┃OG",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
+      "ext": "./JS/gg.json"
+    },
+    {
             "key": "csp_WoGG",
             "name": "玩偶┃FS",
             "type": 3,
@@ -89,16 +100,6 @@
             "filterable": 1,
             "jar": "./jar/xyq.jar",
             "ext": "./JS/玩偶哥哥.json"
-    },
-    {
-            "key": "csp_woggcli",
-            "name": "玩偶┃T4",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
     },
     {
       "key": "Wogg1",
@@ -180,6 +181,16 @@
       "jar": "./jar/danmu.jar"
     },
     {
+            "key": "csp_woggcli",
+            "name": "玩偶┃T4",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    {
       "key": "Gitcafe",
       "name": "咖咖┃4K",
       "type": 3,
@@ -244,87 +255,6 @@
       "filterable": 1, 
       "jar": "./jar/spider.txt",
       "ext": "./JS/中国蓝光网.json"  
-    },
-    {
-      "key": "春哥☆自营",
-      "name": "自营┃CG ",
-      "type": 1,
-      "api": "http://mfsj.kele.plus/api.php/provide/vod/",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧",
-        "电影",
-        "连续剧",
-        "少儿",
-        "动漫",
-        "综艺",
-        "体育赛事"
-      ]
-    },
-    {
-            "key": "天天开心",
-            "name": "自营┃KX ",
-            "type": 1,
-            "api": "http://ttkx.rihou.vip:55/api.php/provide/vod/",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "短剧",
-                "电影",
-                "连续剧",
-                "动漫",
-                "综艺",
-                "纪录片",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "灾难片",
-                "悬疑片",
-                "犯罪片",
-                "奇幻片",
-                "国产剧",
-                "港台剧"
-            ]
-     },
-     {
-      "key": "TX资源",
-            "name": "️自营┃TX",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "韩国剧",
-                "香港剧",
-                "台湾剧",
-                "欧美剧",
-                "动作片",
-                "科幻片",
-                "战争片",
-                "奇幻片",
-                "喜剧片",
-                "爱情片",
-                "恐怖片",
-                "犯罪片",
-                "悬疑片",
-                "惊悚片",
-                "剧情片",
-                "冒险片",
-                "记录片",
-                "综艺",
-                "动漫"
-            ]
     },
     {
       "key": "sohu",
