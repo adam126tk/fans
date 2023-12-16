@@ -90,6 +90,17 @@
             "jar": "./jar/xyq.jar",
             "ext": "./JS/玩偶哥哥.json"
     },
+   {
+      "key": "玩偶OG",
+      "name": "玩偶┃OG",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
+      "ext": "./JS/gg.json"
+    },
     {
             "key": "csp_woggcli",
             "name": "玩偶┃T4",
