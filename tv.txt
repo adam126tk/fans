@@ -80,6 +80,34 @@
             "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/"
     },
     {
+      "key": "玩偶弹幕版",
+      "name": "玩偶|OK",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "filter": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/rm/wogg.json",
+        "danmu": true
+      }
+    },
+    {
+      "key": "玩偶表哥弹幕",
+      "name": "玩偶|BG1",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "danmu": true
+      }
+    },
+    {
             "key": "csp_XYQHikerAL",
             "name": "玩偶┃HK",
             "type": 3,
@@ -128,7 +156,7 @@
     },
     {
       "key": "Wobg",
-      "name": "玩偶┃BG",
+      "name": "玩偶┃BG2",
       "type": 3,
       "style": {
         "type": "rect",
