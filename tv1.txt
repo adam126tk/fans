@@ -55,6 +55,17 @@
       "ext": "./lib/Alistxy.json",
       "jar": "./lib/AListxy.jar;md5;caf2d12e5d059b70e2b2b7da5a09f743"
     },
+    {
+      "key": "玩偶OG",
+      "name": "玩偶┃OG",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
+      "ext": "./JS/gg.json"
+    },
    {
       "key": "Wogg",
       "name": "玩偶┃PG",
@@ -66,17 +77,6 @@
       "jar": "./jar/pg.jar",
       "api": "csp_Wogg",
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$https://api.wogg.xyz/"
-    },
-    {
-      "key": "玩偶OG",
-      "name": "玩偶┃OG",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
-      "ext": "./JS/gg.json"
     },
     {
             "key": "csp_WoGG",
@@ -127,7 +127,7 @@
       "api": "csp_Wobg",
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$http://wobge.run.goorm.io"
     },
-    {
+   {
       "key": "初见表哥",
       "name": "玩偶┃BZ",
       "type": 3,
@@ -135,7 +135,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./jar/fty.jar",
+      "jar": "./jar/表哥.jar;md5;0ab5d5c3db5f5d26ea4f44d2278b87ac",
       "ext": {
         "二次截取": "1&&-1+module-item-cover",
         "数组": "module-item-pic&&module-item-cover",
