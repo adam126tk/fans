@@ -308,22 +308,6 @@
       "ext": "./JS/中国蓝光网.json"  
     },
     {
-      "key": "sohu",
-      "name": "搜搜(官)",
-      "type": 1,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playUrl": "json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-    },  
-    {
-     "key":"SG",
-     "name":"狗狗(官)",
-     "type":3,
-     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
-     "ext":"http://vip.weixine.link:88/js/caigou.js"
-    },
-    {
       "key": "drpy_js_奇珍异兽",
       "name": "爱爱(官)",
       "type": 3,
@@ -350,6 +334,22 @@
       "type": 3,
       "api": "http://122.51.37.23/man/js/lib/man.js",
       "ext": "http://122.51.37.23/man/js/芒果.js"
+    },
+    {
+      "key": "sohu",
+      "name": "搜搜(官)",
+      "type": 1,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playUrl": "json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },  
+    {
+     "key":"SG",
+     "name":"狗狗(官)",
+     "type":3,
+     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
+     "ext":"http://vip.weixine.link:88/js/caigou.js"
     },
     {
       "key": "drpy_js_360影视",
