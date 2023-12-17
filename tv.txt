@@ -45,16 +45,6 @@
       "ext": "./JS/yysd.json",
       "jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
     },
-   {
-      "key": "csp_Alistxy",
-      "name": "🅿️Alist网盘 ",
-      "type": 3,
-      "api": "csp_AListxy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "./lib/Alistxy.json",
-      "jar": "./lib/AListxy.jar;md5;caf2d12e5d059b70e2b2b7da5a09f743"
-    },
     {
       "key": "玩偶OG",
       "name": "玩偶┃OG",
@@ -343,7 +333,7 @@
         "链接": "href=\"&&\"",
         "图片": "data-original=\"&&\"",
         "标题": "title=\"&&\"",
-        "副标题": "<span class=\"pack-prb hidden\">&&</span>",
+        "副标题": "『乐享汇fans』专享",
         "线路数组": "<a class=\"channelname swiper-slide&&</a>",
         "线路名称": "</i>&nbsp;&&</span>",
         "播放数组": "<ul class=\"content_playlist cf\">&&</ul>",
