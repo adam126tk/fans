@@ -35,7 +35,17 @@
      "changeable":0,
      "jar":"./jar/alisz.jar"
     },
-        {
+    {
+     "key":"配置中心",
+     "name":"💾云盘配置",
+     "type":3,
+     "api":"csp_Config",
+     "searchable":0,
+     "changeable":0,
+     "style":{"type":"rect","ratio":1.597},
+     "jar":"./HK/danmu.jar;md5;7cd8fbcc323844e2525595be4d5aa7eb"
+     },
+     {
       "key": "应用商店",
       "name": "🏫应用商店",
       "type": 3,
@@ -168,6 +178,36 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "玩偶弹幕版2",
+      "name": "玩偶┃OK",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/ok.png;md5;024444F5BDB551B95CA5E9145348B899",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "filter": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/TV/master/JS/wogg.json",
+        "danmu": true
+      }
+    },
+   {
+      "key": "玩偶表哥弹幕",
+      "name": "玩偶┃KG",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/ok.png;md5;024444F5BDB551B95CA5E9145348B899",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "danmu": true
+      }
     },
     {
             "key": "csp_woggcli",
@@ -306,41 +346,6 @@
       "type": 3,
       "api": "http://122.51.37.23/man/js/lib/man.js",
       "ext": "http://122.51.37.23/man/js/360.js"
-    },
-   {
-      "key": "MFKYS",
-      "name": "自营┃MF",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "jar": "./jar/xbpq.jar;md5;2045faa2c4337fd863c1b9f02cc69e31",
-      "ext": {
-        "站名": "免费看影视",
-        "作者": "lxhfans",
-        "主页url": "https://qzy998-1.ysgq.xyz",
-        "地区": "地区：&&</p",
-        "年代": "年代：&&</p",
-        "语言": "语言：&&</p",
-        "类型": "类型：&&</p",
-        "导演": "导演：&&</p",
-        "主演": "演员：&&</p",
-        "简介": "公众号『乐享汇fans』提醒你：“资源免费，广告勿信！”+<div class=\"desc_txt cf ec-palytcji cor3\">&&</div>",
-        "搜索url": "/index.php/vod/search.html?wd={wd}",
-        "数组": "<div class=\"pack-packcover returl list-top-b\">&&</div",
-        "链接": "href=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "『乐享汇fans』专享",
-        "线路数组": "<a class=\"channelname swiper-slide&&</a>",
-        "线路名称": "</i>&nbsp;&&</span>",
-        "播放数组": "<ul class=\"content_playlist cf\">&&</ul>",
-        "播放列表": ">&&</a",
-        "分类url": "https://qzy998-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"
-      }
     },
     {
       "key": "春哥☆自营",
