@@ -76,10 +76,10 @@
       },
       "jar": "./jar/pg.jar",
       "api": "csp_Wogg",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$https://api.wogg.xyz/"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
     },
     {
-            "key": "csp_WoGG",
+            "key": "csp_WoGG1",
             "name": "玩偶┃FS",
             "type": 3,
             "jar": "./jar/fan.txt",
@@ -87,7 +87,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/"
+            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
+    },
+    {
+      "key": "csp_WoGG2",
+      "name": "玩偶┃XM",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar": "./uyv0t678c488189af47bb91dc108484d17431;md5;8a3584c3608a5412fb02a769ab3886bb",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
     },
     {
             "key": "csp_XYQHikerAL",
@@ -101,21 +112,6 @@
             "ext": "./JS/玩偶哥哥.json"
     },
     {
-      "key": "Wogg1",
-      "name": "玩偶┃GG",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
-        "filter": "./JS/wogg.json",
-        "danmu": false
-      },
-      "jar": "./jar/danmu.jar"
-    },
-    {
       "key": "Wobg",
       "name": "玩偶┃BG",
       "type": 3,
@@ -125,7 +121,7 @@
       },
       "jar": "./jar/pg.jar",
       "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt$$$http://wobge.run.goorm.io"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$http://wobge.run.goorm.io"
     },
    {
       "key": "初见表哥",
@@ -150,7 +146,7 @@
       }
     },
     {
-     "key": "csp_WoGG1",
+     "key": "csp_WoGG3",
      "name": "玩偶┃BY",
      "type": 3,
      "style": {
@@ -163,6 +159,21 @@
      "filterable": 1,
      "jar": "./JS/rski.js",
      "ext": "7984abb3f03c447196459eebd03eda63" 
+    },
+    {
+      "key": "Wogg1",
+      "name": "玩偶┃GG",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt",
+        "filter": "./JS/wogg.json",
+        "danmu": false
+      },
+      "jar": "./jar/danmu.jar"
     },
     {
       "key": "玩偶弹幕版",
