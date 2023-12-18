@@ -304,7 +304,7 @@
     },
  {
       "key": "团长影视",
-      "name": "🍡团长┃网盘",
+      "name": "团长┃网盘",
       "type": 3,
       "api": "csp_TZFile",
       "ext": "./lib/PG推送$$$null$$$1",
@@ -313,20 +313,8 @@
       "timeout": 60
     },
     {
-      "key": "xb6v磁力",
-      "name": "🍇新6v┃磁力",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/PG推送.json$$$http://www.xb6v.com$$$null$$$1",
-      "timeout": 60
-    },
-    {
       "key": "校长影视",
-      "name": "🛶校长┃网盘",
+      "name": "校长┃网盘",
       "type": 3,
       "api": "csp_XiaoZhang",
       "searchable": 1,
@@ -338,7 +326,7 @@
     },
     {
       "key": "4KHDR网盘",
-      "name": "⛵4KHDR┃网盘",
+      "name": "四开┃网盘",
       "type": 3,
       "api": "csp_FourKHDR",
       "searchable": 1,
@@ -349,8 +337,20 @@
       "timeout": 60
     },
     {
+      "key": "xb6v磁力",
+      "name": "六维┃网盘",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./lib/PG推送.json$$$http://www.xb6v.com$$$null$$$1",
+      "timeout": 60
+    },
+    {
       "key": "影巢网盘",
-      "name": "🚜影巢┃网盘",
+      "name": "影巢┃网盘",
       "type": 3,
       "api": "csp_Hdhive",
       "searchable": 1,
@@ -371,7 +371,7 @@
     },  
    {
       "key": "狗狗",
-      "name": "🐕狗狗┃(官)",
+      "name": "狗狗┃(官)",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
@@ -379,7 +379,7 @@
     },
   {
       "key": "360",
-      "name": "🐵360┃(官)",
+      "name": "360┃(官)",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
@@ -387,7 +387,7 @@
     },
     {
       "key": "奇艺",
-      "name": "🦁爱爱┃(官)",
+      "name": "爱爱┃(官)",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
@@ -395,7 +395,7 @@
     },
     {
       "key": "酷酷",
-      "name": "🦝优优┃(官)",
+      "name": "优优┃(官)",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
@@ -403,7 +403,7 @@
     },
     {
       "key": "腾腾",
-      "name": "🐏腾腾┃(官)",
+      "name": "腾腾┃(官)",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
@@ -411,7 +411,7 @@
     },
     {
       "key": "芒芒",
-      "name": "🦄芒芒┃(官)",
+      "name": "芒芒┃(官)",
       "type": 3,
       "changeable": 0,
       "api": "./lib/drpy2.min.js",
@@ -422,53 +422,7 @@
   
 #云盘搜索
 
-   {
-      "key":"七夜",
-      "name":"七夜┃🍭",
-      "type":3,
-      "api":"csp_Dovx",
-      "jar":"./jar/fm.jar",
-      "searchable":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "七夜弹幕版",
-      "name": "七夜DM┃🍭",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar"
-    },
-    {
-      "key": "csp_AliPS",
-      "name": "资源HK┃🍭",
-      "type": 3,
-      "api": "csp_AliPS",
-      "jar": "./lxhfans1.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
-    },
-    {
-      "key":"纸条",
-      "name":"纸条┃🍭",
-      "type":3,
-      "api":"csp_XiaoZhiTiao",
-      "jar":"./jar/fm.jar",
-      "searchable":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
-    },
+  
     {
       "key":"易搜",
       "name":"易搜┃🍭",
@@ -504,15 +458,15 @@
       "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
-      "key": "Gitcafe1",
-      "name": "纸条HK┃🍭",
-      "type": 3,
-      "jar": "./jar/xyq.jar",
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
+      "key":"纸条",
+      "name":"纸条┃🍭",
+      "type":3,
+      "api":"csp_XiaoZhiTiao",
+      "jar":"./jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_Yisou",
@@ -548,18 +502,15 @@
       "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
-      "key": "纸条弹幕版",
-      "name": "纸条DM┃🍭",
+      "key": "Gitcafe1",
+      "name": "纸条HK┃🍭",
       "type": 3,
-      "api": "csp_XiaoZhiTiao",
+      "jar": "./jar/xyq.jar",
+      "api": "csp_Gitcafe",
       "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar"
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
     {
       "key": "易搜弹幕版",
@@ -602,6 +553,56 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar"
+    },
+  {
+      "key": "纸条弹幕版",
+      "name": "纸条DM┃🍭",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+ {
+      "key":"七夜",
+      "name":"七夜┃🍭",
+      "type":3,
+      "api":"csp_Dovx",
+      "jar":"./jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "七夜弹幕版",
+      "name": "七夜DM┃🍭",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "资源HK┃🍭",
+      "type": 3,
+      "api": "csp_AliPS",
+      "jar": "./lxhfans1.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd"
     },
  {
       "key": "路飞磁力",
@@ -784,7 +785,7 @@
     },
     {
       "key": "cc4",
-      "name": "12.18维护更新🍁🍀",
+      "name": "12.19维护更新🍁🍀",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
