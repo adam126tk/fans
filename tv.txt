@@ -307,7 +307,7 @@
     },
  {
       "key": "团长影视",
-      "name": "团长┃网盘",
+      "name": "夸克┃TZ",
       "type": 3,
       "api": "csp_TZFile",
       "jar":"./pg.jar",
@@ -318,7 +318,7 @@
     },
     {
       "key": "校长影视",
-      "name": "校长┃网盘",
+      "name": "夸克┃XZ",
       "type": 3,
       "api": "csp_XiaoZhang",
       "jar":"./pg.jar",
@@ -331,7 +331,7 @@
     },
     {
       "key": "4KHDR网盘",
-      "name": "四开┃网盘",
+      "name": "磁力┃SK",
       "type": 3,
       "api": "csp_FourKHDR",
       "jar":"./pg.jar",
@@ -344,7 +344,7 @@
     },
     {
       "key": "xb6v磁力",
-      "name": "六维┃网盘",
+      "name": "磁力┃LV",
       "type": 3,
       "api": "csp_Xb6v",
       "jar":"./pg.jar",
@@ -357,7 +357,7 @@
     },
     {
       "key": "影巢网盘",
-      "name": "影巢┃网盘",
+      "name": "阿狸┃YC",
       "type": 3,
       "api": "csp_Hdhive",
       "jar":"./pg.jar",
