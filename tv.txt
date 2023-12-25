@@ -251,15 +251,17 @@
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
     },
     {
-      "key": "影巢",
+      "key": "影巢网盘",
       "name": "巢巢┃4K",
       "type": 3,
       "api": "csp_Hdhive",
+      "jar":"./pg.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "jar": "./jar/xry.jar",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./lib/PG推送.json$$$null$$$1",
+      "timeout": 60
     },
     {
      "key": "csp_XBPQ_6V",
@@ -355,20 +357,35 @@
       "ext": "./lib/PG推送.json$$$http://www.xb6v.com$$$null$$$1",
       "timeout": 60
     },
-    {
-      "key": "影巢网盘",
-      "name": "阿狸┃YC",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "jar":"./pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/PG推送.json$$$null$$$1",
-      "timeout": 60
-    },
    {
+            "key": "4K电影采集",
+            "name": "自营|LX ",
+            "type": 1,
+            "api": "http://d.540734621.xyz/api.php/provide/vod/",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "4K电影",
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "动漫",
+                "综艺",
+                "纪录片",
+                "歌舞",
+                "体育"
+            ]
+        },
+       {
       "key": "sohu",
       "name": "搜搜┃(官)",
       "type": 1,
