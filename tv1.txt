@@ -359,7 +359,7 @@
     },
    {
             "key": "4K电影采集",
-            "name": "自营|LX ",
+            "name": "自营┃LX ",
             "type": 1,
             "api": "http://d.540734621.xyz/api.php/provide/vod/",
             "playerType": 2,
