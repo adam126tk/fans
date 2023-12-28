@@ -223,6 +223,7 @@
             "name": "阿狸┃YS",
             "type": 3,
             "api": "csp_Wogg",
+            "jar":"./pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
