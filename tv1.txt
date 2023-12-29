@@ -138,6 +138,7 @@
             "name": "玩偶┃FS",
             "type": 3,
             "api": "csp_WoGG",
+            "jar": "./jar/fty.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
