@@ -14,9 +14,9 @@
 "storeHouse":
 [
 
-{"sourceName":"乐享汇fans主力","sourceUrl":"https://atomgit.com/lxhfans/TV/raw/master/zx.json"},
-{"sourceName":"乐享汇fans备用","sourceUrl":"https://atomgit.com/lxhfans/TV/raw/master/zx1.json"},
-{"sourceName":"乐享汇fans绿茶","sourceUrl":"https://atomgit.com/lxhfans/TV/raw/master/99.json"}
+{"sourceName":"乐享汇fans主力","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/DEMO/master/zx.json"},
+{"sourceName":"乐享汇fans备用","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/DEMO/master/zx1.json"},
+{"sourceName":"乐享汇fans绿茶","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/DEMO/master/99.json"}
 
 ]
 }
