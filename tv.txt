@@ -369,7 +369,6 @@
      {"key":"drpy_js_腾云驾雾","name":"腾腾┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/腾云驾雾.js"},
      {"key":"drpy_js_百忙无果","name":"芒芒┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/百忙无果.js"},
      {"key":"drpy_js_360影视","name":"360┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/360影视.js"},
-     {"key": "VIP影视","name": "自营┃VV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/VIPyingshi.json"}, 
      
     
    
@@ -447,7 +446,7 @@
     },
     {
       "key": "cc4",
-      "name": "01.07维护更新🍁🍀",
+      "name": "01.08维护更新🍁🍀",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
