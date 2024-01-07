@@ -207,28 +207,27 @@
         "分类": "电影$1#剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"
       }
     },
-   {
-            "key": "YSC",
-            "name": "阿狸┃YS",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "./lib/PG推送.json$$$https://www.weixine.net$$$1$$$./json/wogg.json",
-            "timeout": 60
-     },
     {
-      "key": "影巢网盘",
-      "name": "阿狸┃YC",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./lib/PG推送.json$$$null$$$1",
-      "timeout": 60
+      "key":"影视车",
+      "name":"阿狸┃YS",
+      "type":3,
+      "api":"csp_Wogg",
+      "quickSearch":1, 
+      "changeable":1, 
+      "filterable":1, 
+      "timeout":30, 
+      "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"
+    },
+    {
+      "key":"Hdhive",
+      "name":"阿狸┃YC",
+      "type":3,
+      "api":"csp_Hdhive",
+      "quickSearch":1, 
+      "changeable":1, 
+      "filterable":1, 
+      "timeout":30, 
+      "ext":"./lib/tokenm.json$$$null$$$1"
     },
     {
       "key": "Gitcafe1",
@@ -241,7 +240,17 @@
       "jar": "./HeChengChaXiu.jar",
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
     },
-    {"key":"Pan99","name":"阿狸┃PJ","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"},	
+    {
+      "key":"Pan99",
+      "name":"阿狸┃PJ",
+      "type":3,
+      "api":"csp_Pan99",
+      "quickSearch":1, 
+      "changeable":1, 
+      "filterable":1, 
+      "timeout":30, 
+      "ext":"./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
+    },	
     {
      "key": "csp_XBPQ_6V",
      "name": "磁力┃BB",
@@ -310,42 +319,10 @@
     },
     {"key":"Ppxzy","name":"夸克┃PP","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"},
 		{"key":"Libvio","name":"夸克┃LB","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.libvio.pro$$$null"},
-     {
-            "key": "开心HK影视",
-            "name": "自营┃TT",
-            "type": 1,
-            "api": "http://www.ttkx.site/api.php/provide/vod/",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "动作片",
-                "战争片",
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "欧美剧",
-                "国产动漫",
-                "日韩动漫",
-                "港台动漫",
-                "动画片",
-                "短剧",
-                "国产综艺",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "灾难片",
-                "悬疑片",
-                "犯罪片",
-                "奇幻片",
-                "纪录片"
-           ]
-        },
-      {"key": "开心影视","name": "自营┃KX","type": 1,"api": "http://www.ttkx.site:33/api.php/provide/vod/","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","战争片","国产剧","港台剧","日韩剧","欧美剧","国产动漫","动漫","综艺","日韩动漫","港台动漫","动画片","短剧","国产综艺","喜剧片","爱情片","科幻片","恐怖片","剧情片","灾难片","悬疑片","犯罪片","奇幻片","纪录片"]},
-      {
+    {"key": "ytvip","name": "自营┃YT","type": 3,"api": "csp_AppYsV2","ext": "http://wvvipcms.lyyytv.cn:80/api.php/app/","searchable": 1,"changeable": 1},
+    {"key":"开心HK影视","name":"自营┃TT","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心HK影视.json"},
+    {"key":"开心影视","name":"自营┃KX","type":3,"api":"csp_XBPQ","jar":"./ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json"},
+    {
             "key": "996影院",
             "name": "自营┃JL",
             "type": 3,
@@ -353,7 +330,6 @@
             "searchable": 1,
             "changeable": 0
         },
-        {"key": "VIP影视","name": "自营┃VV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/VIPyingshi.json"}, 
        {
       "key": "4KHDR网盘",
       "name": "磁力┃SK",
@@ -393,6 +369,8 @@
      {"key":"drpy_js_腾云驾雾","name":"腾腾┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/腾云驾雾.js"},
      {"key":"drpy_js_百忙无果","name":"芒芒┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/百忙无果.js"},
      {"key":"drpy_js_360影视","name":"360┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/360影视.js"},
+     {"key": "VIP影视","name": "自营┃VV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/VIPyingshi.json"}, 
+     
     
    
      
@@ -469,7 +447,7 @@
     },
     {
       "key": "cc4",
-      "name": "01.06维护更新🍁🍀",
+      "name": "01.07维护更新🍁🍀",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
