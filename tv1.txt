@@ -394,7 +394,6 @@
 		{"key":"YunSo","name":"云搜┃🍭","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
     {"key":"盘搜","name":"盘搜┃🍭","type":3,"api":"csp_PanSou","timeout":30, "ext":"./lib/tokenm.json"},
     {"key":"秒搜","name":"秒搜┃🍭","type":3,"api":"csp_MiaoSou","timeout":30, "ext":"./lib/tokenm.json"},
-    {"key":"混合盘","name":"混合┃🍭","type":3,"api":"csp_HunHePan","timeout":30, "ext":"./lib/tokenm.json"},
     {"key":"PanSearch","name":"盘寻┃🍭","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},	 
     {"key":"Dovx", "name": "七夜┃🍭", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json" },	
     {"key":"YunPanOne","name":"云盘┃🍭","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
@@ -411,6 +410,7 @@
       "changeable": 0,
       "timeout": 60
     },
+    {"key":"混合盘","name":"混合┃🍭","type":3,"api":"csp_HunHePan","timeout":30, "ext":"./lib/tokenm.json"},
     {"key":"Funletu","name":"夸克QP┃🍭","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"QuarkPanso","name":"夸克PS┃🍭","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},	
   {
