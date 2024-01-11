@@ -15,7 +15,15 @@
      },
       "epg": "http://api.cntv.cn/epg/epginfo?serviceId=cbox&c={name}&d={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-     }
+     },
+    {
+      "name": "IPV6",
+      "type": 0,
+      "url": "./ipv6.txt",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.163 Safari/537.36"
+      }}
+
      ],
 
 "sites":[
@@ -330,7 +338,8 @@
             "searchable": 1,
             "changeable": 0
         },
-       {
+		
+    {
       "key": "4KHDR网盘",
       "name": "磁力┃SK",
       "type": 3,
@@ -369,7 +378,6 @@
      {"key":"drpy_js_腾云驾雾","name":"腾腾┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/腾云驾雾.js"},
      {"key":"drpy_js_百忙无果","name":"芒芒┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/百忙无果.js"},
      {"key":"drpy_js_360影视","name":"360┃(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./JS/360影视.js"},
-     
     
    
      
@@ -385,13 +393,24 @@
  		{"key":"易搜","name":"易搜┃🍭","type":3,"api":"csp_YiSo","timeout":30, "ext":"./lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"},
 		{"key":"YunSo","name":"云搜┃🍭","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
     {"key":"盘搜","name":"盘搜┃🍭","type":3,"api":"csp_PanSou","timeout":30, "ext":"./lib/tokenm.json"},
-    {"key":"PanSearch","name":"盘寻┃🍭","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
-
-	 
+    {"key":"秒搜","name":"秒搜┃🍭","type":3,"api":"csp_MiaoSou","timeout":30, "ext":"./lib/tokenm.json"},
+    {"key":"混合盘","name":"混合┃🍭","type":3,"api":"csp_HunHePan","timeout":30, "ext":"./lib/tokenm.json"},
+    {"key":"PanSearch","name":"盘寻┃🍭","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},	 
     {"key":"Dovx", "name": "七夜┃🍭", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json" },	
     {"key":"YunPanOne","name":"云盘┃🍭","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
     {"key":"Gitcafe", "name": "纸条┃🍭", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json" },
 		{"key":"找資源", "name":"資源┃🍭", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json$$$user$$$pass" },
+    {"key":"UP云搜","name":"云搜UP┃🍭","type":3,"api":"csp_UpYun","timeout":30, "ext":"./lib/tokenm.json"}, 
+    {
+      "key": "爱盘搜",
+      "name": "爱盘┃🍭",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/aipanso.js",
+      "quickSearch": 1,
+      "changeable": 0,
+      "timeout": 60
+    },
     {"key":"Funletu","name":"夸克QP┃🍭","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"QuarkPanso","name":"夸克PS┃🍭","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},	
   {
@@ -406,16 +425,7 @@
       "ext": "",
       "timeout": 60
     },
-    {
-      "key": "爱盘搜",
-      "name": "爱盘┃🍭",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/aipanso.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 60
-    },
+ 
 
     {
       "key": "cc1",
@@ -446,7 +456,7 @@
     },
     {
       "key": "cc4",
-      "name": "01.08维护更新🍁🍀",
+      "name": "01.11维护更新🍁🍀",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
