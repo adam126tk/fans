@@ -403,6 +403,18 @@
     {"key":"混合盘","name":"混合┃🍭","type":3,"api":"csp_HunHePan","timeout":30, "ext":"./lib/tokenm.json"},
     {"key":"PikaSo","name":"皮卡┃🍭","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null"},
     {
+      "key": "爱盘搜",
+      "name": "夸克AP┃🍭",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/aipanso.js",
+      "quickSearch": 1,
+      "changeable": 0,
+      "timeout": 60
+    },
+    {"key":"Funletu","name":"夸克QP┃🍭","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
+    {"key":"QuarkPanso","name":"夸克PS┃🍭","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},	
+   {
       "key": "路飞磁力",
       "name": "磁力LF┃🍭",
       "type": 3,
@@ -414,19 +426,7 @@
       "ext": "",
       "timeout": 60
     },
-    {
-      "key": "爱盘搜",
-      "name": "夸克AP┃🍭",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/aipanso.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 60
-    },
-    {"key":"Funletu","name":"夸克QP┃🍭","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
-		{"key":"QuarkPanso","name":"夸克PS┃🍭","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},	
- 
+
 
     {
       "key": "cc1",
